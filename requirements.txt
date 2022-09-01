@@ -1,0 +1,17 @@
+requests
+google-cloud-vision
+pdf2image
+Django
+Pillow
+certifi
+chardet
+idna
+setuptools
+urllib3
+matplotlib
+pandas
+spacy
+opencv-python
+tesseract
+uuid
+pytesseract  
