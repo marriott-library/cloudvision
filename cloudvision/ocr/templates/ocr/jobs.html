@@ -1,0 +1,333 @@
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cloudvision</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/bootstrap.min.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/flexslider.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/fontawesome-all.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/marriott.css' %}">
+    <style>
+        .logout {
+            float:right;
+            padding-right: 5px;
+            font-size:15;
+        }
+
+    </style>
+    <script src="{% static 'mlib-theme/js/jquery.js'%}"></script>
+    <script src="{% static 'mlib-theme/js/bootstrap.bundle.min.js'%}"></script>
+    <script src="{% static 'mlib-theme/js/simplepagination.js' %}"></script>
+</head>
+<body>
+<header>
+    <a id="skip" class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+    <!-- Start Main Nav  -->
+    <div id="Mnav">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="navbar navbar-expand-lg navbar-light"><a class="navbar-brand"
+                                                                            href="https://lib.utah.edu/"><img
+                            src="{% static 'mlib-theme/images/marriott-library-logo.png' %}"
+                            alt="Marriott Library Logo"></a>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Main Nav -->
+</header>
+
+<div class="ml-breadcrumb">
+    <div class="container">
+        <a class="badge badge-secondary logout" href="/logout/" style="margin-top:5">Logout</a>
+        <ul class="breadcrumb">
+            <li class="icon-angle-double-right"><a href="/oai/">OAI</a></li>
+            <li class="icon-angle-double-right"><a href="/import/">Import</a></li>
+            <li class="icon-angle-double-right"><a href="/results/">Results</a></li>
+        </ul>
+    </div>
+</div>
+<!-- Start Main Content -->
+<div class="container mb-3">
+{% block content %}
+
+
+<!--Database Data-->
+<div id="format-box" style="min-height:100%; width:100%; margin-bottom:5%;">
+    <div style=''>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    {% for header in headers %}
+                        <th>{{header}}</th>
+                    {% endfor %}
+                </tr>
+            </thead>
+            <tbody>
+                    <tr>
+                        {% for key, value in vals.items%}
+                        {%if key == "ocr_result"%}
+                        <td><div class="">
+                            <!--DownLoad OCR Button-->
+                            {% if uuid is not null%}
+                            <form action='ocr_download/{{uuid}}' method='GET'>
+                                <div class="buttons" style="padding-bottom: 40px;">
+                                    <button id="modifyButton" name="Modifytag" type="submit" class="btn btn-primary" title=""
+                                            value="Modify">Download
+                                            <span class="spinner-border spinner-border-sm" name="OCRButton" style="display:none">
+                                            </span>
+                                    </button>
+                                </div>
+                            </form>
+                                {% endif %}
+                            </div>
+                        </td>
+                        {%elif key not in "run_start_time,run_end_time"%}
+                        <td>{{value}}</td>{%endif%}
+                        {% endfor %}
+                    </tr>
+            </tbody>
+        </table>
+    <!--Total Processed Files info-->
+    <div class="container">
+        <div class="row">
+            <div class="form-group col-md-6">
+          <label for="ocr_file">Total {{ img_urls|length }}
+              {%if img_urls|length == 1 %}
+                file
+              {% else %}
+                files
+              {% endif %}
+              processed, Select an ocr file to view details:</label>
+          <select class="form-control" id="ocr_file">
+              {% for key in img_urls.keys%}
+                  <option value="{{key}}"> File {{forloop.counter}}</option>
+              {% endfor%}
+          </select>
+        </div>
+        </div>
+    </div>
+    <!--Highlight Info-->
+    <div class="container row">
+
+        <div id="image_results" class="col">
+        </div>
+         <div class="col">
+             <div id="pagination-field" class="container">
+                <ul id="pagination-data" class="pagination-sm "></ul>
+             </div>
+             <div id="ocr_accuracy" >
+                 <!--Accuracy Data-->
+                <table id="ocr_performance" class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <td >Page</td>
+                            <td >Word Accuracy</td>
+                            <td >Char Accuracy</td>
+                            <td >Total Words</td>
+                            <td >Total Not Founds</td>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+                </table>
+             </div>
+             <div id="ocr" ></div>
+
+         </div>
+    </div>
+
+
+
+    </div>
+</div>
+</div>
+
+
+
+{% csrf_token %}
+
+{% endblock %}
+
+
+<!--End
+
+mine -->
+
+<!--define loading spinner and fixed header in table-->
+<style>
+.loading{
+  width: 100%;
+  padding: 1%;
+  padding-top:10%;
+  position: absolute;
+  z-index: 99;
+  text-align: center;
+}
+
+.tableFixHead          { overflow-y: auto; height: 100px; }
+.tableFixHead thead th { position: sticky; top: 0; }
+
+/* Just common table stuff. Really. */
+table  { border-collapse: collapse; width: 100%; }
+th, td { padding: 8px 16px; }
+th     { background:#eee; }
+
+</style>
+<script>
+//Display OCR Information in table
+            function display_ocr_info(page_id,word_accuracy, char_accuracy, total_words, total_errors, errors, ocr){
+                  var data_row = '<tr><td class="page_id">'+ (page_id+1) +'</td><td class="wd_acc">'+ word_accuracy + '%' +'</td>'+
+                            '<td class="ch_acc">'+ char_accuracy  + '%' +'</td>'+
+                            '<td class="t_wd">'+ total_words +'</td>'+
+                            '<td class="t_n_fd">'+  total_errors+'</td></tr>';
+
+                  $('#ocr_performance').find('tbody').append(data_row);
+                  var ocr_row = '<div class="mb-5">'+ocr+ '<p class="text-center font-weight-light">page '+ (page_id+1)+'</p>' +'</div>';
+                  //Display OCR text
+                  $("#ocr").append(ocr_row);
+            }
+
+//Display OCR Image
+            function display_ocr_image(id, page_start = null, page_end = null){
+                var img_str = "<div style='float:left; margin-right:5%; margin-bottom:5%'>";
+                if(page_start != null && page_end != null){
+                    //console.log(page_start, page_end);
+                    for(var i= page_start; i< page_end; i++){
+                          img_str += '<p><img src="'+image_urls[id][i]+'" style="margin-top:1%;" type="image/png" width="100%" height="75%"/>';
+                          img_str += '<p class="text-center font-weight-light">page '+ (i+1)+'</p>';
+                    }
+                }
+                else
+                  for(var i=0; i< image_urls[id].length; i++){
+                        img_str += '<p><img src="'+image_urls[id][i]+'" style="margin-top:1%;" type="image/png" width="100%" height="75%"/>';
+                        img_str += '<p class="text-center font-weight-light">page '+ (i+1)+'</p>';
+                  }
+                img_str +="</div>";
+                  $('#image_results').html(img_str);
+
+            }
+
+//Pagination
+            load = function (ocr_data, id=null) {
+
+                        var adjust = 5;
+                        var pagenumbertoshow = 12;
+                        var itemscount = ocr_data.length;
+                        $('#pagination-data').twbsPagination('destroy');
+                        $('#pagination-data').twbsPagination({
+                            totalPages: Math.ceil(itemscount / adjust) != 0 ? Math.ceil(itemscount / adjust) : 1,
+                            visiblePages: pagenumbertoshow,
+                            hideOnlyOnePage: true,
+                            onPageClick: function (event, page) {
+                                //custom paging logic here
+                                var start_page = adjust * (page - 1);
+                                var end_page = ((start_page + adjust) > itemscount)?(itemscount):(start_page + adjust);
+                                //Clear OCR Performance Display
+                                $('#ocr_performance').find('tbody').html("");
+                                $("#ocr").html("");
+                                //console.log(start_page, end_page);
+                                for (var page_id = start_page; page_id < end_page; page_id++) {
+                                        //console.log(ocr_data[page_id]);
+                                        var word_accuracy = ocr_data[page_id].word_accuracy;
+                                        var char_accuracy = ocr_data[page_id].char_accuracy;
+                                        var total_words = ocr_data[page_id].total_words;
+                                        var total_errors = ocr_data[page_id].not_found;
+                                        var errors = ocr_data[page_id].errors;
+                                        var ocr = ocr_data[page_id].ocr;
+                                        var error_lists = errors.split(",");
+                                //highlight errors in orange
+                                for(var i=0; i< error_lists.length; i++){
+                                    var replace = error_lists[i]+"(?=\\W)";
+                                    try {
+                                         var re = new RegExp(replace,"gm");
+                                      } catch (error) {
+                                       var re = false;
+                                       ocr  = ocr.replace(error_lists[i], '<text style="background-color:#FF4500">'+error_lists[i]+'</text>');
+                                     }
+                                    if(re == false)
+                                      continue;
+
+                                    var matches = ocr.matchAll(re);
+                                    var list = Array.from(matches);
+                                    var offset = 0;
+                                    for(var j=0; j< list.length; j++){
+                                      if( list[j].index == 0 || (list[j].index-1 >= 0  && ocr[list[j].index-1 + offset].match(/[a-z]/i) == null)){
+                                           var start =ocr.substring(0, list[j].index + offset);
+                                           var end = ocr.substring(list[j].index + list[j][0].length + offset);
+                                           var replacement = '<text style="background-color:#FF4500">'+error_lists[i]+'</text>';
+                                           ocr = start + replacement +end;
+                                           offset += replacement.length - list[j][0].length;
+                                           //offset += replacement.length - error_lists[i].length;
+                                      }
+                                  }
+                                }
+                                display_ocr_info(page_id,word_accuracy, char_accuracy, total_words, total_errors, errors, ocr);
+                                }
+                                display_ocr_image(id, start_page, end_page);
+                            }
+                        });
+                    }
+
+    //Get data by Id test Ajax Call
+    var ocr_data = [];
+    get_item_by_id({{job_id}});
+
+//Get image Urls from view data
+var image_urls = "{{img_urls}}";
+//Handle URL Encode
+image_urls = image_urls.replaceAll("&#x27;","\"");
+image_urls = JSON.parse(image_urls);
+function get_item_by_id(id){
+    url = "{{ request.scheme }}://{{ request.get_host }}/get/"+id;
+    //Load Data using Ajax call
+    $.ajax({
+        url: url,
+        success: function(data){
+          ocr_result = (data.ocr_result);
+          ocr_results = JSON.parse(ocr_result);
+          for(var i=0; i < ocr_results.length; i++){
+            ocr_id = ocr_results[i].output_id;
+            var obj = ocr_results[i].ocr_analyse_results[0];
+            if(ocr_data[ocr_id] == null)
+                ocr_data[ocr_id] = [];
+            ocr_data[ocr_id].push(obj);
+          }
+          //Load that into pagination results
+          load(ocr_data[Object.keys(ocr_data)[0]],Object.keys(ocr_data)[0]);
+
+          //Update image on select box
+            $('#ocr_file').change(function(){
+              //Clear OCR Performance Display
+              $('#ocr_performance').find('tbody').html("");
+              $("#ocr").html("");
+              id = (ocr_data[$(this).val()],$(this).val());
+              //Load Pagination
+              load(ocr_data[id], id);
+            });
+          }
+    });
+}
+
+
+
+
+</script>
+<!-- End Main Content -->
+<!-- Start Footer -->
+<footer style="position:relative">
+    <div class="container">
+        <div class="row">
+            <div class="col"><img
+                    src="{% static 'mlib-theme/images/marriottLibrary-logo-footer.png' %}"
+                    alt="Marriott Library Logo"></div>
+        </div>
+    </div>
+</footer><!-- End Footer -->
+
+
+</body>
+</html>

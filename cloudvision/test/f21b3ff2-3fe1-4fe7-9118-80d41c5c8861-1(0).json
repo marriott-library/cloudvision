@@ -1,0 +1,3414 @@
+{
+    "data": [
+        {
+            "boundingBox": "49,43,761,74",
+            "text": "DESERET"
+        },
+        {
+            "boundingBox": "864,44,399,74",
+            "text": "NE\"\""
+        },
+        {
+            "boundingBox": "1274,46,114,73",
+            "text": "S."
+        },
+        {
+            "boundingBox": "258,163,70,13",
+            "text": "ens."
+        },
+        {
+            "boundingBox": "421,162,29,13",
+            "text": "G."
+        },
+        {
+            "boundingBox": "462,163,24,12",
+            "text": "S."
+        },
+        {
+            "boundingBox": "539,161,86,16",
+            "text": "CITY,"
+        },
+        {
+            "boundingBox": "904,161,39,16",
+            "text": "25,"
+        },
+        {
+            "boundingBox": "269,199,59,13",
+            "text": "LON."
+        },
+        {
+            "boundingBox": "443,199,37,13",
+            "text": "34\""
+        },
+        {
+            "boundingBox": "51,200,56,14",
+            "text": "LAT."
+        },
+        {
+            "boundingBox": "119,200,35,13",
+            "text": "400"
+        },
+        {
+            "boundingBox": "166,200,29,13",
+            "text": "43'"
+        },
+        {
+            "boundingBox": "208,200,34,13",
+            "text": "44\""
+        },
+        {
+            "boundingBox": "147,239,221,16",
+            "text": "PROSPECTUS."
+        },
+        {
+            "boundingBox": "75,265,206,30",
+            "text": "DESERET"
+        },
+        {
+            "boundingBox": "306,265,142,29",
+            "text": "NEVIS."
+        },
+        {
+            "boundingBox": "285,307,46,11",
+            "text": "AND"
+        },
+        {
+            "boundingBox": "342,301,122,17",
+            "text": "LIBERTY.'"
+        },
+        {
+            "boundingBox": "72,328,45,16",
+            "text": "We"
+        },
+        {
+            "boundingBox": "134,333,98,16",
+            "text": "propose"
+        },
+        {
+            "boundingBox": "250,331,26,13",
+            "text": "to"
+        },
+        {
+            "boundingBox": "286,328,91,20",
+            "text": "publish"
+        },
+        {
+            "boundingBox": "388,332,15,12",
+            "text": "a"
+        },
+        {
+            "boundingBox": "412,327,66,17",
+            "text": "small"
+        },
+        {
+            "boundingBox": "42,350,92,21",
+            "text": "sceekty"
+        },
+        {
+            "boundingBox": "145,351,72,19",
+            "text": "sheet,"
+        },
+        {
+            "boundingBox": "229,355,25,12",
+            "text": "as"
+        },
+        {
+            "boundingBox": "265,350,61,21",
+            "text": "large"
+        },
+        {
+            "boundingBox": "343,355,26,11",
+            "text": "as"
+        },
+        {
+            "boundingBox": "384,355,41,12",
+            "text": "our"
+        },
+        {
+            "boundingBox": "445,350,35,16",
+            "text": "lo\u2014"
+        },
+        {
+            "boundingBox": "38,372,36,17",
+            "text": "cal"
+        },
+        {
+            "boundingBox": "91,373,181,18",
+            "text": "Circurnstances"
+        },
+        {
+            "boundingBox": "307,373,23,16",
+            "text": "ill"
+        },
+        {
+            "boundingBox": "342,373,90,20",
+            "text": "perrnit,"
+        },
+        {
+            "boundingBox": "454,376,24,13",
+            "text": "to"
+        },
+        {
+            "boundingBox": "39,397,28,15",
+            "text": "be"
+        },
+        {
+            "boundingBox": "88,396,74,16",
+            "text": "called"
+        },
+        {
+            "boundingBox": "186,396,115,16",
+            "text": "\"Deserct"
+        },
+        {
+            "boundingBox": "323,395,94,21",
+            "text": "News,\""
+        },
+        {
+            "boundingBox": "438,395,41,17",
+            "text": "de-"
+        },
+        {
+            "boundingBox": "37,419,83,20",
+            "text": "signed"
+        },
+        {
+            "boundingBox": "128,418,119,21",
+            "text": "originally"
+        },
+        {
+            "boundingBox": "257,421,23,14",
+            "text": "to"
+        },
+        {
+            "boundingBox": "286,418,77,17",
+            "text": "record"
+        },
+        {
+            "boundingBox": "372,418,37,17",
+            "text": "the"
+        },
+        {
+            "boundingBox": "418,423,60,16",
+            "text": "pass\u2014"
+        },
+        {
+            "boundingBox": "37,442,38,20",
+            "text": "in."
+        },
+        {
+            "boundingBox": "86,445,82,13",
+            "text": "events"
+        },
+        {
+            "boundingBox": "178,441,25,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "209,447,41,11",
+            "text": "our"
+        },
+        {
+            "boundingBox": "258,441,71,20",
+            "text": "State,"
+        },
+        {
+            "boundingBox": "338,441,43,16",
+            "text": "and"
+        },
+        {
+            "boundingBox": "391,442,23,15",
+            "text": "in"
+        },
+        {
+            "boundingBox": "423,446,55,11",
+            "text": "con\u2014"
+        },
+        {
+            "boundingBox": "37,464,94,19",
+            "text": "nexioa,"
+        },
+        {
+            "boundingBox": "142,464,59,17",
+            "text": "refer"
+        },
+        {
+            "boundingBox": "213,468,21,13",
+            "text": "to"
+        },
+        {
+            "boundingBox": "243,464,40,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "294,467,45,13",
+            "text": "arts"
+        },
+        {
+            "boundingBox": "347,464,53,16",
+            "text": "and."
+        },
+        {
+            "boundingBox": "404,464,73,16",
+            "text": "scien-"
+        },
+        {
+            "boundingBox": "36,492,47,15",
+            "text": "ces,"
+        },
+        {
+            "boundingBox": "94,487,133,21",
+            "text": "embracing"
+        },
+        {
+            "boundingBox": "244,487,89,20",
+            "text": "gee-aeral"
+        },
+        {
+            "boundingBox": "346,487,130,19",
+            "text": "education,"
+        },
+        {
+            "boundingBox": "40,509,123,21",
+            "text": "medicine,"
+        },
+        {
+            "boundingBox": "174,510,54,20",
+            "text": "law,"
+        },
+        {
+            "boundingBox": "239,509,107,21",
+            "text": "divinity,"
+        },
+        {
+            "boundingBox": "366,509,111,16",
+            "text": "dornestic"
+        },
+        {
+            "boundingBox": "38,532,47,16",
+            "text": ":and"
+        },
+        {
+            "boundingBox": "102,533,55,21",
+            "text": "polit"
+        },
+        {
+            "boundingBox": "162,532,42,17",
+            "text": "ical"
+        },
+        {
+            "boundingBox": "220,537,122,16",
+            "text": "econorny,"
+        },
+        {
+            "boundingBox": "354,532,44,16",
+            "text": "arid"
+        },
+        {
+            "boundingBox": "407,537,69,15",
+            "text": "every"
+        },
+        {
+            "boundingBox": "40,555,66,21",
+            "text": "thing"
+        },
+        {
+            "boundingBox": "118,555,52,16",
+            "text": "that"
+        },
+        {
+            "boundingBox": "181,560,54,16",
+            "text": "may"
+        },
+        {
+            "boundingBox": "247,554,40,17",
+            "text": "fall"
+        },
+        {
+            "boundingBox": "298,554,73,17",
+            "text": "under"
+        },
+        {
+            "boundingBox": "380,560,42,11",
+            "text": "our"
+        },
+        {
+            "boundingBox": "438,555,38,16",
+            "text": "ob-"
+        },
+        {
+            "boundingBox": "37,578,125,20",
+            "text": "servation,"
+        },
+        {
+            "boundingBox": "176,578,75,16",
+            "text": "wltieh"
+        },
+        {
+            "boundingBox": "264,583,53,15",
+            "text": "ruay"
+        },
+        {
+            "boundingBox": "328,577,53,17",
+            "text": "tend"
+        },
+        {
+            "boundingBox": "394,581,24,13",
+            "text": "to"
+        },
+        {
+            "boundingBox": "429,583,48,16",
+            "text": "pro\u2014"
+        },
+        {
+            "boundingBox": "38,604,64,12",
+            "text": "mote"
+        },
+        {
+            "boundingBox": "122,601,41,15",
+            "text": "the"
+        },
+        {
+            "boundingBox": "182,601,49,16",
+            "text": "best"
+        },
+        {
+            "boundingBox": "252,601,101,16",
+            "text": "interest."
+        },
+        {
+            "boundingBox": "376,600,100,20",
+            "text": "wellhre,"
+        },
+        {
+            "boundingBox": "39,623,102,21",
+            "text": "pleasure"
+        },
+        {
+            "boundingBox": "150,624,47,15",
+            "text": "and"
+        },
+        {
+            "boundingBox": "204,626,143,14",
+            "text": "amusement"
+        },
+        {
+            "boundingBox": "357,623,25,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "389,628,41,11",
+            "text": "our"
+        },
+        {
+            "boundingBox": "437,622,40,17",
+            "text": "fel-"
+        },
+        {
+            "boundingBox": "98,646,102,16",
+            "text": "citizens."
+        },
+        {
+            "boundingBox": "71,668,45,17",
+            "text": "We"
+        },
+        {
+            "boundingBox": "138,668,56,17",
+            "text": "hold"
+        },
+        {
+            "boundingBox": "213,668,115,17",
+            "text": "ourselves"
+        },
+        {
+            "boundingBox": "339,668,138,22",
+            "text": "responsible"
+        },
+        {
+            "boundingBox": "39,694,25,13",
+            "text": "to"
+        },
+        {
+            "boundingBox": "82,692,38,15",
+            "text": "the"
+        },
+        {
+            "boundingBox": "137,692,93,20",
+            "text": "highest"
+        },
+        {
+            "boundingBox": "242,692,70,16",
+            "text": "Court"
+        },
+        {
+            "boundingBox": "331,691,26,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "364,692,62,16",
+            "text": "truth"
+        },
+        {
+            "boundingBox": "443,691,35,16",
+            "text": "for"
+        },
+        {
+            "boundingBox": "50,719,31,11",
+            "text": "\u2022ur"
+        },
+        {
+            "boundingBox": "101,714,73,16",
+            "text": "intent"
+        },
+        {
+            "boundingBox": "257,714,45,16",
+            "text": "and"
+        },
+        {
+            "boundingBox": "325,714,38,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "39,737,71,16",
+            "text": "Court"
+        },
+        {
+            "boundingBox": "124,737,26,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "157,737,81,21",
+            "text": "or:uity"
+        },
+        {
+            "boundingBox": "296,742,41,11",
+            "text": "our"
+        },
+        {
+            "boundingBox": "347,737,128,16",
+            "text": "exceutiov."
+        },
+        {
+            "boundingBox": "42,759,25,15",
+            "text": "W"
+        },
+        {
+            "boundingBox": "72,759,45,16",
+            "text": "hen"
+        },
+        {
+            "boundingBox": "136,764,35,11",
+            "text": "we"
+        },
+        {
+            "boundingBox": "183,760,77,20",
+            "text": "speak,"
+        },
+        {
+            "boundingBox": "280,764,35,11",
+            "text": "we"
+        },
+        {
+            "boundingBox": "330,759,57,16",
+            "text": "shall"
+        },
+        {
+            "boundingBox": "408,759,68,21",
+            "text": "speak"
+        },
+        {
+            "boundingBox": "40,782,81,21",
+            "text": "freely,"
+        },
+        {
+            "boundingBox": "134,783,99,15",
+            "text": "without"
+        },
+        {
+            "boundingBox": "245,782,78,16",
+            "text": "recaz\u2022d"
+        },
+        {
+            "boundingBox": "341,784,23,14",
+            "text": "to"
+        },
+        {
+            "boundingBox": "454,787,23,11",
+            "text": "or"
+        },
+        {
+            "boundingBox": "41,807,74,19",
+            "text": "party,"
+        },
+        {
+            "boundingBox": "124,805,45,16",
+            "text": "and"
+        },
+        {
+            "boundingBox": "273,805,45,15",
+            "text": "like"
+        },
+        {
+            "boundingBox": "336,804,65,16",
+            "text": "other"
+        },
+        {
+            "boundingBox": "42,832,34,11",
+            "text": "we"
+        },
+        {
+            "boundingBox": "87,832,42,16",
+            "text": "err,"
+        },
+        {
+            "boundingBox": "145,828,31,16",
+            "text": "let"
+        },
+        {
+            "boundingBox": "189,828,48,16",
+            "text": "him"
+        },
+        {
+            "boundingBox": "254,827,54,17",
+            "text": "who"
+        },
+        {
+            "boundingBox": "320,828,41,15",
+            "text": "has"
+        },
+        {
+            "boundingBox": "373,827,34,16",
+            "text": "lais"
+        },
+        {
+            "boundingBox": "423,832,54,15",
+            "text": "eyes"
+        },
+        {
+            "boundingBox": "40,855,67,16",
+            "text": "open,"
+        },
+        {
+            "boundingBox": "120,854,85,13",
+            "text": "em-rect"
+        },
+        {
+            "boundingBox": "216,856,27,11",
+            "text": "us"
+        },
+        {
+            "boundingBox": "259,850,24,16",
+            "text": "in"
+        },
+        {
+            "boundingBox": "295,850,126,20",
+            "text": "rneekness,"
+        },
+        {
+            "boundingBox": "433,849,44,17",
+            "text": "and"
+        },
+        {
+            "boundingBox": "40,873,29,16",
+            "text": "he"
+        },
+        {
+            "boundingBox": "76,873,58,16",
+            "text": "shall"
+        },
+        {
+            "boundingBox": "144,873,88,16",
+            "text": "receive"
+        },
+        {
+            "boundingBox": "242,878,13,11",
+            "text": "a"
+        },
+        {
+            "boundingBox": "262,873,114,21",
+            "text": "disciple's"
+        },
+        {
+            "boundingBox": "383,872,93,17",
+            "text": "re.vvard."
+        },
+        {
+            "boundingBox": "73,895,44,17",
+            "text": "We"
+        },
+        {
+            "boundingBox": "130,896,56,16",
+            "text": "shall"
+        },
+        {
+            "boundingBox": "206,901,54,11",
+            "text": "ever"
+        },
+        {
+            "boundingBox": "278,896,50,15",
+            "text": "take"
+        },
+        {
+            "boundingBox": "341,895,101,21",
+            "text": "pleasnre"
+        },
+        {
+            "boundingBox": "454,895,6,16",
+            "text": "i"
+        },
+        {
+            "boundingBox": "464,900,12,11",
+            "text": "11"
+        },
+        {
+            "boundingBox": "29,928,5,6",
+            "text": "\u2022"
+        },
+        {
+            "boundingBox": "39,919,198,16",
+            "text": "eon-nnnnic.atinr\u2022r"
+        },
+        {
+            "boundingBox": "259,918,88,18",
+            "text": "foreign"
+        },
+        {
+            "boundingBox": "370,923,64,11",
+            "text": "news:"
+        },
+        {
+            "boundingBox": "454,923,24,11",
+            "text": "as"
+        },
+        {
+            "boundingBox": "43,946,33,11",
+            "text": "we"
+        },
+        {
+            "boundingBox": "87,941,58,16",
+            "text": "have"
+        },
+        {
+            "boundingBox": "157,941,155,21",
+            "text": "opportunity;"
+        },
+        {
+            "boundingBox": "330,941,23,16",
+            "text": "in"
+        },
+        {
+            "boundingBox": "362,940,115,21",
+            "text": "receiviug"
+        },
+        {
+            "boundingBox": "39,964,209,16",
+            "text": "cern:nunicatinns"
+        },
+        {
+            "boundingBox": "264,963,58,17",
+            "text": "from"
+        },
+        {
+            "boundingBox": "333,968,41,12",
+            "text": "onr"
+        },
+        {
+            "boundingBox": "386,963,91,21",
+            "text": "friends,"
+        },
+        {
+            "boundingBox": "40,990,23,13",
+            "text": "at"
+        },
+        {
+            "boundingBox": "74,987,67,16",
+            "text": "home"
+        },
+        {
+            "boundingBox": "151,987,43,16",
+            "text": "and"
+        },
+        {
+            "boundingBox": "205,987,90,19",
+            "text": "abroad;"
+        },
+        {
+            "boundingBox": "305,986,44,17",
+            "text": "a.'ld"
+        },
+        {
+            "boundingBox": "360,986,73,16",
+            "text": "solicit"
+        },
+        {
+            "boundingBox": "443,991,34,11",
+            "text": "or\u2014"
+        },
+        {
+            "boundingBox": "155,1009,33,17",
+            "text": "for"
+        },
+        {
+            "boundingBox": "199,1010,37,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "250,1009,101,17",
+            "text": "\"Nncs\""
+        },
+        {
+            "boundingBox": "363,1008,58,17",
+            "text": "from"
+        },
+        {
+            "boundingBox": "437,1013,41,12",
+            "text": "our"
+        },
+        {
+            "boundingBox": "116,1032,44,16",
+            "text": "and"
+        },
+        {
+            "boundingBox": "170,1035,121,18",
+            "text": "poetesses."
+        },
+        {
+            "boundingBox": "74,1055,54,16",
+            "text": "The"
+        },
+        {
+            "boundingBox": "140,1055,47,16",
+            "text": "Erst"
+        },
+        {
+            "boundingBox": "316,1059,54,15",
+            "text": "may"
+        },
+        {
+            "boundingBox": "389,1054,28,16",
+            "text": "be"
+        },
+        {
+            "boundingBox": "438,1059,39,11",
+            "text": "ex-"
+        },
+        {
+            "boundingBox": "41,1078,82,19",
+            "text": "vected"
+        },
+        {
+            "boundingBox": "134,1083,24,10",
+            "text": "as"
+        },
+        {
+            "boundingBox": "174,1077,62,21",
+            "text": "early"
+        },
+        {
+            "boundingBox": "259,1077,24,16",
+            "text": "in"
+        },
+        {
+            "boundingBox": "304,1077,59,17",
+            "text": "June"
+        },
+        {
+            "boundingBox": "382,1082,25,11",
+            "text": "as"
+        },
+        {
+            "boundingBox": "424,1077,53,16",
+            "text": "sub-"
+        },
+        {
+            "boundingBox": "41,1100,69,21",
+            "text": "script"
+        },
+        {
+            "boundingBox": "114,1101,49,15",
+            "text": "ions"
+        },
+        {
+            "boundingBox": "182,1100,48,16",
+            "text": "will"
+        },
+        {
+            "boundingBox": "252,1099,225,21",
+            "text": "wzvcrant\u2014waiting"
+        },
+        {
+            "boundingBox": "44,1123,38,15",
+            "text": "the"
+        },
+        {
+            "boundingBox": "90,1126,35,13",
+            "text": "act"
+        },
+        {
+            "boundingBox": "131,1123,36,16",
+            "text": "ion"
+        },
+        {
+            "boundingBox": "180,1123,25,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "214,1123,45,15",
+            "text": "300"
+        },
+        {
+            "boundingBox": "268,1122,144,17",
+            "text": "subscribers."
+        },
+        {
+            "boundingBox": "75,1145,91,21",
+            "text": "Tcrrns,"
+        },
+        {
+            "boundingBox": "201,1145,100,21",
+            "text": "nucilith.s,"
+        },
+        {
+            "boundingBox": "314,1145,40,21",
+            "text": "*-2,"
+        },
+        {
+            "boundingBox": "357,1145,36,21",
+            "text": "50;"
+        },
+        {
+            "boundingBox": "411,1145,68,16",
+            "text": "iava\u2014"
+        },
+        {
+            "boundingBox": "131,1169,24,15",
+            "text": "in"
+        },
+        {
+            "boundingBox": "74,1191,81,20",
+            "text": "Single"
+        },
+        {
+            "boundingBox": "167,1196,66,15",
+            "text": "copy,"
+        },
+        {
+            "boundingBox": "253,1191,29,15",
+            "text": "13"
+        },
+        {
+            "boundingBox": "293,1193,70,13",
+            "text": "cents."
+        },
+        {
+            "boundingBox": "75,1214,155,20",
+            "text": "Advertising,"
+        },
+        {
+            "boundingBox": "248,1213,16,20",
+            "text": "e"
+        },
+        {
+            "boundingBox": "269,1214,52,19",
+            "text": "1,50"
+        },
+        {
+            "boundingBox": "344,1218,40,16",
+            "text": "per"
+        },
+        {
+            "boundingBox": "400,1217,80,16",
+            "text": "square"
+        },
+        {
+            "boundingBox": "46,1236,5,16",
+            "text": "I"
+        },
+        {
+            "boundingBox": "56,1236,53,20",
+            "text": "ines,"
+        },
+        {
+            "boundingBox": "125,1236,45,16",
+            "text": "nod"
+        },
+        {
+            "boundingBox": "184,1237,30,15",
+            "text": "50"
+        },
+        {
+            "boundingBox": "225,1236,56,16",
+            "text": "each"
+        },
+        {
+            "boundingBox": "293,1236,134,20",
+            "text": "succeeding"
+        },
+        {
+            "boundingBox": "445,1236,35,15",
+            "text": "in\u2014"
+        },
+        {
+            "boundingBox": "42,1259,94,16",
+            "text": "sertiou."
+        },
+        {
+            "boundingBox": "213,1259,35,16",
+            "text": "for"
+        },
+        {
+            "boundingBox": "259,1258,51,17",
+            "text": "half"
+        },
+        {
+            "boundingBox": "317,1264,15,11",
+            "text": "s:"
+        },
+        {
+            "boundingBox": "336,1263,68,16",
+            "text": "juare,"
+        },
+        {
+            "boundingBox": "420,1263,25,11",
+            "text": "er"
+        },
+        {
+            "boundingBox": "464,1258,16,16",
+            "text": "S"
+        },
+        {
+            "boundingBox": "44,1283,5,15",
+            "text": "i"
+        },
+        {
+            "boundingBox": "54,1283,54,15",
+            "text": "ir:es."
+        },
+        {
+            "boundingBox": "43,1328,32,14",
+            "text": "23"
+        },
+        {
+            "boundingBox": "85,1330,63,13",
+            "text": "cents"
+        },
+        {
+            "boundingBox": "160,1332,38,16",
+            "text": "per"
+        },
+        {
+            "boundingBox": "209,1331,68,17",
+            "text": "copy,"
+        },
+        {
+            "boundingBox": "294,1326,56,16",
+            "text": "with"
+        },
+        {
+            "boundingBox": "360,1326,41,17",
+            "text": "the"
+        },
+        {
+            "boundingBox": "408,1326,73,16",
+            "text": "inser\u2014"
+        },
+        {
+            "boundingBox": "112,1349,24,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "145,1349,59,16",
+            "text": "their"
+        },
+        {
+            "boundingBox": "215,1354,86,14",
+            "text": "names,"
+        },
+        {
+            "boundingBox": "314,1349,62,21",
+            "text": "place"
+        },
+        {
+            "boundingBox": "389,1348,25,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "423,1348,58,16",
+            "text": ".resi\u2014"
+        },
+        {
+            "boundingBox": "136,1372,53,16",
+            "text": "time"
+        },
+        {
+            "boundingBox": "201,1372,27,17",
+            "text": "of"
+        },
+        {
+            "boundingBox": "235,1371,81,17",
+            "text": "arrival"
+        },
+        {
+            "boundingBox": "325,1371,45,17",
+            "text": "and"
+        },
+        {
+            "boundingBox": "381,1371,97,22",
+            "text": "leaving."
+        },
+        {
+            "boundingBox": "497,191,138,21",
+            "text": "Companies"
+        },
+        {
+            "boundingBox": "642,188,27,19",
+            "text": "bf"
+        },
+        {
+            "boundingBox": "672,188,38,23",
+            "text": "\u2022O,"
+        },
+        {
+            "boundingBox": "719,192,43,16",
+            "text": "and"
+        },
+        {
+            "boundingBox": "772,191,114,21",
+            "text": "upwards,"
+        },
+        {
+            "boundingBox": "895,196,39,11",
+            "text": "cn\u2014"
+        },
+        {
+            "boundingBox": "497,214,63,16",
+            "text": "tered"
+        },
+        {
+            "boundingBox": "568,217,24,13",
+            "text": "at"
+        },
+        {
+            "boundingBox": "602,219,65,15",
+            "text": "once,"
+        },
+        {
+            "boundingBox": "678,214,32,16",
+            "text": "20"
+        },
+        {
+            "boundingBox": "720,217,66,14",
+            "text": "cents"
+        },
+        {
+            "boundingBox": "795,214,64,16",
+            "text": "each."
+        },
+        {
+            "boundingBox": "530,237,21,16",
+            "text": "A"
+        },
+        {
+            "boundingBox": "563,242,66,16",
+            "text": "paper"
+        },
+        {
+            "boundingBox": "640,237,50,16",
+            "text": "that"
+        },
+        {
+            "boundingBox": "707,237,20,16",
+            "text": "is"
+        },
+        {
+            "boundingBox": "739,237,73,16",
+            "text": "worth"
+        },
+        {
+            "boundingBox": "824,237,109,21",
+            "text": "printing,"
+        },
+        {
+            "boundingBox": "497,260,20,16",
+            "text": "is"
+        },
+        {
+            "boundingBox": "525,259,75,17",
+            "text": "worth"
+        },
+        {
+            "boundingBox": "612,260,137,21",
+            "text": "preserving;"
+        },
+        {
+            "boundingBox": "765,259,21,17",
+            "text": "if"
+        },
+        {
+            "boundingBox": "795,260,75,16",
+            "text": "worth"
+        },
+        {
+            "boundingBox": "885,264,48,17",
+            "text": "pre-"
+        },
+        {
+            "boundingBox": "497,283,100,20",
+            "text": "serving,"
+        },
+        {
+            "boundingBox": "614,282,18,17",
+            "text": "it"
+        },
+        {
+            "boundingBox": "651,283,21,16",
+            "text": "is"
+        },
+        {
+            "boundingBox": "690,283,74,16",
+            "text": "worth"
+        },
+        {
+            "boundingBox": "776,282,104,21",
+            "text": "binding;"
+        },
+        {
+            "boundingBox": "900,282,34,17",
+            "text": "for"
+        },
+        {
+            "boundingBox": "497,305,48,16",
+            "text": "this"
+        },
+        {
+            "boundingBox": "555,310,95,17",
+            "text": "purpose"
+        },
+        {
+            "boundingBox": "661,310,37,11",
+            "text": "we"
+        },
+        {
+            "boundingBox": "710,305,59,16",
+            "text": "issue"
+        },
+        {
+            "boundingBox": "781,305,24,16",
+            "text": "in"
+        },
+        {
+            "boundingBox": "817,305,116,21",
+            "text": "pamphlet"
+        },
+        {
+            "boundingBox": "496,328,67,20",
+            "text": "form;"
+        },
+        {
+            "boundingBox": "572,328,45,16",
+            "text": "and"
+        },
+        {
+            "boundingBox": "627,327,19,17",
+            "text": "if"
+        },
+        {
+            "boundingBox": "653,332,71,16",
+            "text": "every"
+        },
+        {
+            "boundingBox": "732,328,127,16",
+            "text": "subscriber"
+        },
+        {
+            "boundingBox": "875,328,58,16",
+            "text": "shall"
+        },
+        {
+            "boundingBox": "498,355,102,17",
+            "text": "preserve"
+        },
+        {
+            "boundingBox": "609,350,56,17",
+            "text": "each"
+        },
+        {
+            "boundingBox": "675,355,61,17",
+            "text": "copy"
+        },
+        {
+            "boundingBox": "744,350,26,17",
+            "text": "of"
+        },
+        {
+            "boundingBox": "776,351,40,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "825,350,48,17",
+            "text": "\"Ne"
+        },
+        {
+            "boundingBox": "877,351,56,19",
+            "text": "vs,\""
+        },
+        {
+            "boundingBox": "496,372,45,17",
+            "text": "and"
+        },
+        {
+            "boundingBox": "549,372,55,17",
+            "text": "bind"
+        },
+        {
+            "boundingBox": "616,373,18,16",
+            "text": "it"
+        },
+        {
+            "boundingBox": "644,376,24,13",
+            "text": "at"
+        },
+        {
+            "boundingBox": "677,373,39,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "726,373,62,16",
+            "text": "close"
+        },
+        {
+            "boundingBox": "800,372,26,17",
+            "text": "of"
+        },
+        {
+            "boundingBox": "835,373,38,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "885,373,48,16",
+            "text": "vol-"
+        },
+        {
+            "boundingBox": "570,396,59,18",
+            "text": "their"
+        },
+        {
+            "boundingBox": "637,395,123,17",
+            "text": "children's"
+        },
+        {
+            "boundingBox": "768,395,104,17",
+            "text": "children"
+        },
+        {
+            "boundingBox": "879,401,54,16",
+            "text": "may"
+        },
+        {
+            "boundingBox": "496,418,53,16",
+            "text": "read"
+        },
+        {
+            "boundingBox": "566,418,39,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "625,418,82,21",
+            "text": "doings"
+        },
+        {
+            "boundingBox": "726,418,27,17",
+            "text": "of"
+        },
+        {
+            "boundingBox": "770,418,61,17",
+            "text": "their"
+        },
+        {
+            "boundingBox": "840,418,92,21",
+            "text": "fathers,"
+        },
+        {
+            "boundingBox": "497,441,74,16",
+            "text": "which"
+        },
+        {
+            "boundingBox": "581,441,123,16",
+            "text": "otherwise"
+        },
+        {
+            "boundingBox": "712,442,75,21",
+            "text": "might"
+        },
+        {
+            "boundingBox": "803,441,58,17",
+            "text": "have"
+        },
+        {
+            "boundingBox": "875,442,58,16",
+            "text": "been"
+        },
+        {
+            "boundingBox": "497,464,121,21",
+            "text": "forgotten;"
+        },
+        {
+            "boundingBox": "635,469,55,16",
+            "text": "ages"
+        },
+        {
+            "boundingBox": "702,467,24,14",
+            "text": "to"
+        },
+        {
+            "boundingBox": "737,469,71,12",
+            "text": "come."
+        },
+        {
+            "boundingBox": "600,509,29,16",
+            "text": "U."
+        },
+        {
+            "boundingBox": "648,509,25,17",
+            "text": "S."
+        },
+        {
+            "boundingBox": "691,509,138,17",
+            "text": "SENATE."
+        },
+        {
+            "boundingBox": "529,532,103,16",
+            "text": "\"Sketch"
+        },
+        {
+            "boundingBox": "642,532,26,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "676,532,104,20",
+            "text": "debate,\""
+        },
+        {
+            "boundingBox": "790,533,22,16",
+            "text": "in"
+        },
+        {
+            "boundingBox": "822,532,39,17",
+            "text": "the"
+        },
+        {
+            "boundingBox": "873,532,59,17",
+            "text": "Sen\u2014"
+        },
+        {
+            "boundingBox": "496,558,43,14",
+            "text": "ate."
+        },
+        {
+            "boundingBox": "552,555,34,16",
+            "text": "for"
+        },
+        {
+            "boundingBox": "598,555,56,16",
+            "text": "Feb."
+        },
+        {
+            "boundingBox": "668,555,22,20",
+            "text": "6,"
+        },
+        {
+            "boundingBox": "707,555,21,21",
+            "text": "8,"
+        },
+        {
+            "boundingBox": "754,555,35,21",
+            "text": "12,"
+        },
+        {
+            "boundingBox": "811,555,120,21",
+            "text": "inclusive,"
+        },
+        {
+            "boundingBox": "499,578,67,20",
+            "text": "1850,"
+        },
+        {
+            "boundingBox": "578,583,30,11",
+            "text": "on"
+        },
+        {
+            "boundingBox": "625,578,38,15",
+            "text": "the"
+        },
+        {
+            "boundingBox": "681,578,73,21",
+            "text": "Right"
+        },
+        {
+            "boundingBox": "776,577,27,17",
+            "text": "Of"
+        },
+        {
+            "boundingBox": "822,577,109,22",
+            "text": "Petition;"
+        },
+        {
+            "boundingBox": "496,603,113,19",
+            "text": "represent"
+        },
+        {
+            "boundingBox": "621,600,88,17",
+            "text": "iliessrs."
+        },
+        {
+            "boundingBox": "724,600,102,21",
+            "text": "S\u20ac.\u2022ward,"
+        },
+        {
+            "boundingBox": "839,601,22,16",
+            "text": "Il"
+        },
+        {
+            "boundingBox": "864,601,34,15",
+            "text": "ale"
+        },
+        {
+            "boundingBox": "496,624,74,16",
+            "text": "Chase"
+        },
+        {
+            "boundingBox": "579,628,24,11",
+            "text": "as"
+        },
+        {
+            "boundingBox": "611,623,65,16",
+            "text": "chief"
+        },
+        {
+            "boundingBox": "684,624,111,20",
+            "text": "speakers."
+        },
+        {
+            "boundingBox": "814,624,41,15",
+            "text": "Mr."
+        },
+        {
+            "boundingBox": "867,624,64,15",
+            "text": "Mau\u2014"
+        },
+        {
+            "boundingBox": "496,651,56,16",
+            "text": "gum"
+        },
+        {
+            "boundingBox": "565,646,116,21",
+            "text": "presented"
+        },
+        {
+            "boundingBox": "694,646,38,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "751,646,148,21",
+            "text": "proceedings"
+        },
+        {
+            "boundingBox": "908,646,26,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "496,674,14,11",
+            "text": "a"
+        },
+        {
+            "boundingBox": "520,669,101,20",
+            "text": "Jnecting"
+        },
+        {
+            "boundingBox": "633,672,23,13",
+            "text": "at"
+        },
+        {
+            "boundingBox": "674,669,160,20",
+            "text": "Wilrnirzgton,"
+        },
+        {
+            "boundingBox": "851,669,27,16",
+            "text": "N."
+        },
+        {
+            "boundingBox": "896,669,25,16",
+            "text": "C."
+        },
+        {
+            "boundingBox": "497,691,146,21",
+            "text": "denouncing"
+        },
+        {
+            "boundingBox": "655,691,38,17",
+            "text": "the"
+        },
+        {
+            "boundingBox": "707,691,129,17",
+            "text": "fanaticism"
+        },
+        {
+            "boundingBox": "853,691,26,17",
+            "text": "of"
+        },
+        {
+            "boundingBox": "892,692,39,16",
+            "text": "tile"
+        },
+        {
+            "boundingBox": "496,714,81,20",
+            "text": "North,"
+        },
+        {
+            "boundingBox": "590,714,143,21",
+            "text": "threatening"
+        },
+        {
+            "boundingBox": "743,719,14,11",
+            "text": "a"
+        },
+        {
+            "boundingBox": "763,714,136,16",
+            "text": "dissolution"
+        },
+        {
+            "boundingBox": "907,714,27,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "497,740,7,13",
+            "text": "t"
+        },
+        {
+            "boundingBox": "508,737,28,15",
+            "text": "110"
+        },
+        {
+            "boundingBox": "657,737,21,16",
+            "text": "in"
+        },
+        {
+            "boundingBox": "700,742,14,10",
+            "text": "a"
+        },
+        {
+            "boundingBox": "736,740,45,13",
+            "text": "cert"
+        },
+        {
+            "boundingBox": "784,742,37,11",
+            "text": "ana"
+        },
+        {
+            "boundingBox": "889,740,7,12",
+            "text": "t"
+        },
+        {
+            "boundingBox": "899,742,33,11",
+            "text": "In\u2014"
+        },
+        {
+            "boundingBox": "497,764,82,16",
+            "text": "gency,"
+        },
+        {
+            "boundingBox": "739,764,27,12",
+            "text": "on"
+        },
+        {
+            "boundingBox": "780,759,39,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "832,759,101,16",
+            "text": "tab!e.\u2014"
+        },
+        {
+            "boundingBox": "498,782,91,16",
+            "text": "Several"
+        },
+        {
+            "boundingBox": "639,782,13,16",
+            "text": "ti"
+        },
+        {
+            "boundingBox": "657,782,59,16",
+            "text": "tiotrs"
+        },
+        {
+            "boundingBox": "736,787,58,11",
+            "text": "were"
+        },
+        {
+            "boundingBox": "498,805,31,20",
+            "text": "by"
+        },
+        {
+            "boundingBox": "538,805,42,16",
+            "text": "Mr."
+        },
+        {
+            "boundingBox": "588,805,65,17",
+            "text": "Hale,"
+        },
+        {
+            "boundingBox": "728,805,90,16",
+            "text": "various"
+        },
+        {
+            "boundingBox": "824,805,106,17",
+            "text": "sections."
+        },
+        {
+            "boundingBox": "498,829,5,8",
+            "text": "'"
+        },
+        {
+            "boundingBox": "506,827,42,16",
+            "text": "'for"
+        },
+        {
+            "boundingBox": "560,828,125,20",
+            "text": "promotion"
+        },
+        {
+            "boundingBox": "696,827,26,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "735,827,39,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "786,827,110,17",
+            "text": "abolition"
+        },
+        {
+            "boundingBox": "908,827,26,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "497,850,97,21",
+            "text": "slavery;"
+        },
+        {
+            "boundingBox": "616,850,84,21",
+            "text": "improv"
+        },
+        {
+            "boundingBox": "705,850,37,20",
+            "text": "ing"
+        },
+        {
+            "boundingBox": "755,853,7,13",
+            "text": "t"
+        },
+        {
+            "boundingBox": "767,850,27,16",
+            "text": "he"
+        },
+        {
+            "boundingBox": "813,850,118,16",
+            "text": "condition"
+        },
+        {
+            "boundingBox": "498,872,25,17",
+            "text": "of"
+        },
+        {
+            "boundingBox": "533,873,38,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "581,873,45,16",
+            "text": "free"
+        },
+        {
+            "boundingBox": "638,873,78,21",
+            "text": "people"
+        },
+        {
+            "boundingBox": "728,872,27,16",
+            "text": "Of"
+        },
+        {
+            "boundingBox": "766,873,70,20",
+            "text": "color;"
+        },
+        {
+            "boundingBox": "849,876,23,13",
+            "text": "to"
+        },
+        {
+            "boundingBox": "884,878,48,16",
+            "text": "pre\u2014"
+        },
+        {
+            "boundingBox": "497,899,55,12",
+            "text": "vent"
+        },
+        {
+            "boundingBox": "569,895,39,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "627,895,98,16",
+            "text": "inerease"
+        },
+        {
+            "boundingBox": "744,895,26,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "789,895,88,21",
+            "text": "slavery"
+        },
+        {
+            "boundingBox": "901,896,30,20",
+            "text": "by"
+        },
+        {
+            "boundingBox": "498,918,38,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "550,918,178,16",
+            "text": "non-admission"
+        },
+        {
+            "boundingBox": "742,917,26,17",
+            "text": "ef"
+        },
+        {
+            "boundingBox": "776,927,3,3",
+            "text": ","
+        },
+        {
+            "boundingBox": "784,923,53,11",
+            "text": "nev"
+        },
+        {
+            "boundingBox": "854,918,77,16",
+            "text": "States"
+        },
+        {
+            "boundingBox": "498,941,49,16",
+            "text": "iuto"
+        },
+        {
+            "boundingBox": "569,941,39,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "630,940,85,21",
+            "text": "Union;"
+        },
+        {
+            "boundingBox": "746,940,34,16",
+            "text": "for"
+        },
+        {
+            "boundingBox": "801,941,130,21",
+            "text": "abolishing"
+        },
+        {
+            "boundingBox": "497,963,90,21",
+            "text": "stave,-y"
+        },
+        {
+            "boundingBox": "599,963,22,16",
+            "text": "in"
+        },
+        {
+            "boundingBox": "635,963,38,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "684,963,96,16",
+            "text": "District"
+        },
+        {
+            "boundingBox": "796,963,27,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "837,963,42,16",
+            "text": "Col"
+        },
+        {
+            "boundingBox": "883,969,49,11",
+            "text": "tun\u2014"
+        },
+        {
+            "boundingBox": "497,986,44,20",
+            "text": "bia;"
+        },
+        {
+            "boundingBox": "555,990,7,11",
+            "text": "t"
+        },
+        {
+            "boundingBox": "566,992,12,10",
+            "text": "c'"
+        },
+        {
+            "boundingBox": "587,988,92,19",
+            "text": "prevent"
+        },
+        {
+            "boundingBox": "692,986,38,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "743,986,113,16",
+            "text": "introduct"
+        },
+        {
+            "boundingBox": "860,987,38,15",
+            "text": "ion"
+        },
+        {
+            "boundingBox": "907,986,27,17",
+            "text": "Of"
+        },
+        {
+            "boundingBox": "497,1009,90,20",
+            "text": "slavery"
+        },
+        {
+            "boundingBox": "599,1009,21,15",
+            "text": "in"
+        },
+        {
+            "boundingBox": "633,1009,39,15",
+            "text": "the"
+        },
+        {
+            "boundingBox": "684,1009,5,6",
+            "text": "\u2022"
+        },
+        {
+            "boundingBox": "691,1009,8,15",
+            "text": "i"
+        },
+        {
+            "boundingBox": "701,1009,126,20",
+            "text": "\"erritories;"
+        },
+        {
+            "boundingBox": "846,1012,23,13",
+            "text": "to"
+        },
+        {
+            "boundingBox": "884,1014,47,16",
+            "text": "pre-"
+        },
+        {
+            "boundingBox": "497,1034,55,13",
+            "text": "vent"
+        },
+        {
+            "boundingBox": "565,1032,4,15",
+            "text": "i"
+        },
+        {
+            "boundingBox": "575,1031,84,16",
+            "text": "nternal"
+        },
+        {
+            "boundingBox": "671,1031,61,17",
+            "text": "slave"
+        },
+        {
+            "boundingBox": "750,1031,60,17",
+            "text": "trade"
+        },
+        {
+            "boundingBox": "825,1032,106,16",
+            "text": "between"
+        },
+        {
+            "boundingBox": "498,1054,38,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "557,1054,16,16",
+            "text": "S"
+        },
+        {
+            "boundingBox": "578,1057,64,17",
+            "text": "tates;"
+        },
+        {
+            "boundingBox": "660,1054,44,16",
+            "text": "and"
+        },
+        {
+            "boundingBox": "722,1054,146,21",
+            "text": "respectfully"
+        },
+        {
+            "boundingBox": "890,1054,42,17",
+            "text": "ask"
+        },
+        {
+            "boundingBox": "497,1077,113,20",
+            "text": "Congress"
+        },
+        {
+            "boundingBox": "627,1080,23,12",
+            "text": "to"
+        },
+        {
+            "boundingBox": "662,1081,101,16",
+            "text": "propose,"
+        },
+        {
+            "boundingBox": "780,1077,100,16",
+            "text": "without"
+        },
+        {
+            "boundingBox": "892,1077,40,16",
+            "text": "de\u2014"
+        },
+        {
+            "boundingBox": "497,1099,47,21",
+            "text": "lay,"
+        },
+        {
+            "boundingBox": "561,1104,62,11",
+            "text": "some"
+        },
+        {
+            "boundingBox": "634,1099,52,21",
+            "text": "vian"
+        },
+        {
+            "boundingBox": "698,1099,34,16",
+            "text": "for"
+        },
+        {
+            "boundingBox": "744,1100,39,15",
+            "text": "the"
+        },
+        {
+            "boundingBox": "800,1099,132,17",
+            "text": "irnrnediate"
+        },
+        {
+            "boundingBox": "497,1122,44,16",
+            "text": "and"
+        },
+        {
+            "boundingBox": "564,1122,101,21",
+            "text": "pcaeetirl"
+        },
+        {
+            "boundingBox": "684,1122,14,15",
+            "text": "d"
+        },
+        {
+            "boundingBox": "835,1140,3,2",
+            "text": "."
+        },
+        {
+            "boundingBox": "842,1122,27,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "891,1122,40,17",
+            "text": "the"
+        },
+        {
+            "boundingBox": "499,1145,117,16",
+            "text": "Arnerican"
+        },
+        {
+            "boundingBox": "628,1144,92,17",
+            "text": "Union.'"
+        },
+        {
+            "boundingBox": "530,1167,6,8",
+            "text": "'"
+        },
+        {
+            "boundingBox": "536,1168,48,15",
+            "text": "\"'he"
+        },
+        {
+            "boundingBox": "592,1168,163,15",
+            "text": "Germantovvrra"
+        },
+        {
+            "boundingBox": "761,1167,35,16",
+            "text": "lad"
+        },
+        {
+            "boundingBox": "801,1167,31,16",
+            "text": "ies"
+        },
+        {
+            "boundingBox": "839,1167,92,17",
+            "text": "address"
+        },
+        {
+            "boundingBox": "498,1191,49,15",
+            "text": "Con"
+        },
+        {
+            "boundingBox": "551,1195,66,15",
+            "text": "\u2022ress,"
+        },
+        {
+            "boundingBox": "629,1195,25,10",
+            "text": "as"
+        },
+        {
+            "boundingBox": "666,1191,6,8",
+            "text": "'"
+        },
+        {
+            "boundingBox": "675,1189,18,16",
+            "text": "\u2022r"
+        },
+        {
+            "boundingBox": "696,1191,46,14",
+            "text": "'ear"
+        },
+        {
+            "boundingBox": "752,1190,111,20",
+            "text": "Friends,'"
+        },
+        {
+            "boundingBox": "866,1191,5,8",
+            "text": "'"
+        },
+        {
+            "boundingBox": "886,1191,44,15",
+            "text": "aud"
+        },
+        {
+            "boundingBox": "497,1213,59,16",
+            "text": "after"
+        },
+        {
+            "boundingBox": "566,1218,29,10",
+            "text": "an"
+        },
+        {
+            "boundingBox": "611,1213,138,20",
+            "text": "appropriate"
+        },
+        {
+            "boundingBox": "771,1218,86,16",
+            "text": "prayer,"
+        },
+        {
+            "boundingBox": "498,1236,38,15",
+            "text": "bid"
+        },
+        {
+            "boundingBox": "548,1240,47,16",
+            "text": "you"
+        },
+        {
+            "boundingBox": "606,1240,28,11",
+            "text": "an"
+        },
+        {
+            "boundingBox": "646,1235,144,17",
+            "text": "anoe-tionate"
+        },
+        {
+            "boundingBox": "805,1235,125,17",
+            "text": "farewell.\""
+        },
+        {
+            "boundingBox": "498,1258,72,20",
+            "text": "Many"
+        },
+        {
+            "boundingBox": "580,1257,78,21",
+            "text": "joined"
+        },
+        {
+            "boundingBox": "666,1258,40,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "716,1258,72,16",
+            "text": "above"
+        },
+        {
+            "boundingBox": "800,1258,132,20",
+            "text": "gentlemen"
+        },
+        {
+            "boundingBox": "499,1281,24,16",
+            "text": "in"
+        },
+        {
+            "boundingBox": "541,1281,90,19",
+            "text": "debate,"
+        },
+        {
+            "boundingBox": "654,1281,36,15",
+            "text": "wh"
+        },
+        {
+            "boundingBox": "752,1286,48,11",
+            "text": "was"
+        },
+        {
+            "boundingBox": "816,1281,116,21",
+            "text": "generally"
+        },
+        {
+            "boundingBox": "500,1308,70,12",
+            "text": "worm"
+        },
+        {
+            "boundingBox": "573,1315,6,8",
+            "text": ","
+        },
+        {
+            "boundingBox": "589,1303,142,16",
+            "text": "crirninative"
+        },
+        {
+            "boundingBox": "743,1303,44,16",
+            "text": "mud"
+        },
+        {
+            "boundingBox": "804,1304,127,16",
+            "text": "recrimina-"
+        },
+        {
+            "boundingBox": "500,1329,8,13",
+            "text": "t"
+        },
+        {
+            "boundingBox": "511,1326,43,20",
+            "text": "ive;"
+        },
+        {
+            "boundingBox": "582,1326,126,16",
+            "text": "somewhat"
+        },
+        {
+            "boundingBox": "729,1326,87,16",
+            "text": "dramat"
+        },
+        {
+            "boundingBox": "873,1332,23,10",
+            "text": "AA'"
+        },
+        {
+            "boundingBox": "898,1327,6,15",
+            "text": "i"
+        },
+        {
+            "boundingBox": "907,1327,24,16",
+            "text": "th"
+        },
+        {
+            "boundingBox": "499,1354,63,12",
+            "text": "some"
+        },
+        {
+            "boundingBox": "573,1352,127,18",
+            "text": "syrnptoms"
+        },
+        {
+            "boundingBox": "709,1348,27,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "744,1349,38,15",
+            "text": "the"
+        },
+        {
+            "boundingBox": "792,1349,77,21",
+            "text": "tragic."
+        },
+        {
+            "boundingBox": "530,1372,89,20",
+            "text": "Query;"
+        },
+        {
+            "boundingBox": "637,1371,23,16",
+            "text": "If"
+        },
+        {
+            "boundingBox": "667,1371,38,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "714,1371,86,23",
+            "text": "people,"
+        },
+        {
+            "boundingBox": "809,1372,40,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "856,1372,76,20",
+            "text": "whole"
+        },
+        {
+            "boundingBox": "952,190,88,21",
+            "text": "people,"
+        },
+        {
+            "boundingBox": "1051,194,63,12",
+            "text": "want"
+        },
+        {
+            "boundingBox": "1124,191,38,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1174,191,76,16",
+            "text": "Union"
+        },
+        {
+            "boundingBox": "1259,190,133,22",
+            "text": "peacefully"
+        },
+        {
+            "boundingBox": "951,212,69,17",
+            "text": "dissol"
+        },
+        {
+            "boundingBox": "1024,213,50,20",
+            "text": "ved,"
+        },
+        {
+            "boundingBox": "1096,213,57,21",
+            "text": "why"
+        },
+        {
+            "boundingBox": "1175,216,41,14",
+            "text": "not"
+        },
+        {
+            "boundingBox": "1237,213,99,17",
+            "text": "dissolve"
+        },
+        {
+            "boundingBox": "1360,211,27,19",
+            "text": "it?"
+        },
+        {
+            "boundingBox": "952,235,63,21",
+            "text": "Why"
+        },
+        {
+            "boundingBox": "1026,236,41,16",
+            "text": "ask"
+        },
+        {
+            "boundingBox": "1079,236,114,21",
+            "text": "Congress"
+        },
+        {
+            "boundingBox": "1205,240,22,12",
+            "text": "to"
+        },
+        {
+            "boundingBox": "1238,236,31,16",
+            "text": "do"
+        },
+        {
+            "boundingBox": "1290,242,14,10",
+            "text": "a"
+        },
+        {
+            "boundingBox": "1321,236,66,22",
+            "text": "thing"
+        },
+        {
+            "boundingBox": "952,258,55,21",
+            "text": "they"
+        },
+        {
+            "boundingBox": "1019,258,59,16",
+            "text": "have"
+        },
+        {
+            "boundingBox": "1089,264,31,11",
+            "text": "no"
+        },
+        {
+            "boundingBox": "1132,264,76,16",
+            "text": "povzer"
+        },
+        {
+            "boundingBox": "1220,262,7,13",
+            "text": "t"
+        },
+        {
+            "boundingBox": "1231,264,12,11",
+            "text": "o"
+        },
+        {
+            "boundingBox": "1254,259,40,16",
+            "text": "do?"
+        },
+        {
+            "boundingBox": "1327,259,60,16",
+            "text": "Cota-"
+        },
+        {
+            "boundingBox": "952,286,61,16",
+            "text": "gress"
+        },
+        {
+            "boundingBox": "1028,281,38,16",
+            "text": "did"
+        },
+        {
+            "boundingBox": "1089,284,41,14",
+            "text": "not"
+        },
+        {
+            "boundingBox": "1152,282,67,16",
+            "text": "make"
+        },
+        {
+            "boundingBox": "1241,282,39,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1301,281,85,22",
+            "text": "Union;"
+        },
+        {
+            "boundingBox": "951,304,40,15",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1000,303,76,17",
+            "text": "Union"
+        },
+        {
+            "boundingBox": "1087,304,67,16",
+            "text": "made"
+        },
+        {
+            "boundingBox": "1162,305,121,20",
+            "text": "Congress,"
+        },
+        {
+            "boundingBox": "1292,305,46,15",
+            "text": "and"
+        },
+        {
+            "boundingBox": "1348,308,7,13",
+            "text": "t"
+        },
+        {
+            "boundingBox": "1359,305,27,16",
+            "text": "he"
+        },
+        {
+            "boundingBox": "950,326,82,21",
+            "text": "people"
+        },
+        {
+            "boundingBox": "1054,328,66,15",
+            "text": "made"
+        },
+        {
+            "boundingBox": "1141,328,41,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1203,327,83,21",
+            "text": "Union;"
+        },
+        {
+            "boundingBox": "1307,332,80,11",
+            "text": "conse\u2014"
+        },
+        {
+            "boundingBox": "952,349,104,21",
+            "text": "quently,"
+        },
+        {
+            "boundingBox": "1073,355,30,11",
+            "text": "on"
+        },
+        {
+            "boundingBox": "1114,350,40,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1166,350,120,21",
+            "text": "principles"
+        },
+        {
+            "boundingBox": "1297,350,27,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "1338,349,48,17",
+            "text": "fed-"
+        },
+        {
+            "boundingBox": "950,371,46,16",
+            "text": "eral"
+        },
+        {
+            "boundingBox": "1003,372,183,21",
+            "text": "republicanism,"
+        },
+        {
+            "boundingBox": "1194,372,40,17",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1240,378,62,11",
+            "text": "same"
+        },
+        {
+            "boundingBox": "1310,377,77,16",
+            "text": "power"
+        },
+        {
+            "boundingBox": "951,394,49,17",
+            "text": "that"
+        },
+        {
+            "boundingBox": "1012,395,80,17",
+            "text": "makes"
+        },
+        {
+            "boundingBox": "1103,398,61,14",
+            "text": "must"
+        },
+        {
+            "boundingBox": "1180,395,108,20",
+            "text": "unmake,"
+        },
+        {
+            "boundingBox": "1311,395,20,16",
+            "text": "if"
+        },
+        {
+            "boundingBox": "1345,400,41,11",
+            "text": "un\u2014"
+        },
+        {
+            "boundingBox": "950,417,67,16",
+            "text": "made"
+        },
+        {
+            "boundingBox": "1027,420,23,14",
+            "text": "at"
+        },
+        {
+            "boundingBox": "1063,417,37,21",
+            "text": "all;"
+        },
+        {
+            "boundingBox": "1117,418,45,16",
+            "text": "aard"
+        },
+        {
+            "boundingBox": "1184,417,21,17",
+            "text": "if"
+        },
+        {
+            "boundingBox": "1221,418,39,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1272,417,78,17",
+            "text": "Union"
+        },
+        {
+            "boundingBox": "1367,418,19,16",
+            "text": "is"
+        },
+        {
+            "boundingBox": "950,444,54,12",
+            "text": "ever"
+        },
+        {
+            "boundingBox": "1018,440,129,22",
+            "text": "peacefully"
+        },
+        {
+            "boundingBox": "1163,440,122,21",
+            "text": "dissolved,"
+        },
+        {
+            "boundingBox": "1303,440,17,17",
+            "text": "it"
+        },
+        {
+            "boundingBox": "1341,440,43,16",
+            "text": "will"
+        },
+        {
+            "boundingBox": "950,462,29,16",
+            "text": "be"
+        },
+        {
+            "boundingBox": "992,463,31,21",
+            "text": "by"
+        },
+        {
+            "boundingBox": "1040,463,37,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1094,464,119,21",
+            "text": "sovereign"
+        },
+        {
+            "boundingBox": "1230,463,80,22",
+            "text": "people"
+        },
+        {
+            "boundingBox": "1332,463,59,17",
+            "text": "who-"
+        },
+        {
+            "boundingBox": "950,485,66,16",
+            "text": "made"
+        },
+        {
+            "boundingBox": "1028,486,24,20",
+            "text": "it;"
+        },
+        {
+            "boundingBox": "1065,485,34,17",
+            "text": "for"
+        },
+        {
+            "boundingBox": "1108,486,56,21",
+            "text": "they"
+        },
+        {
+            "boundingBox": "1172,486,66,17",
+            "text": "alone"
+        },
+        {
+            "boundingBox": "1249,491,87,16",
+            "text": "possess"
+        },
+        {
+            "boundingBox": "1346,486,38,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "950,508,96,21",
+            "text": "rightful"
+        },
+        {
+            "boundingBox": "1056,514,76,16",
+            "text": "povver"
+        },
+        {
+            "boundingBox": "1140,508,26,17",
+            "text": "of"
+        },
+        {
+            "boundingBox": "1171,509,137,16",
+            "text": "dis*olution"
+        },
+        {
+            "boundingBox": "1318,509,67,16",
+            "text": "with-"
+        },
+        {
+            "boundingBox": "950,531,25,16",
+            "text": "in"
+        },
+        {
+            "boundingBox": "992,531,145,20",
+            "text": "themselves,"
+        },
+        {
+            "boundingBox": "1161,532,45,16",
+            "text": "and"
+        },
+        {
+            "boundingBox": "1228,535,41,13",
+            "text": "not"
+        },
+        {
+            "boundingBox": "1285,532,24,16",
+            "text": "in"
+        },
+        {
+            "boundingBox": "1328,532,58,16",
+            "text": "their"
+        },
+        {
+            "boundingBox": "950,553,109,17",
+            "text": "Senators"
+        },
+        {
+            "boundingBox": "1069,559,24,11",
+            "text": "or"
+        },
+        {
+            "boundingBox": "1112,554,35,16",
+            "text": "Re"
+        },
+        {
+            "boundingBox": "1151,560,76,15",
+            "text": "presen"
+        },
+        {
+            "boundingBox": "1231,554,87,21",
+            "text": "tatives;"
+        },
+        {
+            "boundingBox": "1340,554,45,16",
+            "text": "and"
+        },
+        {
+            "boundingBox": "950,581,35,11",
+            "text": "we"
+        },
+        {
+            "boundingBox": "995,577,58,21",
+            "text": "hope"
+        },
+        {
+            "boundingBox": "1063,582,34,11",
+            "text": "we"
+        },
+        {
+            "boundingBox": "1107,577,58,16",
+            "text": "shall"
+        },
+        {
+            "boundingBox": "1175,583,69,10",
+            "text": "never"
+        },
+        {
+            "boundingBox": "1253,577,67,22",
+            "text": "again"
+        },
+        {
+            "boundingBox": "1330,577,54,16",
+            "text": "hear"
+        },
+        {
+            "boundingBox": "949,599,27,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "993,604,47,16",
+            "text": "any"
+        },
+        {
+            "boundingBox": "1056,600,87,21",
+            "text": "portion"
+        },
+        {
+            "boundingBox": "1167,600,25,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "1211,600,39,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1265,600,119,16",
+            "text": "American"
+        },
+        {
+            "boundingBox": "950,622,79,21",
+            "text": "people"
+        },
+        {
+            "boundingBox": "1042,622,136,22",
+            "text": "petitioning"
+        },
+        {
+            "boundingBox": "1190,623,114,19",
+            "text": "C0!1gress"
+        },
+        {
+            "boundingBox": "1320,625,25,13",
+            "text": "to"
+        },
+        {
+            "boundingBox": "1355,622,30,16",
+            "text": "do"
+        },
+        {
+            "boundingBox": "950,645,62,16",
+            "text": "what"
+        },
+        {
+            "boundingBox": "1025,648,16,13",
+            "text": "It"
+        },
+        {
+            "boundingBox": "1053,645,41,16",
+            "text": "has"
+        },
+        {
+            "boundingBox": "1105,650,29,11",
+            "text": "no"
+        },
+        {
+            "boundingBox": "1146,651,76,16",
+            "text": "power"
+        },
+        {
+            "boundingBox": "1239,649,24,13",
+            "text": "to"
+        },
+        {
+            "boundingBox": "1279,645,37,20",
+            "text": "do,"
+        },
+        {
+            "boundingBox": "1326,650,58,11",
+            "text": "even"
+        },
+        {
+            "boundingBox": "950,667,19,16",
+            "text": "if"
+        },
+        {
+            "boundingBox": "980,668,16,15",
+            "text": "it"
+        },
+        {
+            "boundingBox": "1005,667,43,16",
+            "text": "had"
+        },
+        {
+            "boundingBox": "1062,672,8,12",
+            "text": "t"
+        },
+        {
+            "boundingBox": "1073,668,28,16",
+            "text": "he"
+        },
+        {
+            "boundingBox": "1112,668,94,21",
+            "text": "disposit"
+        },
+        {
+            "boundingBox": "1210,668,44,16",
+            "text": "ion."
+        },
+        {
+            "boundingBox": "1290,668,42,16",
+            "text": "Let"
+        },
+        {
+            "boundingBox": "1344,672,41,12",
+            "text": "our"
+        },
+        {
+            "boundingBox": "951,690,75,16",
+            "text": "Union"
+        },
+        {
+            "boundingBox": "1035,691,87,16",
+            "text": "rernaitl"
+        },
+        {
+            "boundingBox": "1130,691,94,20",
+            "text": "forever,"
+        },
+        {
+            "boundingBox": "1236,690,135,22",
+            "text": "peacefully!"
+        },
+        {
+            "boundingBox": "982,742,168,16",
+            "text": "TERRIBLE"
+        },
+        {
+            "boundingBox": "1249,742,31,17",
+            "text": "IN"
+        },
+        {
+            "boundingBox": "1290,742,62,16",
+            "text": "SAN"
+        },
+        {
+            "boundingBox": "1072,771,186,17",
+            "text": "FRANCISCO."
+        },
+        {
+            "boundingBox": "980,803,36,16",
+            "text": "An"
+        },
+        {
+            "boundingBox": "1038,803,113,22",
+            "text": "appalling"
+        },
+        {
+            "boundingBox": "1173,803,45,17",
+            "text": "and"
+        },
+        {
+            "boundingBox": "1242,803,140,17",
+            "text": "destructive"
+        },
+        {
+            "boundingBox": "950,825,39,17",
+            "text": "fire"
+        },
+        {
+            "boundingBox": "1007,826,104,16",
+            "text": "occurred"
+        },
+        {
+            "boundingBox": "1131,831,29,11",
+            "text": "on"
+        },
+        {
+            "boundingBox": "1178,827,38,15",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1234,827,56,16",
+            "text": "24th"
+        },
+        {
+            "boundingBox": "1302,827,27,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "1338,827,45,16",
+            "text": "r\u00bbe-"
+        },
+        {
+            "boundingBox": "949,849,98,20",
+            "text": "cernber,"
+        },
+        {
+            "boundingBox": "1071,849,76,16",
+            "text": "which"
+        },
+        {
+            "boundingBox": "1169,849,132,17",
+            "text": "threatened"
+        },
+        {
+            "boundingBox": "1320,849,35,16",
+            "text": "for"
+        },
+        {
+            "boundingBox": "1370,855,14,10",
+            "text": "a"
+        },
+        {
+            "boundingBox": "949,872,55,15",
+            "text": "time"
+        },
+        {
+            "boundingBox": "1016,875,24,12",
+            "text": "to"
+        },
+        {
+            "boundingBox": "1051,872,82,16",
+            "text": "reduce"
+        },
+        {
+            "boundingBox": "1150,872,39,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1201,872,88,16",
+            "text": "fatuous"
+        },
+        {
+            "boundingBox": "1300,873,49,20",
+            "text": "city"
+        },
+        {
+            "boundingBox": "1360,872,27,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "950,894,47,16",
+            "text": "San"
+        },
+        {
+            "boundingBox": "1011,894,120,17",
+            "text": "Fraucisco"
+        },
+        {
+            "boundingBox": "1144,898,23,13",
+            "text": "to"
+        },
+        {
+            "boundingBox": "1177,900,14,10",
+            "text": "a"
+        },
+        {
+            "boundingBox": "1202,895,57,20",
+            "text": "heap"
+        },
+        {
+            "boundingBox": "1275,895,27,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "1307,895,77,16",
+            "text": "smok-"
+        },
+        {
+            "boundingBox": "948,916,40,21",
+            "text": "ing"
+        },
+        {
+            "boundingBox": "998,917,67,16",
+            "text": "ruins."
+        },
+        {
+            "boundingBox": "1100,917,22,16",
+            "text": "T"
+        },
+        {
+            "boundingBox": "1125,917,28,16",
+            "text": "he"
+        },
+        {
+            "boundingBox": "1171,917,38,16",
+            "text": "fire"
+        },
+        {
+            "boundingBox": "1222,917,68,17",
+            "text": "broke"
+        },
+        {
+            "boundingBox": "1302,920,41,14",
+            "text": "out"
+        },
+        {
+            "boundingBox": "1361,917,23,17",
+            "text": "in"
+        },
+        {
+            "boundingBox": "1099,940,134,20",
+            "text": "Exchange,"
+        },
+        {
+            "boundingBox": "1244,940,45,16",
+            "text": "and"
+        },
+        {
+            "boundingBox": "1302,940,22,16",
+            "text": "in"
+        },
+        {
+            "boundingBox": "1336,944,8,12",
+            "text": "t"
+        },
+        {
+            "boundingBox": "1347,945,35,12",
+            "text": "vve"
+        },
+        {
+            "boundingBox": "949,962,75,20",
+            "text": "hours,"
+        },
+        {
+            "boundingBox": "1038,963,76,20",
+            "text": "nearly"
+        },
+        {
+            "boundingBox": "1126,968,13,10",
+            "text": "a"
+        },
+        {
+            "boundingBox": "1150,963,88,16",
+            "text": "million"
+        },
+        {
+            "boundingBox": "1260,962,26,17",
+            "text": "of"
+        },
+        {
+            "boundingBox": "1300,963,82,16",
+            "text": "dollars"
+        },
+        {
+            "boundingBox": "950,985,73,15",
+            "text": "worth"
+        },
+        {
+            "boundingBox": "1035,985,26,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "1075,988,104,19",
+            "text": "property"
+        },
+        {
+            "boundingBox": "1191,991,48,10",
+            "text": "was"
+        },
+        {
+            "boundingBox": "1254,985,127,22",
+            "text": "destroyed."
+        },
+        {
+            "boundingBox": "950,1007,52,16",
+            "text": "The"
+        },
+        {
+            "boundingBox": "1015,1008,81,15",
+            "text": "Parker"
+        },
+        {
+            "boundingBox": "1119,1008,65,16",
+            "text": "louse"
+        },
+        {
+            "boundingBox": "1192,1013,47,11",
+            "text": "was"
+        },
+        {
+            "boundingBox": "1248,1013,83,16",
+            "text": "among"
+        },
+        {
+            "boundingBox": "949,1030,116,21",
+            "text": "buildings"
+        },
+        {
+            "boundingBox": "1074,1031,93,16",
+            "text": "burned."
+        },
+        {
+            "boundingBox": "1200,1030,36,17",
+            "text": "All"
+        },
+        {
+            "boundingBox": "1254,1031,40,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1310,1030,72,17",
+            "text": "build-"
+        },
+        {
+            "boundingBox": "949,1052,59,21",
+            "text": "ings,"
+        },
+        {
+            "boundingBox": "1016,1057,82,17",
+            "text": "except"
+        },
+        {
+            "boundingBox": "1110,1053,39,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1159,1053,135,17",
+            "text": "I)elr-nouico"
+        },
+        {
+            "boundingBox": "1304,1054,78,18",
+            "text": "Hotel,"
+        },
+        {
+            "boundingBox": "949,1080,29,11",
+            "text": "on"
+        },
+        {
+            "boundingBox": "988,1075,144,17",
+            "text": "Portsmouth"
+        },
+        {
+            "boundingBox": "1146,1081,92,15",
+            "text": "\u2022square,"
+        },
+        {
+            "boundingBox": "1250,1076,46,16",
+            "text": "and"
+        },
+        {
+            "boundingBox": "1305,1076,31,16",
+            "text": "all"
+        },
+        {
+            "boundingBox": "1352,1081,29,11",
+            "text": "on"
+        },
+        {
+            "boundingBox": "950,1097,69,17",
+            "text": "Wash"
+        },
+        {
+            "boundingBox": "1024,1098,79,21",
+            "text": "ington"
+        },
+        {
+            "boundingBox": "1124,1101,76,18",
+            "text": "street,"
+        },
+        {
+            "boundingBox": "1221,1103,118,12",
+            "text": "commenc"
+        },
+        {
+            "boundingBox": "949,1124,22,12",
+            "text": "at"
+        },
+        {
+            "boundingBox": "983,1121,39,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1032,1122,5,8",
+            "text": "'"
+        },
+        {
+            "boundingBox": "1040,1121,120,16",
+            "text": "'Eldorado"
+        },
+        {
+            "boundingBox": "1171,1121,13,9",
+            "text": "\""
+        },
+        {
+            "boundingBox": "1195,1121,45,16",
+            "text": "aud"
+        },
+        {
+            "boundingBox": "1251,1121,99,21",
+            "text": "running"
+        },
+        {
+            "boundingBox": "1360,1124,23,14",
+            "text": "to"
+        },
+        {
+            "boundingBox": "950,1144,159,20",
+            "text": "Nontgomery"
+        },
+        {
+            "boundingBox": "1119,1147,75,17",
+            "text": "street,"
+        },
+        {
+            "boundingBox": "1205,1149,59,11",
+            "text": "were"
+        },
+        {
+            "boundingBox": "1272,1144,94,16",
+            "text": "burned."
+        },
+        {
+            "boundingBox": "981,1166,53,16",
+            "text": "\"Ithe"
+        },
+        {
+            "boundingBox": "1048,1166,81,17",
+            "text": "Parker"
+        },
+        {
+            "boundingBox": "1149,1167,86,19",
+            "text": "Ilouse,"
+        },
+        {
+            "boundingBox": "1248,1166,27,17",
+            "text": "U."
+        },
+        {
+            "boundingBox": "1290,1167,24,15",
+            "text": "S."
+        },
+        {
+            "boundingBox": "1328,1166,54,16",
+            "text": "Res-"
+        },
+        {
+            "boundingBox": "950,1191,80,17",
+            "text": "tan-rat,"
+        },
+        {
+            "boundingBox": "1041,1189,133,21",
+            "text": "Exchange,"
+        },
+        {
+            "boundingBox": "1188,1189,119,19",
+            "text": "Eldorado,"
+        },
+        {
+            "boundingBox": "1326,1189,58,16",
+            "text": "Mer\u2014"
+        },
+        {
+            "boundingBox": "949,1211,90,16",
+            "text": "chatat's"
+        },
+        {
+            "boundingBox": "1062,1212,132,19",
+            "text": "Exchange,"
+        },
+        {
+            "boundingBox": "1223,1211,47,17",
+            "text": "Our"
+        },
+        {
+            "boundingBox": "1322,1217,61,11",
+            "text": "ouse."
+        },
+        {
+            "boundingBox": "949,1234,91,16",
+            "text": "Central"
+        },
+        {
+            "boundingBox": "1059,1235,21,15",
+            "text": "if"
+        },
+        {
+            "boundingBox": "1084,1239,61,16",
+            "text": "onse,"
+        },
+        {
+            "boundingBox": "1160,1231,6,2",
+            "text": "-"
+        },
+        {
+            "boundingBox": "1169,1234,151,21",
+            "text": "Washington"
+        },
+        {
+            "boundingBox": "1344,1235,40,16",
+            "text": "Ar-"
+        },
+        {
+            "boundingBox": "949,1256,63,21",
+            "text": "cade,"
+        },
+        {
+            "boundingBox": "1035,1257,89,16",
+            "text": "Pollard"
+        },
+        {
+            "boundingBox": "1196,1258,60,15",
+            "text": "Co's."
+        },
+        {
+            "boundingBox": "1283,1257,99,16",
+            "text": "Auctioti"
+        },
+        {
+            "boundingBox": "950,1279,82,21",
+            "text": "Room,"
+        },
+        {
+            "boundingBox": "1043,1279,143,17",
+            "text": "Guerschard"
+        },
+        {
+            "boundingBox": "1231,1280,48,16",
+            "text": "Van"
+        },
+        {
+            "boundingBox": "1289,1280,95,16",
+            "text": "Buren's"
+        },
+        {
+            "boundingBox": "951,1302,189,20",
+            "text": "Establishment,"
+        },
+        {
+            "boundingBox": "1163,1302,45,17",
+            "text": "and"
+        },
+        {
+            "boundingBox": "1231,1307,69,16",
+            "text": "many"
+        },
+        {
+            "boundingBox": "1321,1307,62,12",
+            "text": "more"
+        },
+        {
+            "boundingBox": "950,1324,106,17",
+            "text": "valuable"
+        },
+        {
+            "boundingBox": "1076,1325,115,21",
+            "text": "buildings"
+        },
+        {
+            "boundingBox": "1290,1325,93,16",
+            "text": "burned."
+        },
+        {
+            "boundingBox": "950,1352,24,12",
+            "text": "or"
+        },
+        {
+            "boundingBox": "981,1347,78,16",
+            "text": "blown"
+        },
+        {
+            "boundingBox": "1074,1352,38,17",
+            "text": "up,"
+        },
+        {
+            "boundingBox": "1124,1351,8,13",
+            "text": "t"
+        },
+        {
+            "boundingBox": "1136,1353,12,11",
+            "text": "o"
+        },
+        {
+            "boundingBox": "1158,1351,51,18",
+            "text": "stop"
+        },
+        {
+            "boundingBox": "1221,1348,38,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1282,1352,102,17",
+            "text": "progress"
+        },
+        {
+            "boundingBox": "949,1370,28,16",
+            "text": "of"
+        },
+        {
+            "boundingBox": "992,1370,37,17",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1042,1370,46,17",
+            "text": "fire."
+        }
+    ],
+    "ocr_analyse_results": [
+        {
+            "response": true,
+            "ocr": "DESERET NE\"\" S. ens. G. S. CITY, 25, LON. 34\" LAT. 400 43' 44\" PROSPECTUS. DESERET NEVIS. AND LIBERTY.' We propose to publish a small sceekty sheet, as large as our lo\u2014 cal Circurnstances ill perrnit, to be called \"Deserct News,\" de- signed originally to record the pass\u2014 in. events of our State, and in con\u2014 nexioa, refer to the arts and. scien- ces, embracing gee-aeral education, medicine, law, divinity, dornestic :and polit ical econorny, arid every thing that may fall under our ob- servation, wltieh ruay tend to pro\u2014 mote the best interest. wellhre, pleasure and amusement of our fel- citizens. We hold ourselves responsible to the highest Court of truth for \u2022ur intent and the Court of or:uity our exceutiov. W hen we speak, we shall speak freely, without recaz\u2022d to or party, and like other we err, let him who has lais eyes open, em-rect us in rneekness, and he shall receive a disciple's re.vvard. We shall ever take pleasnre i 11 \u2022 eon-nnnnic.atinr\u2022r foreign news: as we have opportunity; in receiviug cern:nunicatinns from onr friends, at home and abroad; a.'ld solicit or\u2014 for the \"Nncs\" from our and poetesses. The Erst may be ex- vected as early in June as sub- script ions will wzvcrant\u2014waiting the act ion of 300 subscribers. Tcrrns, nucilith.s, *-2, 50; iava\u2014 in Single copy, 13 cents. Advertising, e 1,50 per square I ines, nod 50 each succeeding in\u2014 sertiou. for half s: juare, er S i ir:es. 23 cents per copy, with the inser\u2014 of their names, place of .resi\u2014 time of arrival and leaving. Companies bf \u2022O, and upwards, cn\u2014 tered at once, 20 cents each. A paper that is worth printing, is worth preserving; if worth pre- serving, it is worth binding; for this purpose we issue in pamphlet form; and if every subscriber shall preserve each copy of the \"Ne vs,\" and bind it at the close of the vol- their children's children may read the doings of their fathers, which otherwise might have been forgotten; ages to come. U. S. SENATE. \"Sketch of debate,\" in the Sen\u2014 ate. for Feb. 6, 8, 12, inclusive, 1850, on the Right Of Petition; represent iliessrs. S\u20ac.\u2022ward, Il ale Chase as chief speakers. Mr. Mau\u2014 gum presented the proceedings of a Jnecting at Wilrnirzgton, N. C. denouncing the fanaticism of tile North, threatening a dissolution of t 110 in a cert ana t In\u2014 gency, on the tab!e.\u2014 Several ti tiotrs were by Mr. Hale, various sections. ' 'for promotion of the abolition of slavery; improv ing t he condition of the free people Of color; to pre\u2014 vent the inerease of slavery by the non-admission ef , nev States iuto the Union; for abolishing stave,-y in the District of Col tun\u2014 bia; t c' prevent the introduct ion Of slavery in the \u2022 i \"erritories; to pre- vent i nternal slave trade between the S tates; and respectfully ask Congress to propose, without de\u2014 lay, some vian for the irnrnediate and pcaeetirl d . of the Arnerican Union.' ' \"'he Germantovvrra lad ies address Con \u2022ress, as ' \u2022r 'ear Friends,' ' aud after an appropriate prayer, bid you an anoe-tionate farewell.\" Many joined the above gentlemen in debate, wh was generally worm , crirninative mud recrimina- t ive; somewhat dramat AA' i th some syrnptoms of the tragic. Query; If the people, the whole people, want the Union peacefully dissol ved, why not dissolve it? Why ask Congress to do a thing they have no povzer t o do? Cota- gress did not make the Union; the Union made Congress, and t he people made the Union; conse\u2014 quently, on the principles of fed- eral republicanism, the same power that makes must unmake, if un\u2014 made at all; aard if the Union is ever peacefully dissolved, it will be by the sovereign people who- made it; for they alone possess the rightful povver of dis*olution with- in themselves, and not in their Senators or Re presen tatives; and we hope we shall never again hear of any portion of the American people petitioning C0!1gress to do what It has no power to do, even if it had t he disposit ion. Let our Union rernaitl forever, peacefully! TERRIBLE IN SAN FRANCISCO. An appalling and destructive fire occurred on the 24th of r\u00bbe- cernber, which threatened for a time to reduce the fatuous city of San Fraucisco to a heap of smok- ing ruins. T he fire broke out in Exchange, and in t vve hours, nearly a million of dollars worth of property was destroyed. The Parker louse was among buildings burned. All the build- ings, except the I)elr-nouico Hotel, on Portsmouth \u2022square, and all on Wash ington street, commenc at the ' 'Eldorado \" aud running to Nontgomery street, were burned. \"Ithe Parker Ilouse, U. S. Res- tan-rat, Exchange, Eldorado, Mer\u2014 chatat's Exchange, Our ouse. Central if onse, - Washington Ar- cade, Pollard Co's. Auctioti Room, Guerschard Van Buren's Establishment, and many more valuable buildings burned. or blown up, t o stop the progress of the fire.",
+            "word_accuracy": 88.4,
+            "char_accuracy": 81.9,
+            "total_words": 845,
+            "not_found": 98,
+            "errors": "sceekty,Circurnstances,perrnit,Deserct,de-,nexioa,scien-,aeral,dornestic,econorny,ob-,servation,wltieh,ruay,wellhre,fel-,\u2022ur,uity,exceutiov,recaz\u2022d,rneekness,re.vvard,pleasnre,nnnnic.atinr\u2022r,receiviug,nunicatinns,'ld,Nncs,poetesses,vected,sub-,wzvcrant,Tcrrns,nucilith.s,iava,sertiou,juare,.resi,\u2022O,tered,vol-,iliessrs,S\u20ac.\u2022ward,Jnecting,Wilrnirzgton,gency,tab!e,tiotrs,inerease,iuto,stave,-y,introduct,erritories,nternal,irnrnediate,pcaeetirl,Arnerican,Germantovvrra,\u2022ress,\u2022r,anoe,tionate,crirninative,recrimina-,dramat,syrnptoms,dissol,povzer,Cota-,conse,quently,fed-,who-,povver,dis*olution,with-,presen,tatives,C0!1gress,disposit,rernaitl,r\u00bbe-,cernber,Fraucisco,smok-,build-,I)elr,nouico,\u2022square,ington,commenc,Nontgomery,Ilouse,Res-,chatat,Ar-,Auctioti,Guerschard",
+            "total_chars": 3701,
+            "total_chars_of_error_words": 670
+        }
+    ],
+    "output_id": "Deseret_News_1850_06_15_Page_1"
+}

@@ -1,0 +1,9 @@
+{
+    "keys": {
+        "GOOGLE_APPLICATION_CREDENTIALS": "ADD YOUR subscription_key HERE",
+        "COMPUTER_VISION_SUBSCRIPTION_KEY": "ADD YOUR subscription_key HERE"
+    },
+
+    "hits_per_min": 200
+
+}

@@ -1,0 +1,210 @@
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cloudvision</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/bootstrap.min.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/flexslider.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/fontawesome-all.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/marriott.css' %}">
+    <style>
+
+		.user_card {
+			width: 350px;
+			margin-top: auto;
+			margin-bottom: auto;
+			background: White;
+			position: relative;
+			display: flex;
+			justify-content: center;
+			flex-direction: column;
+			padding: 10px;
+			padding-top: 30px;
+			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+			-webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+			-moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+			border-radius: 5px;
+
+		}
+
+		.form_container {
+			margin-top: 20px;
+		}
+
+		#form-title{
+			color: #000000;
+		}
+		.login_btn {
+			width: 100%;
+			background: #CC0000 !important;
+			color: white !important;
+		}
+		.login_btn:focus {
+			box-shadow: none !important;
+			outline: 0px !important;
+		}
+		.login_container {
+			padding: 0 2rem;
+		}
+		.input-group-text {
+			background: #CC0000 !important;
+			color: white !important;
+			border: 0 !important;
+			border-radius: 0.25rem 0 0 0.25rem !important;
+		}
+		.input_user,
+		.input_pass:focus {
+			box-shadow: none !important;
+			outline: 0px !important;
+		}
+
+	</style>
+</head>
+<body>
+<header>
+    <a id="skip" class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+    <!-- Start Main Nav  -->
+    <div id="Mnav">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="navbar navbar-expand-lg navbar-light"><a class="navbar-brand"
+                                                                            href="https://lib.utah.edu/"><img
+                            src="{% static 'mlib-theme/images/marriott-library-logo.png' %}"
+                            alt="Marriott Library Logo"></a>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Main Nav -->
+</header>
+<div class="main-search collapse" id="main-search">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="homesearch-container">
+                    <div class="searchbox">
+                        <form>
+                            <div class="form-row">
+                                <div class="col">
+                                    <label class="sr-only" for="marriottFederatedSearch">Search Marriott Library
+                                        Resources</label>
+                                    <div class="input-group">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text">Search</div>
+                                        </div>
+                                        <input id="marriottFederatedSearch" class="form-control form-control-lg"
+                                               type="text" name="search" value="">
+                                    </div>
+                                </div>
+                                <div class="col-auto search-options-container">
+                                    <select id="SearchOptions" class="form-control form-control-lg search-options">
+                                        <option value="all">Everything</option>
+                                        <option value="us">USearch Catalog</option>
+                                        <option value="w">Website</option>
+                                        <option value="cr">Course Reserves</option>
+                                        <option value="lg">Subject Guides</option>
+                                        <option value="dl">Digital Library</option>
+                                    </select>
+                                </div>
+                                <div class="col-auto">
+                                    <button class="btn btn-search btn-lg" onclick="Teleport(); return false;"><em
+                                            class="fas fa-search"><!--Search Icon --></em></button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="one-search-welcome">
+                        <a class="float-right advanced-search"
+                           href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?vid=UTAH&amp;mode=advanced">Advanced
+                            Catalog Search</a>
+                        <h2>All U Need</h2>
+                        <p>Your gateway to the
+                            <a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?vid=UTAH">Library
+                                Catalog</a>,
+                            <a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?tab=uuu_alma_cr_restricted&amp;search_scope=UUU_ALMA_CR_RESTRICTED&amp;vid=UTAH&amp;lang=en_US&amp;offset=0">Course
+                                Reserves</a>,
+                            <a href="https://collections.lib.utah.edu">Digital Items</a>,
+                            <a href="https://gcse.search.utah.edu/index.php?site=Look-only-in-marriott-library-main-website&amp;gcse_action=site_search">Library
+                                Website search results</a>,
+                            and more simultaneously!
+                        </p>
+                    </div>
+                    <div class="buttons-flex-links">
+                        <a class="button content-button" href="https://lib.utah.edu/collections/">Collections</a>
+                        <a class="button content-button" href="https://databases.tools.lib.utah.edu/">Databases</a>
+                        <a class="button content-button"
+                           href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/jsearch?vid=UTAH&amp;lang=en_US">Journals</a>
+                        <a class="button content-button" href="https://campusguides.lib.utah.edu/index.php?b=s">Research
+                            Guides</a>
+                    </div>
+                    <script type="text/javascript">// <![CDATA[
+
+                    </script>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Start Main Content -->
+<div class="container h-100">
+    <div class="d-flex justify-content-center h-100">
+        <div class="user_card">
+            <div class="d-flex justify-content-center">
+                <h3 id="form-title">LOGIN</h3>
+            </div>
+            <div class="d-flex justify-content-center form_container">
+                <form method="POST" action="">
+                    {% csrf_token %}
+                    <div class="input-group mb-3">
+                        <div class="input-group-append">
+                            <span class="input-group-text"><i class="fas fa-user"></i></span>
+                        </div>
+
+                        <input type="text" name="username" placeholder="Username..." class="form-control">
+                    </div>
+
+                    <div class="input-group mb-2">
+                        <div class="input-group-append">
+                            <span class="input-group-text"><i class="fas fa-key"></i></span>
+                        </div>
+
+                            <input type="password" name="password" placeholder="Password..." class="form-control" >
+                    </div>
+
+                        <div class="d-flex justify-content-center mt-3 login_container">
+                            <input class="btn login_btn" type="submit" value="Login">
+                        </div>
+                </form>
+
+            </div>
+
+            {% for message in messages %}
+                <p id="messages">{{message}}</p>
+            {% endfor %}
+
+            <div class="mt-4">
+                <div class="d-flex justify-content-center links">
+                    Don't have an account? <a href="{% url 'register' %}" class="ml-2">Sign Up</a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Main Content -->
+<!-- Start Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col"><img
+                    src="{% static 'mlib-theme/images/marriottLibrary-logo-footer.png' %}"
+                    alt="Marriott Library Logo"></div>
+        </div>
+    </div>
+</footer><!-- End Footer -->
+
+</body>
+</html>

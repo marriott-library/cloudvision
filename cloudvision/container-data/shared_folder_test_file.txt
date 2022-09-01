@@ -1,0 +1,4 @@
+ABSOLUTE_PATH\TO\LOCAL\DATA_STORAGE_DIR\:/cloudvision/container-data/
+
+Local storage: ABSOLUTE_PATH\TO\LOCAL\DATA_STORAGE_DIR\
+Shared Folder in Docker container: /cloudvision/container-data/

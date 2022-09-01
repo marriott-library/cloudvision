@@ -1,0 +1,192 @@
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cloudvision</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/bootstrap.min.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/flexslider.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/fontawesome-all.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/marriott.css' %}">
+    <script src="{% static 'mlib-theme/js/jquery.js' %}"></script>
+    <style>
+        .logout {
+            float:right;  
+            padding-right: 5px;
+            font-size:15;
+        }
+
+    </style>
+</head>
+<body>
+<body>
+<header>
+    <a id="skip" class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+    <!-- Start Main Nav  -->
+    <div id="Mnav">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="navbar navbar-expand-lg navbar-light"><a class="navbar-brand"
+                                                                            href="https://lib.utah.edu/"><img
+                            src="{% static 'mlib-theme/images/marriott-library-logo.png' %}"
+                            alt="Marriott Library Logo"></a>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Main Nav -->
+</header>
+
+<div class="ml-breadcrumb">
+    <div class="container">
+        <a class="badge badge-secondary logout" href="/logout/" style="margin-top:5">Logout</a>
+        <ul class="breadcrumb">
+            <li class="icon-angle-double-right"><a href="/oai/">OAI</a></li>
+            <li class="icon-angle-double-right"><a href="/import/">Import</a></li>
+            <li class="icon-angle-double-right"><a href="/results/">Results</a></li>
+        </ul>
+    </div>
+</div>
+
+
+<!-- Start Main Content -->
+
+{% block content %}
+
+<form id="modifySingleTag" name="ModifiedSingletag" method="post" enctype="multipart/form-data"
+      style="padding-left: 25%;    padding-right: 25%;    padding-top: 15px;    padding-bottom: 15px;"> {% csrf_token %}
+    
+    <h6>Upload TSV File</h6>
+    {{ form }}
+
+    {% if correct %}
+        <p></p>        
+    {% else %}
+        <p>Please upload a .tsv file</p>
+    {% endif %}
+
+    <div class="form-group row" style="margin:10px;">
+        <label for="framework_select">Choose OCR Framework:</label>
+        <select id="framework_select" name ="framework_select" class="form-control form-control-lg">
+            <option value="azure">Azure</option>
+            <option value="google_vision">Google Vision</option>
+            <option value="tesseract">Tesseract</option>
+        </select>
+    </div>
+
+    <div class="buttons" style="padding-bottom: 40px;">
+        <button id="modifyButton" name="Modifytag" type="submit" class="btn btn-primary" title=""
+                value="Modify">Process Files
+                <span class="spinner-border spinner-border-sm" name="OCRButton" style="display:none">
+                </span>
+        </button>
+    </div>
+
+    <p id="successText" style="display:none">OCR Data successfully processed.
+    </p>
+
+    <a href="{% url 'template_tsv' filename='template.tsv' %}">Download TSV Template</a>
+
+</form>
+
+<form id="viewJob" action="" style="display:none">
+    <div class="buttons" style="padding-bottom: 40px;"></div>
+        <button id="viewResults" name="Modifytag"  class="btn btn-primary">
+            View Results
+        </button>
+    </div>
+</form>
+
+
+
+
+{% endblock %}
+
+
+<!--End
+
+mine -->
+
+<!--define loading spinner and fixed header in table-->
+<style>
+.loading{
+  width: 100%;
+  padding: 1%;
+  padding-top:10%;
+  position: absolute;
+  z-index: 99;
+  text-align: center;
+}
+
+.tableFixHead          { overflow-y: auto; height: 100px; }
+.tableFixHead thead th { position: sticky; top: 0; }
+
+/* Just common table stuff. Really. */
+table  { border-collapse: collapse; width: 100%; }
+th, td { padding: 8px 16px; }
+th     { background:#eee; }
+
+</style>
+<script>
+$('#modifySingleTag').on('submit',function(e){
+    e.preventDefault();
+    process_ocr();
+});
+
+//Submit OCR Request via Ajax call
+function process_ocr(){
+url = "{{ request.scheme }}://{{ request.get_host }}/import/";
+var csrftoken = $('input[name="csrfmiddlewaretoken"]').val();
+var formData = new FormData(document.getElementById('modifySingleTag'));
+
+$.ajax({
+    url: url,
+    method : 'POST',
+    data: formData,
+    headers: {
+        'X-CSRFToken': csrftoken
+    },
+    contentType: false,
+    cache: false,
+    processData:false,
+    beforeSend: function(){
+        $('span[name="OCRButton"]').prop("style", "display:block");
+        $('#modifyButton').prop('disabled', true);
+        },
+    success: function(data){
+        $("#successText").prop("style", "display:block");
+        $('#viewResults').prop("style", "padding-left: 25%; padding-right: 25%; padding-top: 15px; padding-bottom: 15px;");
+        $('#viewJob').prop("action", "/results/"+data);
+        $('#viewJob').prop("style", "padding-left: 25%; padding-right: 25%; padding-top: 15px; padding-bottom: 15px;")
+        },
+    complete: function(){
+        $('span[name="OCRButton"]').prop("style", "display:none");
+        $('#modifyButton').prop('disabled', false);
+        //clear upload file prevent duplicate process
+        $(':file').val("");
+
+        }
+});
+}
+
+
+</script>
+<!-- End Main Content -->
+<!-- Start Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col"><img
+                    src="{% static 'mlib-theme/images/marriottLibrary-logo-footer.png' %}"
+                    alt="Marriott Library Logo"></div>
+        </div>
+    </div>
+</footer><!-- End Footer -->
+
+
+</body>
+
+
+</body>
+</html>

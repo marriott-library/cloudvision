@@ -1,0 +1,3466 @@
+{
+    "data": [
+        {
+            "boundingBox": "257,56,23,15",
+            "text": "N."
+        },
+        {
+            "boundingBox": "288,56,23,15",
+            "text": "V."
+        },
+        {
+            "boundingBox": "423,57,10,13",
+            "text": "J"
+        },
+        {
+            "boundingBox": "435,62,21,8",
+            "text": "Ail"
+        },
+        {
+            "boundingBox": "458,68,4,2",
+            "text": "_"
+        },
+        {
+            "boundingBox": "469,57,30,14",
+            "text": "22."
+        },
+        {
+            "boundingBox": "268,79,158,17",
+            "text": "MF,SSAGE."
+        },
+        {
+            "boundingBox": "136,107,38,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "188,106,82,17",
+            "text": "Ifouse"
+        },
+        {
+            "boundingBox": "281,107,27,20",
+            "text": "of"
+        },
+        {
+            "boundingBox": "322,105,199,22",
+            "text": "J?.eprcsentatives"
+        },
+        {
+            "boundingBox": "124,134,20,19",
+            "text": "f"
+        },
+        {
+            "boundingBox": "152,133,37,16",
+            "text": "the"
+        },
+        {
+            "boundingBox": "301,133,88,16",
+            "text": "Sir.ztcs;"
+        },
+        {
+            "boundingBox": "213,160,18,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "238,158,29,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "188,177,18,10",
+            "text": "Co"
+        },
+        {
+            "boundingBox": "333,174,19,12",
+            "text": "\u2022if"
+        },
+        {
+            "boundingBox": "401,174,51,16",
+            "text": "bo.iy,"
+        },
+        {
+            "boundingBox": "221,192,6,11",
+            "text": "I"
+        },
+        {
+            "boundingBox": "325,191,39,14",
+            "text": "inst,"
+        },
+        {
+            "boundingBox": "343,241,55,13",
+            "text": "asked"
+        },
+        {
+            "boundingBox": "413,241,26,12",
+            "text": "for"
+        },
+        {
+            "boundingBox": "447,241,29,17",
+            "text": "'by"
+        },
+        {
+            "boundingBox": "223,275,36,13",
+            "text": "into"
+        },
+        {
+            "boundingBox": "266,274,55,17",
+            "text": "ome.e,"
+        },
+        {
+            "boundingBox": "331,274,7,13",
+            "text": "I"
+        },
+        {
+            "boundingBox": "344,274,54,13",
+            "text": "found"
+        },
+        {
+            "boundingBox": "445,274,74,16",
+            "text": "military"
+        },
+        {
+            "boundingBox": "83,297,11,8",
+            "text": "r:"
+        },
+        {
+            "boundingBox": "216,292,21,12",
+            "text": "Of"
+        },
+        {
+            "boundingBox": "241,292,30,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "278,292,109,16",
+            "text": "department"
+        },
+        {
+            "boundingBox": "394,291,22,13",
+            "text": "of"
+        },
+        {
+            "boundingBox": "424,291,96,13",
+            "text": "California"
+        },
+        {
+            "boundingBox": "192,309,28,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "228,309,89,12",
+            "text": "functions"
+        },
+        {
+            "boundingBox": "325,308,22,13",
+            "text": "of"
+        },
+        {
+            "boundingBox": "354,308,42,13",
+            "text": "civil"
+        },
+        {
+            "boundingBox": "403,311,86,13",
+            "text": "governor"
+        },
+        {
+            "boundingBox": "501,308,18,12",
+            "text": "in"
+        },
+        {
+            "boundingBox": "85,327,37,12",
+            "text": "that"
+        },
+        {
+            "boundingBox": "355,325,8,12",
+            "text": "T"
+        },
+        {
+            "boundingBox": "423,327,17,10",
+            "text": "t.\""
+        },
+        {
+            "boundingBox": "451,327,29,11",
+            "text": "act"
+        },
+        {
+            "boundingBox": "488,328,30,9",
+            "text": "tau-"
+        },
+        {
+            "boundingBox": "158,346,34,10",
+            "text": "tr.*'"
+        },
+        {
+            "boundingBox": "196,345,6,10",
+            "text": "t"
+        },
+        {
+            "boundingBox": "205,347,8,8",
+            "text": "v"
+        },
+        {
+            "boundingBox": "223,343,21,12",
+            "text": "Ot-"
+        },
+        {
+            "boundingBox": "256,343,16,11",
+            "text": "G"
+        },
+        {
+            "boundingBox": "470,341,48,13",
+            "text": "with-"
+        },
+        {
+            "boundingBox": "84,365,9,7",
+            "text": "e"
+        },
+        {
+            "boundingBox": "96,363,19,9",
+            "text": "at"
+        },
+        {
+            "boundingBox": "134,362,4,10",
+            "text": "'"
+        },
+        {
+            "boundingBox": "225,359,20,13",
+            "text": "of"
+        },
+        {
+            "boundingBox": "261,362,11,9",
+            "text": "a"
+        },
+        {
+            "boundingBox": "274,363,9,7",
+            "text": "\""
+        },
+        {
+            "boundingBox": "285,363,10,12",
+            "text": "y"
+        },
+        {
+            "boundingBox": "347,376,17,12",
+            "text": "in"
+        },
+        {
+            "boundingBox": "422,374,96,17",
+            "text": "Territory."
+        },
+        {
+            "boundingBox": "321,393,65,12",
+            "text": ".Eistnrb"
+        },
+        {
+            "boundingBox": "300,409,116,16",
+            "text": "predecessor,"
+        },
+        {
+            "boundingBox": "85,444,5,12",
+            "text": "i"
+        },
+        {
+            "boundingBox": "196,444,9,11",
+            "text": "r!"
+        },
+        {
+            "boundingBox": "209,444,15,11",
+            "text": "i'i"
+        },
+        {
+            "boundingBox": "232,444,28,11",
+            "text": "not"
+        },
+        {
+            "boundingBox": "452,446,66,12",
+            "text": "power:'"
+        },
+        {
+            "boundingBox": "386,511,44,11",
+            "text": "nave"
+        },
+        {
+            "boundingBox": "352,529,18,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "377,527,29,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "165,565,9,8",
+            "text": "a"
+        },
+        {
+            "boundingBox": "242,563,17,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "501,559,20,12",
+            "text": "of"
+        },
+        {
+            "boundingBox": "122,580,63,15",
+            "text": "treaty,"
+        },
+        {
+            "boundingBox": "320,578,16,11",
+            "text": "in"
+        },
+        {
+            "boundingBox": "350,577,29,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "388,580,58,13",
+            "text": "power"
+        },
+        {
+            "boundingBox": "454,576,22,13",
+            "text": "Of"
+        },
+        {
+            "boundingBox": "489,576,29,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "238,597,18,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "436,595,17,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "302,632,18,8",
+            "text": "as"
+        },
+        {
+            "boundingBox": "446,627,21,12",
+            "text": "all"
+        },
+        {
+            "boundingBox": "475,628,42,10",
+            "text": "ruat-"
+        },
+        {
+            "boundingBox": "231,646,15,11",
+            "text": "i:'"
+        },
+        {
+            "boundingBox": "256,647,6,10",
+            "text": "t"
+        },
+        {
+            "boundingBox": "310,645,110,13",
+            "text": "Territories,"
+        },
+        {
+            "boundingBox": "442,645,40,11",
+            "text": "sent"
+        },
+        {
+            "boundingBox": "501,678,17,11",
+            "text": "to"
+        },
+        {
+            "boundingBox": "391,698,16,8",
+            "text": "v.'"
+        },
+        {
+            "boundingBox": "410,693,41,13",
+            "text": "hose"
+        },
+        {
+            "boundingBox": "460,694,10,12",
+            "text": "d"
+        },
+        {
+            "boundingBox": "473,693,45,13",
+            "text": "al.:es"
+        },
+        {
+            "boundingBox": "120,717,11,12",
+            "text": "p"
+        },
+        {
+            "boundingBox": "378,711,140,15",
+            "text": "ar-eornp,xuyin\u2022'"
+        },
+        {
+            "boundingBox": "383,730,17,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "459,731,57,9",
+            "text": "e\u00e6ver-"
+        },
+        {
+            "boundingBox": "127,746,23,16",
+            "text": "Lvy-"
+        },
+        {
+            "boundingBox": "198,750,50,12",
+            "text": "prop,'"
+        },
+        {
+            "boundingBox": "251,749,7,9",
+            "text": "r"
+        },
+        {
+            "boundingBox": "107,760,5,15",
+            "text": "i"
+        },
+        {
+            "boundingBox": "166,766,14,9",
+            "text": "'v"
+        },
+        {
+            "boundingBox": "183,765,12,9",
+            "text": "'t"
+        },
+        {
+            "boundingBox": "392,762,18,11",
+            "text": "to"
+        },
+        {
+            "boundingBox": "456,760,61,16",
+            "text": "people"
+        },
+        {
+            "boundingBox": "167,779,19,13",
+            "text": "T."
+        },
+        {
+            "boundingBox": "190,779,80,12",
+            "text": "\u2022rritorics"
+        },
+        {
+            "boundingBox": "277,783,17,8",
+            "text": "lit"
+        },
+        {
+            "boundingBox": "296,783,10,12",
+            "text": "y"
+        },
+        {
+            "boundingBox": "316,779,55,12",
+            "text": "desire"
+        },
+        {
+            "boundingBox": "378,778,39,12",
+            "text": "tint."
+        },
+        {
+            "boundingBox": "474,777,43,12",
+            "text": "ere\u2022r-"
+        },
+        {
+            "boundingBox": "84,797,11,11",
+            "text": "ri"
+        },
+        {
+            "boundingBox": "360,794,70,20",
+            "text": "comp!y"
+        },
+        {
+            "boundingBox": "84,813,109,16",
+            "text": "requisitions"
+        },
+        {
+            "boundingBox": "384,812,18,12",
+            "text": "of"
+        },
+        {
+            "boundingBox": "414,810,29,13",
+            "text": "the"
+        },
+        {
+            "boundingBox": "158,830,44,13",
+            "text": "t-\u201errn"
+        },
+        {
+            "boundingBox": "281,829,21,13",
+            "text": "Of"
+        },
+        {
+            "boundingBox": "333,829,49,12",
+            "text": "Stinte"
+        },
+        {
+            "boundingBox": "396,828,114,12",
+            "text": "constitution"
+        },
+        {
+            "boundingBox": "83,847,33,12",
+            "text": "and"
+        },
+        {
+            "boundingBox": "207,846,29,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "251,851,17,7",
+            "text": "so"
+        },
+        {
+            "boundingBox": "271,850,27,8",
+            "text": "rile"
+        },
+        {
+            "boundingBox": "344,845,95,16",
+            "text": "Conxresg,"
+        },
+        {
+            "boundingBox": "453,844,43,12",
+            "text": "with"
+        },
+        {
+            "boundingBox": "508,847,11,9",
+            "text": "a"
+        },
+        {
+            "boundingBox": "134,867,10,9",
+            "text": "\u2022r"
+        },
+        {
+            "boundingBox": "152,863,10,12",
+            "text": "CC"
+        },
+        {
+            "boundingBox": "163,867,13,8",
+            "text": "'r"
+        },
+        {
+            "boundingBox": "282,864,35,11",
+            "text": "into"
+        },
+        {
+            "boundingBox": "84,881,29,11",
+            "text": "but"
+        },
+        {
+            "boundingBox": "121,880,8,12",
+            "text": "I"
+        },
+        {
+            "boundingBox": "215,884,14,8",
+            "text": "at"
+        },
+        {
+            "boundingBox": "231,880,84,16",
+            "text": "It;eipate,"
+        },
+        {
+            "boundingBox": "418,882,19,8",
+            "text": "or"
+        },
+        {
+            "boundingBox": "448,878,70,12",
+            "text": "author-"
+        },
+        {
+            "boundingBox": "341,900,35,12",
+            "text": "any"
+        },
+        {
+            "boundingBox": "444,898,74,13",
+            "text": "govern-"
+        },
+        {
+            "boundingBox": "140,918,15,8",
+            "text": "w"
+        },
+        {
+            "boundingBox": "158,914,3,12",
+            "text": "i"
+        },
+        {
+            "boundingBox": "165,914,47,12",
+            "text": "tir\u2022v.t"
+        },
+        {
+            "boundingBox": "324,912,20,13",
+            "text": "Of"
+        },
+        {
+            "boundingBox": "452,915,31,8",
+            "text": "r...r"
+        },
+        {
+            "boundingBox": "489,910,29,13",
+            "text": "did"
+        },
+        {
+            "boundingBox": "101,930,89,13",
+            "text": "authorize"
+        },
+        {
+            "boundingBox": "199,935,21,7",
+            "text": "an"
+        },
+        {
+            "boundingBox": "429,932,19,8",
+            "text": "or"
+        },
+        {
+            "boundingBox": "84,949,18,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "250,951,18,8",
+            "text": "or"
+        },
+        {
+            "boundingBox": "275,947,78,12",
+            "text": "exereige"
+        },
+        {
+            "boundingBox": "361,950,22,8",
+            "text": "an"
+        },
+        {
+            "boundingBox": "386,950,9,8",
+            "text": "v"
+        },
+        {
+            "boundingBox": "500,948,20,9",
+            "text": "or"
+        },
+        {
+            "boundingBox": "159,968,41,8",
+            "text": "over"
+        },
+        {
+            "boundingBox": "453,966,19,8",
+            "text": "or"
+        },
+        {
+            "boundingBox": "479,965,40,9",
+            "text": "over"
+        },
+        {
+            "boundingBox": "84,985,21,8",
+            "text": "\u2022n"
+        },
+        {
+            "boundingBox": "107,986,11,11",
+            "text": "y"
+        },
+        {
+            "boundingBox": "347,984,18,7",
+            "text": "or"
+        },
+        {
+            "boundingBox": "397,979,13,12",
+            "text": "'d"
+        },
+        {
+            "boundingBox": "413,979,23,13",
+            "text": "if\""
+        },
+        {
+            "boundingBox": "438,982,30,13",
+            "text": "Ing"
+        },
+        {
+            "boundingBox": "474,978,46,13",
+            "text": "their"
+        },
+        {
+            "boundingBox": "176,997,113,13",
+            "text": "institutions."
+        },
+        {
+            "boundingBox": "301,1000,19,9",
+            "text": "or"
+        },
+        {
+            "boundingBox": "381,996,22,13",
+            "text": "Of"
+        },
+        {
+            "boundingBox": "453,1000,30,10",
+            "text": "pro"
+        },
+        {
+            "boundingBox": "486,1000,8,7",
+            "text": "v"
+        },
+        {
+            "boundingBox": "499,995,20,12",
+            "text": "is-"
+        },
+        {
+            "boundingBox": "211,1018,46,12",
+            "text": "prop'"
+        },
+        {
+            "boundingBox": "261,1014,33,13",
+            "text": "'sod"
+        },
+        {
+            "boundingBox": "444,1012,29,12",
+            "text": "On"
+        },
+        {
+            "boundingBox": "486,1014,5,10",
+            "text": "t"
+        },
+        {
+            "boundingBox": "217,1031,110,12",
+            "text": "instruelio\u00bbs"
+        },
+        {
+            "boundingBox": "336,1031,51,14",
+            "text": "triven"
+        },
+        {
+            "boundingBox": "425,1033,28,12",
+            "text": "my"
+        },
+        {
+            "boundingBox": "460,1030,49,11",
+            "text": "order"
+        },
+        {
+            "boundingBox": "511,1035,9,8",
+            "text": "*"
+        },
+        {
+            "boundingBox": "425,1046,58,16",
+            "text": "p..lir:y"
+        },
+        {
+            "boundingBox": "491,1046,29,13",
+            "text": "ad-"
+        },
+        {
+            "boundingBox": "84,1066,51,15",
+            "text": "opted"
+        },
+        {
+            "boundingBox": "310,1065,7,10",
+            "text": "q"
+        },
+        {
+            "boundingBox": "321,1063,85,13",
+            "text": "\u2022\u201e..l\u00e4fi\u00bbrnia"
+        },
+        {
+            "boundingBox": "469,1064,50,18",
+            "text": "origi-"
+        },
+        {
+            "boundingBox": "196,1081,42,13",
+            "text": "with"
+        },
+        {
+            "boundingBox": "370,1080,38,13",
+            "text": "that"
+        },
+        {
+            "boundingBox": "190,1098,20,12",
+            "text": "of"
+        },
+        {
+            "boundingBox": "323,1098,12,10",
+            "text": "S"
+        },
+        {
+            "boundingBox": "338,1099,43,10",
+            "text": "tutee"
+        },
+        {
+            "boundingBox": "436,1096,79,14",
+            "text": "desirous"
+        },
+        {
+            "boundingBox": "83,1117,19,11",
+            "text": "to"
+        },
+        {
+            "boundingBox": "240,1115,17,11",
+            "text": "in"
+        },
+        {
+            "boundingBox": "266,1115,29,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "305,1114,89,13",
+            "text": "formation"
+        },
+        {
+            "boundingBox": "404,1112,20,13",
+            "text": "oi\u2022"
+        },
+        {
+            "boundingBox": "430,1118,34,12",
+            "text": "arty"
+        },
+        {
+            "boundingBox": "476,1118,42,11",
+            "text": "gov-"
+        },
+        {
+            "boundingBox": "83,1136,30,8",
+            "text": ".:rn"
+        },
+        {
+            "boundingBox": "117,1134,48,10",
+            "text": "ment"
+        },
+        {
+            "boundingBox": "286,1132,17,11",
+            "text": "in"
+        },
+        {
+            "boundingBox": "311,1131,22,12",
+            "text": "its"
+        },
+        {
+            "boundingBox": "340,1131,96,14",
+            "text": "character,"
+        },
+        {
+            "boundingBox": "443,1133,19,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "473,1131,21,11",
+            "text": "i.e"
+        },
+        {
+            "boundingBox": "84,1149,29,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "123,1152,61,13",
+            "text": "proper"
+        },
+        {
+            "boundingBox": "240,1147,92,13",
+            "text": "sub\u00fc1itt4?d"
+        },
+        {
+            "boundingBox": "340,1149,16,11",
+            "text": "to"
+        },
+        {
+            "boundingBox": "368,1147,96,16",
+            "text": "Congress,"
+        },
+        {
+            "boundingBox": "468,1149,31,14",
+            "text": "yet"
+        },
+        {
+            "boundingBox": "504,1148,15,12",
+            "text": "it"
+        },
+        {
+            "boundingBox": "157,1166,20,11",
+            "text": "be"
+        },
+        {
+            "boundingBox": "186,1165,87,16",
+            "text": "distinctly"
+        },
+        {
+            "boundingBox": "284,1164,44,13",
+            "text": "uncle"
+        },
+        {
+            "boundingBox": "331,1168,7,8",
+            "text": "r"
+        },
+        {
+            "boundingBox": "339,1164,47,13",
+            "text": "stood"
+        },
+        {
+            "boundingBox": "440,1166,7,10",
+            "text": "t:"
+        },
+        {
+            "boundingBox": "449,1164,21,12",
+            "text": "he"
+        },
+        {
+            "boundingBox": "479,1164,40,16",
+            "text": "plan"
+        },
+        {
+            "boundingBox": "300,1185,27,9",
+            "text": "Int'"
+        },
+        {
+            "boundingBox": "331,1183,14,10",
+            "text": "st"
+        },
+        {
+            "boundingBox": "378,1181,30,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "112,1200,30,11",
+            "text": "f.hc"
+        },
+        {
+            "boundingBox": "246,1198,45,12",
+            "text": "their"
+        },
+        {
+            "boundingBox": "302,1202,41,9",
+            "text": "own"
+        },
+        {
+            "boundingBox": "351,1197,92,13",
+            "text": "deliberate"
+        },
+        {
+            "boundingBox": "451,1202,9,7",
+            "text": "c"
+        },
+        {
+            "boundingBox": "125,1216,85,16",
+            "text": "origiunte"
+        },
+        {
+            "boundingBox": "220,1215,40,12",
+            "text": "with"
+        },
+        {
+            "boundingBox": "353,1219,36,11",
+            "text": "ves,"
+        },
+        {
+            "boundingBox": "233,1232,28,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "349,1236,7,7",
+            "text": "v"
+        },
+        {
+            "boundingBox": "359,1236,15,7",
+            "text": "e."
+        },
+        {
+            "boundingBox": "304,1252,34,13",
+            "text": "mny\u2022"
+        },
+        {
+            "boundingBox": "500,1249,18,11",
+            "text": "to"
+        },
+        {
+            "boundingBox": "134,1266,60,16",
+            "text": "passed"
+        },
+        {
+            "boundingBox": "204,1266,22,16",
+            "text": "by"
+        },
+        {
+            "boundingBox": "235,1269,21,8",
+            "text": "Nil"
+        },
+        {
+            "boundingBox": "257,1270,11,11",
+            "text": "y"
+        },
+        {
+            "boundingBox": "276,1265,87,16",
+            "text": "supposed"
+        },
+        {
+            "boundingBox": "499,1265,18,12",
+            "text": "in"
+        },
+        {
+            "boundingBox": "96,1284,3,4",
+            "text": "'"
+        },
+        {
+            "boundingBox": "193,1287,19,8",
+            "text": "or"
+        },
+        {
+            "boundingBox": "218,1282,20,12",
+            "text": "oi\u2022"
+        },
+        {
+            "boundingBox": "243,1286,33,13",
+            "text": "any"
+        },
+        {
+            "boundingBox": "285,1286,53,8",
+            "text": "cense"
+        },
+        {
+            "boundingBox": "340,1286,8,8",
+            "text": "3"
+        },
+        {
+            "boundingBox": "417,1282,16,11",
+            "text": "in"
+        },
+        {
+            "boundingBox": "439,1281,56,13",
+            "text": "either"
+        },
+        {
+            "boundingBox": "233,1298,98,13",
+            "text": "Inenti.onod"
+        },
+        {
+            "boundingBox": "345,1299,18,12",
+            "text": "in"
+        },
+        {
+            "boundingBox": "373,1301,5,10",
+            "text": "t"
+        },
+        {
+            "boundingBox": "464,1298,53,16",
+            "text": "ation,"
+        },
+        {
+            "boundingBox": "151,1321,19,7",
+            "text": "ve\u2022"
+        },
+        {
+            "boundingBox": "179,1320,22,8",
+            "text": "n.."
+        },
+        {
+            "boundingBox": "325,1319,23,8",
+            "text": "on"
+        },
+        {
+            "boundingBox": "356,1315,49,13",
+            "text": "those"
+        },
+        {
+            "boundingBox": "105,1334,27,12",
+            "text": "As"
+        },
+        {
+            "boundingBox": "139,1333,70,16",
+            "text": "already"
+        },
+        {
+            "boundingBox": "218,1333,61,14",
+            "text": "st.at.oel,"
+        },
+        {
+            "boundingBox": "287,1332,6,13",
+            "text": "I"
+        },
+        {
+            "boundingBox": "303,1332,45,13",
+            "text": "have"
+        },
+        {
+            "boundingBox": "487,1331,30,13",
+            "text": "the"
+        },
+        {
+            "boundingBox": "409,1348,68,14",
+            "text": "existed"
+        },
+        {
+            "boundingBox": "106,1384,6,12",
+            "text": "I"
+        },
+        {
+            "boundingBox": "139,1384,81,16",
+            "text": "advising"
+        },
+        {
+            "boundingBox": "232,1387,21,8",
+            "text": "an"
+        },
+        {
+            "boundingBox": "266,1383,49,16",
+            "text": "early"
+        },
+        {
+            "boundingBox": "328,1382,105,17",
+            "text": "application"
+        },
+        {
+            "boundingBox": "448,1382,23,16",
+            "text": "by"
+        },
+        {
+            "boundingBox": "487,1381,30,13",
+            "text": "the"
+        },
+        {
+            "boundingBox": "178,1400,48,13",
+            "text": "these"
+        },
+        {
+            "boundingBox": "238,1399,102,14",
+            "text": "Territories"
+        },
+        {
+            "boundingBox": "352,1399,26,13",
+            "text": "for"
+        },
+        {
+            "boundingBox": "389,1399,95,13",
+            "text": "zd%Liseion"
+        },
+        {
+            "boundingBox": "541,51,64,17",
+            "text": "States,"
+        },
+        {
+            "boundingBox": "575,70,54,12",
+            "text": "desire"
+        },
+        {
+            "boundingBox": "794,69,71,13",
+            "text": "wisdom"
+        },
+        {
+            "boundingBox": "922,68,51,16",
+            "text": "patri\u2014"
+        },
+        {
+            "boundingBox": "600,88,19,11",
+            "text": "of"
+        },
+        {
+            "boundingBox": "624,88,89,16",
+            "text": "Congress"
+        },
+        {
+            "boundingBox": "763,90,35,12",
+            "text": "opp"
+        },
+        {
+            "boundingBox": "916,85,56,12",
+            "text": "avoid-"
+        },
+        {
+            "boundingBox": "541,103,30,17",
+            "text": "ing"
+        },
+        {
+            "boundingBox": "576,104,92,13",
+            "text": "occasion."
+        },
+        {
+            "boundingBox": "756,103,34,12",
+            "text": "aud"
+        },
+        {
+            "boundingBox": "800,106,55,13",
+            "text": "angry"
+        },
+        {
+            "boundingBox": "868,103,106,12",
+            "text": "digaeus.uns"
+        },
+        {
+            "boundingBox": "541,124,49,10",
+            "text": "anion"
+        },
+        {
+            "boundingBox": "592,125,11,12",
+            "text": "g"
+        },
+        {
+            "boundingBox": "650,120,61,17",
+            "text": "people"
+        },
+        {
+            "boundingBox": "719,121,20,11",
+            "text": "of"
+        },
+        {
+            "boundingBox": "858,120,20,11",
+            "text": "S:"
+        },
+        {
+            "boundingBox": "879,121,41,11",
+            "text": "at.e:,."
+        },
+        {
+            "boundingBox": "565,137,14,13",
+            "text": "U"
+        },
+        {
+            "boundingBox": "638,139,29,11",
+            "text": "toe"
+        },
+        {
+            "boundingBox": "826,140,40,12",
+            "text": "very"
+        },
+        {
+            "boundingBox": "540,153,29,13",
+            "text": "the"
+        },
+        {
+            "boundingBox": "579,154,45,16",
+            "text": "right"
+        },
+        {
+            "boundingBox": "635,154,20,13",
+            "text": "of"
+        },
+        {
+            "boundingBox": "801,153,34,13",
+            "text": "at:d"
+        },
+        {
+            "boundingBox": "955,156,17,9",
+            "text": "to"
+        },
+        {
+            "boundingBox": "590,172,74,15",
+            "text": "altering"
+        },
+        {
+            "boundingBox": "691,187,135,16",
+            "text": "independently"
+        },
+        {
+            "boundingBox": "858,191,53,12",
+            "text": "every"
+        },
+        {
+            "boundingBox": "541,205,49,11",
+            "text": "St-aa\u2022"
+        },
+        {
+            "boundingBox": "704,204,68,16",
+            "text": "general"
+        },
+        {
+            "boundingBox": "540,221,41,16",
+            "text": "only"
+        },
+        {
+            "boundingBox": "783,221,33,12",
+            "text": "and"
+        },
+        {
+            "boundingBox": "943,223,29,8",
+            "text": "ex\u2022"
+        },
+        {
+            "boundingBox": "616,240,26,10",
+            "text": "get"
+        },
+        {
+            "boundingBox": "709,239,18,11",
+            "text": "in"
+        },
+        {
+            "boundingBox": "738,238,29,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "943,238,12,10",
+            "text": "t:"
+        },
+        {
+            "boundingBox": "958,240,14,8",
+            "text": "\u2022e"
+        },
+        {
+            "boundingBox": "542,254,14,12",
+            "text": "Q.]"
+        },
+        {
+            "boundingBox": "615,255,58,13",
+            "text": "State*"
+        },
+        {
+            "boundingBox": "675,264,4,2",
+            "text": "-"
+        },
+        {
+            "boundingBox": "912,258,9,7",
+            "text": "e"
+        },
+        {
+            "boundingBox": "540,271,57,16",
+            "text": "sively"
+        },
+        {
+            "boundingBox": "602,272,18,12",
+            "text": "to"
+        },
+        {
+            "boundingBox": "632,271,30,13",
+            "text": "the"
+        },
+        {
+            "boundingBox": "669,272,96,15",
+            "text": "respectiva\u2022"
+        },
+        {
+            "boundingBox": "944,270,28,12",
+            "text": "de:"
+        },
+        {
+            "boundingBox": "540,288,61,16",
+            "text": "signed"
+        },
+        {
+            "boundingBox": "609,291,20,10",
+            "text": "or"
+        },
+        {
+            "boundingBox": "633,288,87,16",
+            "text": "expected"
+        },
+        {
+            "boundingBox": "727,289,17,11",
+            "text": "to"
+        },
+        {
+            "boundingBox": "760,288,70,12",
+            "text": "become"
+        },
+        {
+            "boundingBox": "843,290,54,14",
+            "text": "top.eg"
+        },
+        {
+            "boundingBox": "540,305,53,13",
+            "text": "tional"
+        },
+        {
+            "boundingBox": "605,305,90,16",
+            "text": "agitxtion-"
+        },
+        {
+            "boundingBox": "718,304,47,16",
+            "text": "Still,"
+        },
+        {
+            "boundingBox": "806,304,54,13",
+            "text": "under"
+        },
+        {
+            "boundingBox": "908,306,62,10",
+            "text": "coast.'-"
+        },
+        {
+            "boundingBox": "539,322,63,15",
+            "text": "tutic,n,"
+        },
+        {
+            "boundingBox": "653,326,46,8",
+            "text": "\u2022russ"
+        },
+        {
+            "boundingBox": "706,321,32,12",
+            "text": "has"
+        },
+        {
+            "boundingBox": "746,325,57,12",
+            "text": "power"
+        },
+        {
+            "boundingBox": "810,323,18,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "573,338,46,12",
+            "text": "rules"
+        },
+        {
+            "boundingBox": "627,339,33,11",
+            "text": "and"
+        },
+        {
+            "boundingBox": "928,336,42,13",
+            "text": "Ter-"
+        },
+        {
+            "boundingBox": "539,356,66,11",
+            "text": "ritories"
+        },
+        {
+            "boundingBox": "618,355,21,12",
+            "text": "of"
+        },
+        {
+            "boundingBox": "645,355,28,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "756,355,65,14",
+            "text": "States,"
+        },
+        {
+            "boundingBox": "833,358,52,13",
+            "text": "every"
+        },
+        {
+            "boundingBox": "942,357,27,9",
+            "text": "ac\u2022"
+        },
+        {
+            "boundingBox": "539,372,81,14",
+            "text": "quisitioa"
+        },
+        {
+            "boundingBox": "654,372,4,4",
+            "text": "'"
+        },
+        {
+            "boundingBox": "657,372,84,16",
+            "text": "ferritory"
+        },
+        {
+            "boundingBox": "539,406,39,15",
+            "text": "t:ury"
+        },
+        {
+            "boundingBox": "585,405,88,13",
+            "text": "se\u2022cvaudc\u2022"
+        },
+        {
+            "boundingBox": "749,408,54,12",
+            "text": "prev.'"
+        },
+        {
+            "boundingBox": "933,404,3,3",
+            "text": "\u2022"
+        },
+        {
+            "boundingBox": "540,421,59,13",
+            "text": "Stutes"
+        },
+        {
+            "boundingBox": "773,424,30,10",
+            "text": "not"
+        },
+        {
+            "boundingBox": "816,422,19,12",
+            "text": "be"
+        },
+        {
+            "boundingBox": "540,439,36,12",
+            "text": "that"
+        },
+        {
+            "boundingBox": "703,439,39,12",
+            "text": "\u2022I'i.._\u2022"
+        },
+        {
+            "boundingBox": "592,456,33,12",
+            "text": "this"
+        },
+        {
+            "boundingBox": "801,459,10,8",
+            "text": "v"
+        },
+        {
+            "boundingBox": "812,459,8,8",
+            "text": "e"
+        },
+        {
+            "boundingBox": "786,471,66,17",
+            "text": "passed;"
+        },
+        {
+            "boundingBox": "540,490,28,11",
+            "text": "Liae_"
+        },
+        {
+            "boundingBox": "577,490,17,11",
+            "text": "in"
+        },
+        {
+            "boundingBox": "597,490,60,14",
+            "text": "Lervul,"
+        },
+        {
+            "boundingBox": "945,493,3,7",
+            "text": "\u2022"
+        },
+        {
+            "boundingBox": "951,493,9,7",
+            "text": "u"
+        },
+        {
+            "boundingBox": "960,492,11,12",
+            "text": "y"
+        },
+        {
+            "boundingBox": "669,508,6,9",
+            "text": "t"
+        },
+        {
+            "boundingBox": "704,506,93,12",
+            "text": "admission"
+        },
+        {
+            "boundingBox": "869,505,4,5",
+            "text": "\u2022"
+        },
+        {
+            "boundingBox": "887,505,41,12",
+            "text": "erriL"
+        },
+        {
+            "boundingBox": "601,523,22,16",
+            "text": "by"
+        },
+        {
+            "boundingBox": "633,523,70,12",
+            "text": "\u2022\u2022,loxieo"
+        },
+        {
+            "boundingBox": "712,527,18,7",
+            "text": "as"
+        },
+        {
+            "boundingBox": "812,522,13,12",
+            "text": "it"
+        },
+        {
+            "boundingBox": "831,526,7,8",
+            "text": "a"
+        },
+        {
+            "boundingBox": "576,540,37,12",
+            "text": "tnat."
+        },
+        {
+            "boundingBox": "810,539,34,13",
+            "text": "wili"
+        },
+        {
+            "boundingBox": "926,541,17,10",
+            "text": "t.'"
+        },
+        {
+            "boundingBox": "951,542,22,8",
+            "text": "an"
+        },
+        {
+            "boundingBox": "565,573,13,12",
+            "text": "U"
+        },
+        {
+            "boundingBox": "631,575,48,10",
+            "text": "these"
+        },
+        {
+            "boundingBox": "687,573,142,14",
+            "text": "ciceutirstun.cf\u2022g,"
+        },
+        {
+            "boundingBox": "539,590,35,12",
+            "text": "still"
+        },
+        {
+            "boundingBox": "584,590,55,15",
+            "text": "think,"
+        },
+        {
+            "boundingBox": "694,590,12,12",
+            "text": "it"
+        },
+        {
+            "boundingBox": "715,593,35,9",
+            "text": "Wag"
+        },
+        {
+            "boundingBox": "539,608,18,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "604,607,12,12",
+            "text": "it"
+        },
+        {
+            "boundingBox": "651,606,29,13",
+            "text": "tl.t_\u2022"
+        },
+        {
+            "boundingBox": "688,610,58,15",
+            "text": "powsr"
+        },
+        {
+            "boundingBox": "752,606,20,12",
+            "text": "Of"
+        },
+        {
+            "boundingBox": "619,624,20,11",
+            "text": "of"
+        },
+        {
+            "boundingBox": "540,641,64,15",
+            "text": "*States,"
+        },
+        {
+            "boundingBox": "718,640,21,12",
+            "text": "al!"
+        },
+        {
+            "boundingBox": "724,656,30,13",
+            "text": "the"
+        },
+        {
+            "boundingBox": "763,656,57,16",
+            "text": "pni.!ie"
+        },
+        {
+            "boundingBox": "563,674,16,12",
+            "text": "It"
+        },
+        {
+            "boundingBox": "609,674,104,12",
+            "text": "und.:rstood"
+        },
+        {
+            "boundingBox": "721,674,38,12",
+            "text": "that"
+        },
+        {
+            "boundingBox": "801,673,59,16",
+            "text": "peopl.\u2022"
+        },
+        {
+            "boundingBox": "893,672,28,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "539,692,39,11",
+            "text": "tern"
+        },
+        {
+            "boundingBox": "586,693,37,14",
+            "text": "part"
+        },
+        {
+            "boundingBox": "760,690,44,12",
+            "text": "huvt\u2022"
+        },
+        {
+            "boundingBox": "817,691,4,10",
+            "text": "t"
+        },
+        {
+            "boundingBox": "539,711,11,8",
+            "text": "u"
+        },
+        {
+            "boundingBox": "743,707,33,12",
+            "text": "and"
+        },
+        {
+            "boundingBox": "784,706,35,13",
+            "text": "will"
+        },
+        {
+            "boundingBox": "945,707,29,11",
+            "text": "the."
+        },
+        {
+            "boundingBox": "595,726,17,11",
+            "text": "to"
+        },
+        {
+            "boundingBox": "959,727,1,7",
+            "text": ":"
+        },
+        {
+            "boundingBox": "962,727,12,12",
+            "text": "\u2022y"
+        },
+        {
+            "boundingBox": "540,741,26,12",
+            "text": "tar"
+        },
+        {
+            "boundingBox": "713,745,10,8",
+            "text": "a"
+        },
+        {
+            "boundingBox": "738,741,54,12",
+            "text": "Stut.e."
+        },
+        {
+            "boundingBox": "540,758,45,12",
+            "text": "their"
+        },
+        {
+            "boundingBox": "597,762,19,12",
+            "text": "IL:'"
+        },
+        {
+            "boundingBox": "619,760,21,13",
+            "text": "rt.,"
+        },
+        {
+            "boundingBox": "733,758,17,11",
+            "text": "in"
+        },
+        {
+            "boundingBox": "540,777,29,10",
+            "text": "not"
+        },
+        {
+            "boundingBox": "578,775,73,16",
+            "text": "nciopted"
+        },
+        {
+            "boundingBox": "736,774,37,16",
+            "text": "very"
+        },
+        {
+            "boundingBox": "789,775,17,11",
+            "text": "in"
+        },
+        {
+            "boundingBox": "582,791,101,16",
+            "text": "expression"
+        },
+        {
+            "boundingBox": "766,791,69,14",
+            "text": "wishet-:,"
+        },
+        {
+            "boundingBox": "906,790,34,12",
+            "text": "ueh"
+        },
+        {
+            "boundingBox": "636,808,73,16",
+            "text": "tending"
+        },
+        {
+            "boundingBox": "717,810,18,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "747,807,35,13",
+            "text": "this"
+        },
+        {
+            "boundingBox": "936,810,38,12",
+            "text": "pro-"
+        },
+        {
+            "boundingBox": "605,825,22,16",
+            "text": "by"
+        },
+        {
+            "boundingBox": "636,825,30,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "748,827,38,9",
+            "text": "Sent"
+        },
+        {
+            "boundingBox": "877,827,29,13",
+            "text": "my"
+        },
+        {
+            "boundingBox": "966,830,8,3",
+            "text": "\u2014"
+        },
+        {
+            "boundingBox": "655,845,44,8",
+            "text": "were"
+        },
+        {
+            "boundingBox": "784,842,17,11",
+            "text": "in"
+        },
+        {
+            "boundingBox": "809,841,55,12",
+            "text": "active:"
+        },
+        {
+            "boundingBox": "871,844,79,12",
+            "text": "progress"
+        },
+        {
+            "boundingBox": "648,858,58,12",
+            "text": "before"
+        },
+        {
+            "boundingBox": "576,880,13,8",
+            "text": "re"
+        },
+        {
+            "boundingBox": "595,875,53,13",
+            "text": "ue,lved"
+        },
+        {
+            "boundingBox": "658,875,14,12",
+            "text": "C"
+        },
+        {
+            "boundingBox": "674,875,15,12",
+            "text": "al"
+        },
+        {
+            "boundingBox": "693,875,14,12",
+            "text": "it;"
+        },
+        {
+            "boundingBox": "807,874,18,13",
+            "text": "1.1."
+        },
+        {
+            "boundingBox": "827,878,8,7",
+            "text": "e"
+        },
+        {
+            "boundingBox": "539,893,78,12",
+            "text": "Etittat.ior."
+        },
+        {
+            "boundingBox": "847,893,17,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "539,909,20,13",
+            "text": "be"
+        },
+        {
+            "boundingBox": "569,909,52,13",
+            "text": "fi,und"
+        },
+        {
+            "boundingBox": "656,909,20,12",
+            "text": "be"
+        },
+        {
+            "boundingBox": "685,910,17,11",
+            "text": "in"
+        },
+        {
+            "boundingBox": "880,907,29,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "917,908,55,15",
+            "text": "requi-"
+        },
+        {
+            "boundingBox": "539,927,62,12",
+            "text": "Bit-ious"
+        },
+        {
+            "boundingBox": "614,926,21,13",
+            "text": "of"
+        },
+        {
+            "boundingBox": "695,926,112,12",
+            "text": "constitution"
+        },
+        {
+            "boundingBox": "861,925,29,11",
+            "text": "the"
+        },
+        {
+            "boundingBox": "909,924,13,12",
+            "text": "tJ"
+        },
+        {
+            "boundingBox": "926,924,46,13",
+            "text": "nated"
+        },
+        {
+            "boundingBox": "614,943,6,12",
+            "text": "I"
+        },
+        {
+            "boundingBox": "631,942,86,16",
+            "text": "earnestly"
+        },
+        {
+            "boundingBox": "850,942,38,12",
+            "text": "that"
+        },
+        {
+            "boundingBox": "903,941,14,12",
+            "text": "it"
+        },
+        {
+            "boundingBox": "611,978,37,14",
+            "text": "part"
+        },
+        {
+            "boundingBox": "788,977,30,11",
+            "text": "not"
+        },
+        {
+            "boundingBox": "830,974,81,13",
+            "text": "included"
+        },
+        {
+            "boundingBox": "919,975,17,11",
+            "text": "i\""
+        },
+        {
+            "boundingBox": "944,975,30,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "540,994,84,16",
+            "text": "proposed"
+        },
+        {
+            "boundingBox": "633,994,50,11",
+            "text": "Stat\"\u2022"
+        },
+        {
+            "boundingBox": "690,993,21,12",
+            "text": "of"
+        },
+        {
+            "boundingBox": "845,991,77,13",
+            "text": "believed"
+        },
+        {
+            "boundingBox": "930,994,17,10",
+            "text": "t\""
+        },
+        {
+            "boundingBox": "952,992,22,12",
+            "text": "Le"
+        },
+        {
+            "boundingBox": "541,1010,120,15",
+            "text": "uninhabited,"
+        },
+        {
+            "boundingBox": "671,1013,9,8",
+            "text": "c'"
+        },
+        {
+            "boundingBox": "683,1011,52,14",
+            "text": "xeept"
+        },
+        {
+            "boundingBox": "746,1009,17,12",
+            "text": "in"
+        },
+        {
+            "boundingBox": "777,1013,10,8",
+            "text": "a"
+        },
+        {
+            "boundingBox": "942,1012,33,9",
+            "text": "cur"
+        },
+        {
+            "boundingBox": "540,1029,74,14",
+            "text": "country"
+        },
+        {
+            "boundingBox": "615,1031,10,8",
+            "text": "n"
+        },
+        {
+            "boundingBox": "628,1031,27,8",
+            "text": "Len"
+        },
+        {
+            "boundingBox": "664,1026,3,12",
+            "text": "i"
+        },
+        {
+            "boundingBox": "671,1031,10,7",
+            "text": "r."
+        },
+        {
+            "boundingBox": "689,1026,29,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "726,1026,71,16",
+            "text": "viein:ty"
+        },
+        {
+            "boundingBox": "802,1026,20,12",
+            "text": "Of"
+        },
+        {
+            "boundingBox": "828,1025,38,12",
+            "text": "Salt"
+        },
+        {
+            "boundingBox": "875,1024,53,13",
+            "text": "Lake."
+        },
+        {
+            "boundingBox": "564,1044,16,12",
+            "text": "A"
+        },
+        {
+            "boundingBox": "588,1044,52,12",
+            "text": "claim"
+        },
+        {
+            "boundingBox": "688,1043,43,12",
+            "text": "been"
+        },
+        {
+            "boundingBox": "865,1043,28,11",
+            "text": "the"
+        },
+        {
+            "boundingBox": "900,1042,13,11",
+            "text": "S"
+        },
+        {
+            "boundingBox": "916,1043,34,10",
+            "text": "tnte"
+        },
+        {
+            "boundingBox": "955,1041,22,13",
+            "text": "Of"
+        },
+        {
+            "boundingBox": "540,1061,60,12",
+            "text": "Texas"
+        },
+        {
+            "boundingBox": "606,1063,17,9",
+            "text": "to"
+        },
+        {
+            "boundingBox": "646,1064,40,12",
+            "text": "very"
+        },
+        {
+            "boundingBox": "747,1060,66,20",
+            "text": "portion"
+        },
+        {
+            "boundingBox": "853,1059,22,12",
+            "text": "he"
+        },
+        {
+            "boundingBox": "882,1060,43,11",
+            "text": "most"
+        },
+        {
+            "boundingBox": "933,1062,41,12",
+            "text": "pop."
+        },
+        {
+            "boundingBox": "541,1078,50,12",
+            "text": "ulous"
+        },
+        {
+            "boundingBox": "598,1078,66,11",
+            "text": "district"
+        },
+        {
+            "boundingBox": "672,1076,21,13",
+            "text": "Ote"
+        },
+        {
+            "boundingBox": "751,1077,79,15",
+            "text": "errit.,ry,"
+        },
+        {
+            "boundingBox": "838,1075,99,16",
+            "text": "cortitnonl_v"
+        },
+        {
+            "boundingBox": "629,1094,22,17",
+            "text": "by"
+        },
+        {
+            "boundingBox": "764,1093,20,12",
+            "text": "of"
+        },
+        {
+            "boundingBox": "797,1093,43,12",
+            "text": "New"
+        },
+        {
+            "boundingBox": "646,1111,21,11",
+            "text": "of"
+        },
+        {
+            "boundingBox": "673,1110,43,12",
+            "text": "New"
+        },
+        {
+            "boundingBox": "727,1110,70,12",
+            "text": "Mexico"
+        },
+        {
+            "boundingBox": "916,1113,10,8",
+            "text": "a"
+        },
+        {
+            "boundingBox": "933,1109,39,15",
+            "text": "plan"
+        },
+        {
+            "boundingBox": "570,1132,10,9",
+            "text": "a"
+        },
+        {
+            "boundingBox": "662,1129,102,11",
+            "text": "overn\u2022nent."
+        },
+        {
+            "boundingBox": "771,1127,11,12",
+            "text": "E"
+        },
+        {
+            "boundingBox": "784,1131,13,8",
+            "text": "yr"
+        },
+        {
+            "boundingBox": "540,1145,55,13",
+            "text": "ceded"
+        },
+        {
+            "boundingBox": "603,1145,21,16",
+            "text": "by"
+        },
+        {
+            "boundingBox": "679,1145,54,15",
+            "text": "treaty"
+        },
+        {
+            "boundingBox": "540,1162,33,12",
+            "text": "and"
+        },
+        {
+            "boundingBox": "635,1161,45,12",
+            "text": "been"
+        },
+        {
+            "boundingBox": "695,1160,83,13",
+            "text": "adliiitted"
+        },
+        {
+            "boundingBox": "963,1163,11,8",
+            "text": "a"
+        },
+        {
+            "boundingBox": "604,1182,32,9",
+            "text": "otzr"
+        },
+        {
+            "boundingBox": "645,1182,8,8",
+            "text": "c"
+        },
+        {
+            "boundingBox": "656,1178,100,12",
+            "text": "onstitution"
+        },
+        {
+            "boundingBox": "768,1177,58,12",
+            "text": "would"
+        },
+        {
+            "boundingBox": "840,1178,44,11",
+            "text": "have"
+        },
+        {
+            "boundingBox": "896,1180,8,8",
+            "text": "a"
+        },
+        {
+            "boundingBox": "540,1196,29,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "644,1194,20,13",
+            "text": "of"
+        },
+        {
+            "boundingBox": "669,1195,89,15",
+            "text": "obtaining"
+        },
+        {
+            "boundingBox": "766,1198,22,8",
+            "text": "a.n"
+        },
+        {
+            "boundingBox": "539,1213,80,16",
+            "text": "que\u2022z.tion"
+        },
+        {
+            "boundingBox": "628,1212,20,12",
+            "text": "of"
+        },
+        {
+            "boundingBox": "653,1211,88,16",
+            "text": "boundary"
+        },
+        {
+            "boundingBox": "750,1212,40,11",
+            "text": "with"
+        },
+        {
+            "boundingBox": "869,1210,22,16",
+            "text": "by"
+        },
+        {
+            "boundingBox": "581,1229,76,12",
+            "text": "decision"
+        },
+        {
+            "boundingBox": "661,1237,3,3",
+            "text": "."
+        },
+        {
+            "boundingBox": "688,1228,25,12",
+            "text": "At"
+        },
+        {
+            "boundingBox": "721,1229,75,15",
+            "text": "present,"
+        },
+        {
+            "boundingBox": "809,1227,87,15",
+            "text": "however,"
+        },
+        {
+            "boundingBox": "909,1230,22,9",
+            "text": "no"
+        },
+        {
+            "boundingBox": "599,1245,74,13",
+            "text": "tribunal"
+        },
+        {
+            "boundingBox": "682,1245,31,12",
+            "text": "has"
+        },
+        {
+            "boundingBox": "721,1245,29,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "757,1249,58,12",
+            "text": "power"
+        },
+        {
+            "boundingBox": "821,1244,21,12",
+            "text": "of"
+        },
+        {
+            "boundingBox": "847,1244,81,12",
+            "text": "dec.idin..r"
+        },
+        {
+            "boundingBox": "935,1243,39,13",
+            "text": "that"
+        },
+        {
+            "boundingBox": "539,1267,29,12",
+            "text": "qw"
+        },
+        {
+            "boundingBox": "573,1265,16,10",
+            "text": "st"
+        },
+        {
+            "boundingBox": "596,1266,22,9",
+            "text": "on"
+        },
+        {
+            "boundingBox": "633,1262,34,12",
+            "text": "and"
+        },
+        {
+            "boundingBox": "677,1264,12,10",
+            "text": "It"
+        },
+        {
+            "boundingBox": "782,1262,26,12",
+            "text": "for"
+        },
+        {
+            "boundingBox": "816,1262,87,15",
+            "text": "Congress"
+        },
+        {
+            "boundingBox": "701,1278,27,13",
+            "text": "for"
+        },
+        {
+            "boundingBox": "741,1279,23,12",
+            "text": "its"
+        },
+        {
+            "boundingBox": "912,1277,60,12",
+            "text": "Mean-"
+        },
+        {
+            "boundingBox": "540,1296,52,13",
+            "text": "whklt.\u2022"
+        },
+        {
+            "boundingBox": "712,1297,18,11",
+            "text": "to"
+        },
+        {
+            "boundingBox": "849,1295,29,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "539,1313,79,13",
+            "text": "whether"
+        },
+        {
+            "boundingBox": "626,1314,14,11",
+            "text": "it"
+        },
+        {
+            "boundingBox": "718,1312,21,12",
+            "text": "be"
+        },
+        {
+            "boundingBox": "858,1312,58,12",
+            "text": "before"
+        },
+        {
+            "boundingBox": "538,1331,109,14",
+            "text": "adjustment"
+        },
+        {
+            "boundingBox": "654,1331,17,11",
+            "text": "to"
+        },
+        {
+            "boundingBox": "679,1329,83,12",
+            "text": "establish"
+        },
+        {
+            "boundingBox": "773,1334,11,7",
+            "text": "a"
+        },
+        {
+            "boundingBox": "557,1351,10,9",
+            "text": "e"
+        },
+        {
+            "boundingBox": "570,1348,24,14",
+            "text": "\u2022t,"
+        },
+        {
+            "boundingBox": "627,1347,46,14",
+            "text": "hich,"
+        },
+        {
+            "boundingBox": "873,1345,32,12",
+            "text": "dis."
+        },
+        {
+            "boundingBox": "908,1347,33,10",
+            "text": "rzet"
+        },
+        {
+            "boundingBox": "538,1364,82,15",
+            "text": "Cia.ured,"
+        },
+        {
+            "boundingBox": "629,1363,57,13",
+            "text": "would"
+        },
+        {
+            "boundingBox": "694,1363,101,16",
+            "text": "prueticnlly"
+        },
+        {
+            "boundingBox": "538,1382,36,12",
+            "text": "tion"
+        },
+        {
+            "boundingBox": "682,1383,16,9",
+            "text": "Lo"
+        },
+        {
+            "boundingBox": "833,1379,64,15",
+            "text": "Texa.,"
+        },
+        {
+            "boundingBox": "911,1383,18,8",
+            "text": "or"
+        },
+        {
+            "boundingBox": "932,1388,3,6",
+            "text": ","
+        },
+        {
+            "boundingBox": "948,1379,23,15",
+            "text": "by"
+        },
+        {
+            "boundingBox": "537,1398,94,16",
+            "text": "exclud;ng,"
+        },
+        {
+            "boundingBox": "639,1397,21,16",
+            "text": "it,"
+        },
+        {
+            "boundingBox": "666,1397,57,12",
+            "text": "would"
+        },
+        {
+            "boundingBox": "732,1396,60,13",
+            "text": "decide"
+        },
+        {
+            "boundingBox": "800,1397,14,12",
+            "text": "il"
+        },
+        {
+            "boundingBox": "821,1396,17,13",
+            "text": "in"
+        },
+        {
+            "boundingBox": "850,1396,32,13",
+            "text": "her"
+        },
+        {
+            "boundingBox": "1060,53,76,16",
+            "text": "opmion,"
+        },
+        {
+            "boundingBox": "1145,51,44,17",
+            "text": "suci\u2022"
+        },
+        {
+            "boundingBox": "1291,58,24,9",
+            "text": "tv,'"
+        },
+        {
+            "boundingBox": "1317,52,31,15",
+            "text": "-aid"
+        },
+        {
+            "boundingBox": "1100,72,93,16",
+            "text": "especially"
+        },
+        {
+            "boundingBox": "992,86,88,18",
+            "text": "Territory"
+        },
+        {
+            "boundingBox": "1207,89,29,13",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1318,89,34,12",
+            "text": "and"
+        },
+        {
+            "boundingBox": "1361,91,67,13",
+            "text": "protee-"
+        },
+        {
+            "boundingBox": "1038,105,18,11",
+            "text": "\"i"
+        },
+        {
+            "boundingBox": "1055,104,5,3",
+            "text": "\u2022"
+        },
+        {
+            "boundingBox": "1070,104,45,13",
+            "text": "thei.-"
+        },
+        {
+            "boundingBox": "1123,105,93,16",
+            "text": "naun\u2022.c-rpal"
+        },
+        {
+            "boundingBox": "992,121,12,11",
+            "text": "ri"
+        },
+        {
+            "boundingBox": "1008,121,32,12",
+            "text": "vc\u2022d"
+        },
+        {
+            "boundingBox": "1103,121,75,17",
+            "text": "Niexieo,"
+        },
+        {
+            "boundingBox": "1228,123,43,12",
+            "text": "it:zve"
+        },
+        {
+            "boundingBox": "991,138,86,12",
+            "text": "stul.ioned"
+        },
+        {
+            "boundingBox": "1152,141,17,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "1184,141,65,14",
+            "text": "protect"
+        },
+        {
+            "boundingBox": "1099,155,17,12",
+            "text": "IL"
+        },
+        {
+            "boundingBox": "1128,156,16,12",
+            "text": "is"
+        },
+        {
+            "boundingBox": "1346,157,38,11",
+            "text": "that"
+        },
+        {
+            "boundingBox": "1397,156,35,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1339,209,57,15",
+            "text": "treats"
+        },
+        {
+            "boundingBox": "992,225,27,9",
+            "text": "Ce\u2022E"
+        },
+        {
+            "boundingBox": "1099,239,37,13",
+            "text": "Con"
+        },
+        {
+            "boundingBox": "1140,245,52,11",
+            "text": "gress,"
+        },
+        {
+            "boundingBox": "992,259,69,12",
+            "text": "prege\u2022a.t"
+        },
+        {
+            "boundingBox": "1143,258,23,12",
+            "text": "tor"
+        },
+        {
+            "boundingBox": "1310,258,37,12",
+            "text": "into"
+        },
+        {
+            "boundingBox": "993,272,34,15",
+            "text": "ion,"
+        },
+        {
+            "boundingBox": "1099,277,10,9",
+            "text": "a"
+        },
+        {
+            "boundingBox": "1117,274,88,13",
+            "text": "condition."
+        },
+        {
+            "boundingBox": "1214,277,17,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "1243,274,36,14",
+            "text": "her."
+        },
+        {
+            "boundingBox": "1386,277,20,9",
+            "text": "an"
+        },
+        {
+            "boundingBox": "1417,278,12,9",
+            "text": "a"
+        },
+        {
+            "boundingBox": "993,288,48,13",
+            "text": "State"
+        },
+        {
+            "boundingBox": "1141,291,31,13",
+            "text": "her"
+        },
+        {
+            "boundingBox": "1180,292,83,13",
+            "text": "domestic"
+        },
+        {
+            "boundingBox": "1272,291,107,14",
+            "text": "institutions"
+        },
+        {
+            "boundingBox": "1387,295,40,8",
+            "text": "Cua-"
+        },
+        {
+            "boundingBox": "992,307,45,15",
+            "text": "trary"
+        },
+        {
+            "boundingBox": "1072,308,30,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1115,308,65,12",
+            "text": "wishes"
+        },
+        {
+            "boundingBox": "1188,309,18,12",
+            "text": "of"
+        },
+        {
+            "boundingBox": "1215,311,31,11",
+            "text": "nec"
+        },
+        {
+            "boundingBox": "1256,308,67,17",
+            "text": "people,"
+        },
+        {
+            "boundingBox": "1338,308,36,12",
+            "text": "and"
+        },
+        {
+            "boundingBox": "1381,311,47,9",
+            "text": "even"
+        },
+        {
+            "boundingBox": "991,324,68,15",
+            "text": "compel"
+        },
+        {
+            "boundingBox": "1071,324,30,13",
+            "text": "her"
+        },
+        {
+            "boundingBox": "1117,326,34,11",
+            "text": "tern"
+        },
+        {
+            "boundingBox": "1154,326,74,16",
+            "text": "porarily"
+        },
+        {
+            "boundingBox": "1244,329,18,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "1274,325,69,16",
+            "text": "comply"
+        },
+        {
+            "boundingBox": "1371,324,27,13",
+            "text": "ith"
+        },
+        {
+            "boundingBox": "1408,325,20,14",
+            "text": "it."
+        },
+        {
+            "boundingBox": "1266,343,17,12",
+            "text": "h'"
+        },
+        {
+            "boundingBox": "1285,346,14,8",
+            "text": "\u2022r"
+        },
+        {
+            "boundingBox": "1313,341,115,14",
+            "text": "constitution"
+        },
+        {
+            "boundingBox": "990,358,18,10",
+            "text": "at"
+        },
+        {
+            "boundingBox": "1015,360,21,9",
+            "text": "an"
+        },
+        {
+            "boundingBox": "1041,362,8,8",
+            "text": "v"
+        },
+        {
+            "boundingBox": "1060,357,39,13",
+            "text": "ti\u2022ne"
+        },
+        {
+            "boundingBox": "1108,358,45,13",
+            "text": "after"
+        },
+        {
+            "boundingBox": "1342,361,18,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "1366,358,33,12",
+            "text": "her"
+        },
+        {
+            "boundingBox": "1414,359,14,11",
+            "text": "i:"
+        },
+        {
+            "boundingBox": "1116,380,10,8",
+            "text": "e"
+        },
+        {
+            "boundingBox": "1127,380,11,9",
+            "text": "x"
+        },
+        {
+            "boundingBox": "1141,376,74,16",
+            "text": "p\u20ac\u2022dieynt."
+        },
+        {
+            "boundingBox": "1241,376,16,13",
+            "text": "A"
+        },
+        {
+            "boundingBox": "1260,380,21,12",
+            "text": "ny"
+        },
+        {
+            "boundingBox": "1290,380,10,8",
+            "text": "a"
+        },
+        {
+            "boundingBox": "1302,377,63,14",
+            "text": "ttcmpt"
+        },
+        {
+            "boundingBox": "1374,377,18,11",
+            "text": "to"
+        },
+        {
+            "boundingBox": "1398,376,23,11",
+            "text": "de"
+        },
+        {
+            "boundingBox": "1423,382,6,2",
+            "text": "-"
+        },
+        {
+            "boundingBox": "1023,394,17,9",
+            "text": "to"
+        },
+        {
+            "boundingBox": "1046,392,30,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1083,393,60,15",
+            "text": "pt\u2022ople"
+        },
+        {
+            "boundingBox": "1273,393,27,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1299,409,95,16",
+            "text": "peek:lidrly"
+        },
+        {
+            "boundingBox": "1163,428,33,12",
+            "text": "wi!l"
+        },
+        {
+            "boundingBox": "1308,426,20,12",
+            "text": "be"
+        },
+        {
+            "boundingBox": "991,444,21,16",
+            "text": "by"
+        },
+        {
+            "boundingBox": "1310,444,63,15",
+            "text": "right.\u2022\u2022;"
+        },
+        {
+            "boundingBox": "1387,444,41,14",
+            "text": "a-nas"
+        },
+        {
+            "boundingBox": "1183,461,34,12",
+            "text": "Elid"
+        },
+        {
+            "boundingBox": "1399,461,30,11",
+            "text": "de-"
+        },
+        {
+            "boundingBox": "1134,630,60,15",
+            "text": "patriot"
+        },
+        {
+            "boundingBox": "1196,630,39,12",
+            "text": "Eli\";"
+        },
+        {
+            "boundingBox": "1073,648,16,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "1098,647,72,12",
+            "text": "restrain"
+        },
+        {
+            "boundingBox": "1233,647,18,11",
+            "text": "in"
+        },
+        {
+            "boundingBox": "1332,650,16,7",
+            "text": "u_"
+        },
+        {
+            "boundingBox": "1191,714,36,16",
+            "text": "ting"
+        },
+        {
+            "boundingBox": "1017,730,14,12",
+            "text": "is"
+        },
+        {
+            "boundingBox": "1040,732,17,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "1232,731,18,12",
+            "text": "in"
+        },
+        {
+            "boundingBox": "1259,730,29,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1089,752,14,7",
+            "text": "e\u2022"
+        },
+        {
+            "boundingBox": "1122,747,21,12",
+            "text": "ed"
+        },
+        {
+            "boundingBox": "1152,749,16,11",
+            "text": "to"
+        },
+        {
+            "boundingBox": "1178,751,19,9",
+            "text": "us"
+        },
+        {
+            "boundingBox": "1206,747,21,16",
+            "text": "by"
+        },
+        {
+            "boundingBox": "1139,764,42,14",
+            "text": "v.\u2022iiY,"
+        },
+        {
+            "boundingBox": "1195,766,18,10",
+            "text": "at"
+        },
+        {
+            "boundingBox": "1349,765,5,10",
+            "text": "Z"
+        },
+        {
+            "boundingBox": "1403,764,26,11",
+            "text": "in-"
+        },
+        {
+            "boundingBox": "1108,781,36,12",
+            "text": "inte"
+        },
+        {
+            "boundingBox": "1151,781,29,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1256,784,20,8",
+            "text": "as;"
+        },
+        {
+            "boundingBox": "1288,784,9,8",
+            "text": "a"
+        },
+        {
+            "boundingBox": "1144,797,83,13",
+            "text": "dove-.c\u2022stic"
+        },
+        {
+            "boundingBox": "1235,797,59,17",
+            "text": "policy"
+        },
+        {
+            "boundingBox": "1302,799,19,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "1090,847,23,13",
+            "text": "fur"
+        },
+        {
+            "boundingBox": "1119,851,11,9",
+            "text": "a"
+        },
+        {
+            "boundingBox": "991,880,16,13",
+            "text": "W"
+        },
+        {
+            "boundingBox": "1009,883,71,14",
+            "text": "err.t.\u00bbry"
+        },
+        {
+            "boundingBox": "1089,885,15,8",
+            "text": "w"
+        },
+        {
+            "boundingBox": "1308,880,21,13",
+            "text": "Of"
+        },
+        {
+            "boundingBox": "1388,885,40,8",
+            "text": "new"
+        },
+        {
+            "boundingBox": "992,897,48,13",
+            "text": "Stu.l.:"
+        },
+        {
+            "boundingBox": "1049,898,19,13",
+            "text": "Of"
+        },
+        {
+            "boundingBox": "1186,897,36,13",
+            "text": "and"
+        },
+        {
+            "boundingBox": "1359,897,25,13",
+            "text": "for"
+        },
+        {
+            "boundingBox": "991,914,70,16",
+            "text": "opini.,n"
+        },
+        {
+            "boundingBox": "1069,917,7,10",
+            "text": "t"
+        },
+        {
+            "boundingBox": "1077,915,10,12",
+            "text": "h"
+        },
+        {
+            "boundingBox": "1088,917,19,10",
+            "text": "at"
+        },
+        {
+            "boundingBox": "1316,917,17,10",
+            "text": "at"
+        },
+        {
+            "boundingBox": "1382,918,11,9",
+            "text": "V"
+        },
+        {
+            "boundingBox": "1396,919,32,12",
+            "text": "\u2022\u2022r>\u2022"
+        },
+        {
+            "boundingBox": "992,948,35,16",
+            "text": "ion,"
+        },
+        {
+            "boundingBox": "1042,953,28,9",
+            "text": "are"
+        },
+        {
+            "boundingBox": "1064,965,7,13",
+            "text": "I"
+        },
+        {
+            "boundingBox": "1081,970,81,12",
+            "text": "suppose,"
+        },
+        {
+            "boundingBox": "1167,965,14,12",
+            "text": "is"
+        },
+        {
+            "boundingBox": "1278,967,17,10",
+            "text": "to"
+        },
+        {
+            "boundingBox": "1301,965,23,12",
+            "text": "ali"
+        },
+        {
+            "boundingBox": "1381,965,47,12",
+            "text": "luxve"
+        },
+        {
+            "boundingBox": "991,984,51,11",
+            "text": "cured"
+        },
+        {
+            "boundingBox": "1050,985,18,11",
+            "text": "to"
+        },
+        {
+            "boundingBox": "1136,982,82,16",
+            "text": "inquiries"
+        },
+        {
+            "boundingBox": "1224,986,22,8",
+            "text": "on"
+        },
+        {
+            "boundingBox": "1298,982,75,16",
+            "text": "subject."
+        },
+        {
+            "boundingBox": "1015,1000,72,16",
+            "text": "\u2022Socing,"
+        },
+        {
+            "boundingBox": "1096,1000,48,14",
+            "text": "then,"
+        },
+        {
+            "boundingBox": "1151,1000,38,11",
+            "text": "t.ilttt"
+        },
+        {
+            "boundingBox": "1195,998,29,13",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1232,998,80,16",
+            "text": "question"
+        },
+        {
+            "boundingBox": "1322,1003,12,8",
+            "text": "w"
+        },
+        {
+            "boundingBox": "992,1019,67,10",
+            "text": "excites"
+        },
+        {
+            "boundingBox": "1118,1016,64,17",
+            "text": "ra\u2022vinfu]"
+        },
+        {
+            "boundingBox": "1293,1016,18,11",
+            "text": "i\""
+        },
+        {
+            "boundingBox": "1317,1016,29,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "992,1037,21,8",
+            "text": "w:"
+        },
+        {
+            "boundingBox": "1016,1034,4,12",
+            "text": "i"
+        },
+        {
+            "boundingBox": "1024,1033,9,15",
+            "text": "i,"
+        },
+        {
+            "boundingBox": "1042,1034,18,12",
+            "text": "in"
+        },
+        {
+            "boundingBox": "1068,1034,29,12",
+            "text": "t_llf-\u2022"
+        },
+        {
+            "boundingBox": "1104,1033,41,15",
+            "text": "ertd,"
+        },
+        {
+            "boundingBox": "1251,1033,21,12",
+            "text": "be"
+        },
+        {
+            "boundingBox": "1361,1033,10,11",
+            "text": "i."
+        },
+        {
+            "boundingBox": "1373,1037,9,11",
+            "text": "y"
+        },
+        {
+            "boundingBox": "1051,1050,52,13",
+            "text": "vfTect"
+        },
+        {
+            "boundingBox": "1111,1050,21,13",
+            "text": "Of"
+        },
+        {
+            "boundingBox": "1206,1049,117,17",
+            "text": "ir.depende.a@"
+        },
+        {
+            "boundingBox": "1360,1051,30,11",
+            "text": "the"
+        },
+        {
+            "boundingBox": "992,1068,36,12",
+            "text": "tioa"
+        },
+        {
+            "boundingBox": "1034,1068,22,12",
+            "text": "or"
+        },
+        {
+            "boundingBox": "1061,1068,94,16",
+            "text": "Congress."
+        },
+        {
+            "boundingBox": "1162,1066,7,13",
+            "text": "I"
+        },
+        {
+            "boundingBox": "1176,1066,51,16",
+            "text": "again"
+        },
+        {
+            "boundingBox": "1236,1067,65,12",
+            "text": "submit"
+        },
+        {
+            "boundingBox": "1310,1069,17,10",
+            "text": "t.)"
+        },
+        {
+            "boundingBox": "992,1085,40,12",
+            "text": "donu"
+        },
+        {
+            "boundingBox": "1041,1085,28,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1078,1085,26,16",
+            "text": "pol"
+        },
+        {
+            "boundingBox": "1108,1085,26,15",
+            "text": "icy"
+        },
+        {
+            "boundingBox": "1143,1083,134,13",
+            "text": "reconunenlier.l"
+        },
+        {
+            "boundingBox": "1289,1084,19,12",
+            "text": "in"
+        },
+        {
+            "boundingBox": "1320,1087,17,8",
+            "text": "111"
+        },
+        {
+            "boundingBox": "1339,1088,9,11",
+            "text": "y"
+        },
+        {
+            "boundingBox": "993,1106,85,12",
+            "text": "message,"
+        },
+        {
+            "boundingBox": "1120,1101,83,15",
+            "text": "awaiting"
+        },
+        {
+            "boundingBox": "1214,1101,31,12",
+            "text": "t_he"
+        },
+        {
+            "boundingBox": "993,1119,20,12",
+            "text": "of"
+        },
+        {
+            "boundingBox": "1019,1119,51,12",
+            "text": "those"
+        },
+        {
+            "boundingBox": "1079,1122,68,10",
+            "text": "causes,"
+        },
+        {
+            "boundingBox": "1156,1117,44,13",
+            "text": "belie"
+        },
+        {
+            "boundingBox": "1202,1117,42,15",
+            "text": "vinct"
+        },
+        {
+            "boundingBox": "1299,1122,14,7",
+            "text": "v.'"
+        },
+        {
+            "boundingBox": "1317,1122,9,8",
+            "text": "c"
+        },
+        {
+            "boundingBox": "993,1141,8,7",
+            "text": "a"
+        },
+        {
+            "boundingBox": "1005,1136,37,12",
+            "text": "void"
+        },
+        {
+            "boundingBox": "1094,1136,75,11",
+            "text": "creation"
+        },
+        {
+            "boundingBox": "1184,1134,22,13",
+            "text": "Of"
+        },
+        {
+            "boundingBox": "1357,1135,71,15",
+            "text": "partQ\u2022s,"
+        },
+        {
+            "boundingBox": "1034,1156,62,10",
+            "text": "secure"
+        },
+        {
+            "boundingBox": "1239,1153,19,11",
+            "text": "ot-"
+        },
+        {
+            "boundingBox": "993,1174,39,9",
+            "text": "sar\u2022.\u2022"
+        },
+        {
+            "boundingBox": "1275,1168,20,12",
+            "text": "of"
+        },
+        {
+            "boundingBox": "1304,1173,9,7",
+            "text": "o"
+        },
+        {
+            "boundingBox": "1316,1173,10,7",
+            "text": "e:"
+        },
+        {
+            "boundingBox": "1328,1173,7,8",
+            "text": "r"
+        },
+        {
+            "boundingBox": "1350,1169,77,15",
+            "text": "political"
+        },
+        {
+            "boundingBox": "993,1191,18,9",
+            "text": "s;"
+        },
+        {
+            "boundingBox": "1014,1189,50,11",
+            "text": "stem."
+        },
+        {
+            "boundingBox": "1210,1190,19,8",
+            "text": "as"
+        },
+        {
+            "boundingBox": "1356,1186,3,11",
+            "text": "i"
+        },
+        {
+            "boundingBox": "1362,1190,14,10",
+            "text": "s,"
+        },
+        {
+            "boundingBox": "993,1204,29,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1028,1203,129,13",
+            "text": "remembrance"
+        },
+        {
+            "boundingBox": "1230,1203,19,11",
+            "text": "ha"
+        },
+        {
+            "boundingBox": "1338,1204,5,10",
+            "text": "t"
+        },
+        {
+            "boundingBox": "1346,1202,21,12",
+            "text": "h\""
+        },
+        {
+            "boundingBox": "1018,1225,26,12",
+            "text": "pre"
+        },
+        {
+            "boundingBox": "1049,1222,38,11",
+            "text": "sent"
+        },
+        {
+            "boundingBox": "1199,1219,34,13",
+            "text": "arid"
+        },
+        {
+            "boundingBox": "1246,1219,29,13",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1051,1237,33,13",
+            "text": "and"
+        },
+        {
+            "boundingBox": "1091,1237,101,16",
+            "text": "prospezity,"
+        },
+        {
+            "boundingBox": "1196,1240,30,9",
+            "text": "eve"
+        },
+        {
+            "boundingBox": "1227,1240,21,13",
+            "text": "T.v"
+        },
+        {
+            "boundingBox": "1256,1236,63,12",
+            "text": "dicta'\u20ac'"
+        },
+        {
+            "boundingBox": "992,1259,53,12",
+            "text": "every"
+        },
+        {
+            "boundingBox": "1130,1254,20,12",
+            "text": "of"
+        },
+        {
+            "boundingBox": "1192,1258,17,10",
+            "text": "v,"
+        },
+        {
+            "boundingBox": "1258,1257,41,8",
+            "text": "ever"
+        },
+        {
+            "boundingBox": "1302,1258,9,7",
+            "text": "v"
+        },
+        {
+            "boundingBox": "1103,1271,41,12",
+            "text": "te\u2022rid"
+        },
+        {
+            "boundingBox": "1157,1272,17,11",
+            "text": "too"
+        },
+        {
+            "boundingBox": "1184,1271,5,11",
+            "text": "i"
+        },
+        {
+            "boundingBox": "1221,1271,27,11",
+            "text": "\u2022ire"
+        },
+        {
+            "boundingBox": "1375,1269,52,13",
+            "text": "d.\u2022v.s\u2022-"
+        },
+        {
+            "boundingBox": "992,1289,11,12",
+            "text": "ti"
+        },
+        {
+            "boundingBox": "1085,1288,33,12",
+            "text": "ami"
+        },
+        {
+            "boundingBox": "1376,1291,9,8",
+            "text": "a"
+        },
+        {
+            "boundingBox": "1287,1304,57,12",
+            "text": "which"
+        },
+        {
+            "boundingBox": "992,1322,28,12",
+            "text": "tile"
+        },
+        {
+            "boundingBox": "1024,1326,6,8",
+            "text": "r"
+        },
+        {
+            "boundingBox": "1156,1325,18,9",
+            "text": "or"
+        },
+        {
+            "boundingBox": "1185,1321,10,11",
+            "text": "i."
+        },
+        {
+            "boundingBox": "1262,1321,22,12",
+            "text": "its"
+        },
+        {
+            "boundingBox": "1201,1355,21,12",
+            "text": "of"
+        },
+        {
+            "boundingBox": "1229,1355,29,12",
+            "text": "the"
+        },
+        {
+            "boundingBox": "1267,1354,61,16",
+            "text": "people"
+        },
+        {
+            "boundingBox": "1173,1389,57,17",
+            "text": "Jan."
+        },
+        {
+            "boundingBox": "1240,1389,38,20",
+            "text": "21,"
+        }
+    ],
+    "ocr_analyse_results": [
+        {
+            "response": true,
+            "ocr": "N. V. J Ail _ 22. MF,SSAGE. the Ifouse of J?.eprcsentatives f the Sir.ztcs; to the Co \u2022if bo.iy, I inst, asked for 'by into ome.e, I found military r: Of the department of California the functions of civil governor in that T t.\" act tau- tr.*' t v Ot- G with- e at ' of a \" y in Territory. .Eistnrb predecessor, i r! i'i not power:' nave to the a to of treaty, in the power Of the to to as all ruat- i:' t Territories, sent to v.' hose d al.:es p ar-eornp,xuyin\u2022' to e\u00e6ver- Lvy- prop,' r i 'v 't to people T. \u2022rritorics lit y desire tint. ere\u2022r- ri comp!y requisitions of the t-\u201errn Of Stinte constitution and the so rile Conxresg, with a \u2022r CC 'r into but I at It;eipate, or author- any govern- w i tir\u2022v.t Of r...r did authorize an or to or exereige an v or over or over \u2022n y or 'd if\" Ing their institutions. or Of pro v is- prop' 'sod On t instruelio\u00bbs triven my order * p..lir:y ad- opted q \u2022\u201e..l\u00e4fi\u00bbrnia origi- with that of S tutee desirous to in the formation oi\u2022 arty gov- .:rn ment in its character, to i.e the proper sub\u00fc1itt4?d to Congress, yet it be distinctly uncle r stood t: he plan Int' st the f.hc their own deliberate c origiunte with ves, the v e. mny\u2022 to passed by Nil y supposed in ' or oi\u2022 any cense 3 in either Inenti.onod in t ation, ve\u2022 n.. on those As already st.at.oel, I have the existed I advising an early application by the these Territories for zd%Liseion States, desire wisdom patri\u2014 of Congress opp avoid- ing occasion. aud angry digaeus.uns anion g people of S: at.e:,. U toe very the right of at:d to altering independently every St-aa\u2022 general only and ex\u2022 get in the t: \u2022e Q.] State* - e sively to the respectiva\u2022 de: signed or expected to become top.eg tional agitxtion- Still, under coast.'- tutic,n, \u2022russ has power to rules and Ter- ritories of the States, every ac\u2022 quisitioa ' ferritory t:ury se\u2022cvaudc\u2022 prev.' \u2022 Stutes not be that \u2022I'i.._\u2022 this v e passed; Liae_ in Lervul, \u2022 u y t admission \u2022 erriL by \u2022\u2022,loxieo as it a tnat. wili t.' an U these ciceutirstun.cf\u2022g, still think, it Wag to it tl.t_\u2022 powsr Of of *States, al! the pni.!ie It und.:rstood that peopl.\u2022 the tern part huvt\u2022 t u and will the. to : \u2022y tar a Stut.e. their IL:' rt., in not nciopted very in expression wishet-:, ueh tending to this pro- by the Sent my \u2014 were in active: progress before re ue,lved C al it; 1.1. e Etittat.ior. to be fi,und be in the requi- Bit-ious of constitution the tJ nated I earnestly that it part not included i\" the proposed Stat\"\u2022 of believed t\" Le uninhabited, c' xeept in a cur country n Len i r. the viein:ty Of Salt Lake. A claim been the S tnte Of Texas to very portion he most pop. ulous district Ote errit.,ry, cortitnonl_v by of New of New Mexico a plan a overn\u2022nent. E yr ceded by treaty and been adliiitted a otzr c onstitution would have a the of obtaining a.n que\u2022z.tion of boundary with by decision . At present, however, no tribunal has the power of dec.idin..r that qw st on and It for Congress for its Mean- whklt.\u2022 to the whether it be before adjustment to establish a e \u2022t, hich, dis. rzet Cia.ured, would prueticnlly tion Lo Texa., or , by exclud;ng, it, would decide il in her opmion, suci\u2022 tv,' -aid especially Territory the and protee- \"i \u2022 thei.- naun\u2022.c-rpal ri vc\u2022d Niexieo, it:zve stul.ioned to protect IL is that the treats Ce\u2022E Con gress, prege\u2022a.t tor into ion, a condition. to her. an a State her domestic institutions Cua- trary the wishes of nec people, and even compel her tern porarily to comply ith it. h' \u2022r constitution at an v ti\u2022ne after to her i: e x p\u20ac\u2022dieynt. A ny a ttcmpt to de - to the pt\u2022ople the peek:lidrly wi!l be by right.\u2022\u2022; a-nas Elid de- patriot Eli\"; to restrain in u_ ting is to in the e\u2022 ed to us by v.\u2022iiY, at Z in- inte the as; a dove-.c\u2022stic policy to fur a W err.t.\u00bbry w Of new Stu.l.: Of and for opini.,n t h at at V \u2022\u2022r>\u2022 ion, are I suppose, is to ali luxve cured to inquiries on subject. \u2022Socing, then, t.ilttt the question w excites ra\u2022vinfu] i\" the w: i i, in t_llf-\u2022 ertd, be i. y vfTect Of ir.depende.a@ the tioa or Congress. I again submit t.) donu the pol icy reconunenlier.l in 111 y message, awaiting t_he of those causes, belie vinct v.' c a void creation Of partQ\u2022s, secure ot- sar\u2022.\u2022 of o e: r political s; stem. as i s, the remembrance ha t h\" pre sent arid the and prospezity, eve T.v dicta'\u20ac' every of v, ever v te\u2022rid too i \u2022ire d.\u2022v.s\u2022- ti ami a which tile r or i. its of the people Jan. 21,",
+            "word_accuracy": 81.05,
+            "char_accuracy": 69.49,
+            "total_words": 892,
+            "not_found": 169,
+            "errors": "_,SSAGE,Ifouse,J?.eprcsentatives,Sir.ztcs,\u2022if,bo.iy,ome.e,tau-,Ot-,with-,.Eistnrb,ruat-,al.:es,eornp,xuyin\u2022,e\u00e6ver-,Lvy-,\u2022rritorics,ere\u2022r-,comp!y,t-\u201errn,Stinte,Conxresg,\u2022r,It;eipate,author-,govern-,tir\u2022v.t,exereige,\u2022n,instruelio\u00bbs,triven,ad-,\u2022\u201e,l\u00e4fi\u00bbrnia,origi-,oi\u2022,gov-,.:rn,sub\u00fc1itt4?d,f.hc,origiunte,mny\u2022,oi\u2022,Inenti.onod,ve\u2022,st.at.oel,zd%Liseion,avoid-,digaeus.uns,at.e,aa\u2022,ex\u2022,\u2022e,sively,respectiva\u2022,top.eg,agitxtion-,'-,tutic,\u2022russ,Ter-,ritories,ac\u2022,quisitioa,ferritory,se\u2022cvaudc\u2022,Stutes,\u2022I'i,_\u2022,Liae,_,Lervul,erriL,\u2022\u2022,loxieo,ciceutirstun.cf\u2022g,tl.t_\u2022,powsr,pni.!ie,und.:rstood,peopl.\u2022,huvt\u2022,\u2022y,Stut.e,nciopted,wishet-,Etittat.ior,requi-,tJ,Stat\"\u2022,xeept,viein,tnte,Ote,errit,,ry,cortitnonl_v,overn\u2022nent,adliiitted,otzr,onstitution,a.n,que\u2022z.tion,dec.idin,Mean-,whklt.\u2022,\u2022t,rzet,Cia.ured,prueticnlly,exclud;ng,opmion,suci\u2022,-aid,protee-,thei.-,naun\u2022.c,rpal,vc\u2022d,Niexieo,zve,stul.ioned,Ce\u2022E,prege\u2022a.t,Cua-,trary,porarily,\u2022r,ti\u2022ne,p\u20ac\u2022dieynt,ttcmpt,pt\u2022ople,lidrly,wi!l,right.\u2022\u2022,Elid,de-,_,e\u2022,v.\u2022iiY,dove-.c\u2022stic,err.t,\u00bbry,Stu.l,opini,,n,\u2022\u2022r>\u2022,luxve,\u2022Socing,t.ilttt,ra\u2022vinfu,t_llf-\u2022,ertd,vfTect,ir.depende.a@,tioa,donu,reconunenlier.l,t_he,vinct,partQ\u2022s,ot-,sar\u2022.\u2022,prospezity,dicta'\u20ac,te\u2022rid,\u2022ire,d.\u2022v.s\u2022-",
+            "total_chars": 3379,
+            "total_chars_of_error_words": 1031
+        }
+    ],
+    "output_id": "Deseret_News_1850_06_15_Page_2"
+}

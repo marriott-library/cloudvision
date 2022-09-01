@@ -1,0 +1,92 @@
+#library-covid-alert {
+    background-color: #fff;
+    height: 4rem;
+    padding: 0 1.5em;
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+#library-covid-alert a {
+	color: #AE312B;
+	text-decoration: none;
+}
+.u-alert-icon {
+    flex-shrink: 0;
+    margin: 0 1em 0 0;
+    width: 1.75em;
+}
+.u-alert-icon img {
+    width: 100%;
+}
+.u-alert-text {
+    color: #AE312B;
+    font: bold 1.6em 'Open Sans', sans-serif;
+    line-height: 1em;
+    margin: 0;
+    text-align: center;
+    text-transform: uppercase;
+	letter-spacing: -.03em;
+}
+#library-covid-alert .badge {
+	font: bold 1.6em 'Open Sans', sans-serif;
+    display: inline-block;
+    padding: .25em .4em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+	font-size: 17px;
+	margin-left: 20px;
+}
+.red-phase {
+	color: #fff;
+	background: rgb(170,32,46);
+	background: linear-gradient(180deg, rgba(170,32,46,1) 0%, rgba(214,47,47,1) 100%);
+}
+.orange-phase {
+	color: #fff;
+	background: rgb(244,85,58);
+	background: -webkit-linear-gradient(270deg, rgba(244,85,58,1) 0%, rgba(252,162,48,1) 100%);
+	background: -o-linear-gradient(270deg, rgba(244,85,58,1) 0%, rgba(252,162,48,1) 100%);
+	background: linear-gradient(to 270deg, rgba(244,85,58,1) 0%, rgba(252,162,48,1) 100%);
+}
+.yellow-phase {
+	color: #fff;
+	background: rgb(245,156,41);
+	background: -webkit-linear-gradient(270deg, rgba(245,156,41,1) 0%, rgba(248,196,67,1) 100%);
+	background: -o-linear-gradient(270deg, rgba(245,156,41,1) 0%, rgba(248,196,67,1) 100%);
+	background: linear-gradient(to 270deg, rgba(245,156,41,1) 0%, rgba(248,196,67,1) 100%);
+}
+.green-phase {
+	color: #fff;
+	background: rgb(214,223,63);
+	background: -webkit-linear-gradient(270deg, rgba(214,223,63,1) 0%, rgba(105,165,58,1) 100%);
+	background: -o-linear-gradient(270deg, rgba(214,223,63,1) 0%, rgba(105,165,58,1) 100%);
+	background: linear-gradient(to 270deg, rgba(214,223,63,1) 0%, rgba(105,165,58,1) 100%);
+}
+@media (max-width: 600px) {
+	.u-alert-text {
+		font-size: 1.2em;
+		text-align: left;
+	}
+	.u-alert-icon {
+		width: 1.2em;
+	}
+	#library-covid-alert .badge {
+		font-size: .8em;
+	}
+}
+@media (max-width: 411px) {
+	.u-alert-icon {
+		display: none;
+	}
+	.u-alert-text {
+		font-size: 1em;
+	}
+}

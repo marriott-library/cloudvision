@@ -1,0 +1,244 @@
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cloudvision</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/bootstrap.min.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/flexslider.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/fontawesome-all.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/marriott.css' %}">
+    <style>
+        .logout {
+            float:right;  
+            padding-right: 5px;
+            font-size:15;
+        }
+
+    </style>
+</head>
+<body>
+<body>
+<header>
+    <a id="skip" class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+    <!-- Start Main Nav  -->
+    <div id="Mnav">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="navbar navbar-expand-lg navbar-light"><a class="navbar-brand"
+                                                                            href="https://lib.utah.edu/"><img
+                            src="{% static 'mlib-theme/images/marriott-library-logo.png' %}"
+                            alt="Marriott Library Logo"></a>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Main Nav -->
+</header>
+
+<div class="ml-breadcrumb">
+    <div class="container">
+        <a class="badge badge-secondary logout" href="/logout/" style="margin-top:5">Logout</a>
+        <ul class="breadcrumb">
+            <li class="icon-angle-double-right"><a href="/oai/">OAI</a></li>
+            <li class="icon-angle-double-right"><a href="/import/">Import</a></li>
+            <li class="icon-angle-double-right"><a href="/results/">Results</a></li>
+        </ul>
+    </div>
+</div>
+<!-- Start Main Content -->
+
+{% block content %}
+
+<form id="modifySingleTag" name="ModifiedSingletag" method="post"
+      style="padding-left: 25%;    padding-right: 25%;    padding-top: 15px;    padding-bottom: 0px;"> {% csrf_token %}
+    <h3>Welcome</h3>
+    
+    <div class="form-group">
+        <label for="oai-endpoint" class="col-2 col-form-label">OAI Endpoint</label>
+        <div class="col-10">
+            <input id="oai-endpoint" class="form-control" type="string" name="Base URI" style="width:30%;" ;></input>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="form-group">
+          <label for="sets">Sets</label>
+          <select id="sets" class="form-control-sm custom-select" name="sets">
+            <option selected disabled>Choose a Set</option>
+          </select>
+        </div>
+      </div>
+
+        <script src="{% static 'mlib-theme/js/jquery.js' %}"></script>
+        <script>
+            $("#oai-endpoint").change(function () {
+                const oai_endpoint = $(this).val();  // get the selected subject ID from the HTML dropdown list
+                $('#modifyButton').prop('disabled', false);
+                $.ajax({                       // initialize an AJAX request
+                    type: "POST",
+                    url: '{% url "ajax_load_sets" %}',
+                    data: {
+                        'oai_endpoint': oai_endpoint,       // add the country id to the POST parameters
+                        'csrfmiddlewaretoken':$('input[name=csrfmiddlewaretoken]').val(),
+                    },
+                    success: function (data) {   // `data` is from `get_topics_ajax` view function
+                        let html_data = '<option value="">---------</option>';
+
+                        // console.log("\n")
+                        // console.log(data)
+
+                        for (const key in data) {
+                            html_data += `<option value="${key}">${data[key]}</option>`
+                        }
+                        $("#sets").html(html_data); // replace the contents of the topic input with the data that came from the server
+                    }
+                });
+            });
+            //Submit Metadata Download Request via Ajax call
+            $('#modifySingleTag').on('submit',function(e){
+                e.preventDefault();
+                download_tsv();
+            });
+
+//Submit OCR Request via Ajax call
+function download_tsv(){
+url = "{{ request.scheme }}://{{ request.get_host }}/oai/";
+var csrftoken = $('input[name="csrfmiddlewaretoken"]').val();
+var formData = new FormData(document.getElementById('modifySingleTag'));
+formData.append('Modifytag', 'downloadData');
+
+$.ajax({
+    url: url,
+    method : 'POST',
+    data: formData,
+    headers: {
+        'X-CSRFToken': csrftoken
+    },
+    contentType: false,
+    cache: false,
+    processData:false,
+    beforeSend: function(){
+        $('span[name="OCRButton"]').prop("style", "display:block");
+        $('#modifyButton').prop('disabled', true);
+        },
+    success: function(data){
+        //Download TSV file
+        const a = document.createElement("a");
+        document.body.appendChild(a);
+        a.style = "display: none";
+        const blob = new Blob([data], {type: "octet/stream"}),
+            url = window.URL.createObjectURL(blob);
+        a.href = url;
+        a.download = $('#sets').val()+".tsv";
+        a.click();
+        window.URL.revokeObjectURL(url);
+        },
+    complete: function(){
+        $('span[name="OCRButton"]').prop("style", "display:none");
+        $('#modifyButton').prop('disabled', false);
+        }
+});
+}
+
+        </script>
+
+    <div class="col-md-6">
+    <div class="form-group">
+        <label for="Records">Records</label>
+        <select id="records" class="form-control-sm custom-select" name="records">
+        <option selected disabled>Choose a Set of Records</option>
+        </select>
+    </div>
+    </div>
+        <script>
+            $("#sets").change(function () {
+                const set_name = $(this).val();  // get the selected subject ID from the HTML dropdown list
+                $.ajax({                       // initialize an AJAX request
+                    type: "POST",
+                    url: '{% url "ajax_load_records" %}',
+                    data: {
+                        'set_name': set_name,       // add the country id to the POST parameters
+                        'csrfmiddlewaretoken':$('input[name=csrfmiddlewaretoken]').val(),
+                    },
+                    success: function (data) {   // `data` is from `get_topics_ajax` view function
+                        let html_data = '<option value="">---------</option>';
+
+                        // console.log("\n")
+                        // console.log(data)
+
+                        for (const key in data) {
+                            html_data += `<option value="${data[key]}">${data[key]}</option>`
+                        }
+                        $("#records").html(html_data); // replace the contents of the topic input with the data that came from the server
+                    }
+                });
+            });
+        </script>
+
+<div class="buttons" style="padding-bottom: 10px;">
+    <button id="modifyButton" name="Modifytag" type="submit" class="btn btn-primary" title=""
+            value="downloadData" disabled>Download Metadata
+            <span class="spinner-border spinner-border-sm" name="OCRButton" style="display:none">
+            </span>
+    </button>
+</div>
+
+</form>
+
+<form id="goToNext" name="nextPageButton" method="post"
+      style="padding-left: 25%; padding-right: 25%; padding-top: 1px; padding-bottom: 5px;">
+      <div class="buttons" style="padding-bottom: 30px;"> {% csrf_token %}
+        <button id="modifyButton" name="Modifytag" type="submit" class="btn btn-primary" title=""
+                value="nextPage">Next Page
+        </button>
+    </div>
+</form>
+
+{% endblock %}
+
+
+<!--End mine -->
+
+<!--define loading spinner and fixed header in table-->
+<style>
+.loading{
+  width: 100%;
+  padding: 1%;
+  padding-top:10%;
+  position: absolute;
+  z-index: 99;
+  text-align: center;
+}
+
+.tableFixHead          { overflow-y: auto; height: 100px; }
+.tableFixHead thead th { position: sticky; top: 0; }
+
+/* Just common table stuff. Really. */
+table  { border-collapse: collapse; width: 100%; }
+th, td { padding: 8px 16px; }
+th     { background:#eee; }
+
+</style>
+<script>
+
+</script>
+<!-- End Main Content -->
+<!-- Start Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col"><img
+                    src="{% static 'mlib-theme/images/marriottLibrary-logo-footer.png' %}"
+                    alt="Marriott Library Logo"></div>
+        </div>
+    </div>
+</footer><!-- End Footer -->
+
+
+</body>
+
+
+</body>
+</html>

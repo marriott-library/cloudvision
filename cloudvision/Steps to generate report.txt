@@ -1,0 +1,9 @@
+1. get collection info
+2. download pdf file from collections and place it under "container-data/pdfs" folder
+3. create tsv file named with "item.tsv" and put file_location field value with http://localhost:8000/data/pdfs/item.pdf
+4. Import tsv file in docker instance and run with one of the framework
+5. rename and upload ocr_data.zip file to framework name.
+6. create "pdfs" folder in drive and places pdfs in 
+7. search job in jobs and retrieve all jsons files and put under "test" folder and run "python .\ocr_result_analyze.py
+"
+8. export tsv file from id search in collections and place under "original_tsv" and run "python .\plain_text_ocr_analyze.py"

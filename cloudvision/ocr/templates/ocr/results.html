@@ -1,0 +1,249 @@
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cloudvision</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/bootstrap.min.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/flexslider.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/fontawesome-all.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'mlib-theme/css/marriott.css' %}">
+    <style>
+         .logout {
+            float:right;
+            padding-right: 5px;
+            font-size:15;
+        }
+
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<header>
+    <a id="skip" class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+    <!-- Start Main Nav  -->
+    <div id="Mnav">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="navbar navbar-expand-lg navbar-light"><a class="navbar-brand"
+                                                                            href="https://lib.utah.edu/"><img
+                            src="{% static 'mlib-theme/images/marriott-library-logo.png' %}"
+                            alt="Marriott Library Logo"></a>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Main Nav -->
+</header>
+<!-- Start Main Content -->
+
+<div class="ml-breadcrumb">
+    <div class="container">
+        <a class="badge badge-secondary logout" href="/logout/" style="margin-top:5">Logout</a>
+        <ul class="breadcrumb">
+            <li class="icon-angle-double-right"><a href="/oai/">OAI</a></li>
+            <li class="icon-angle-double-right"><a href="/import/">Import</a></li>
+            <li class="icon-angle-double-right"><a href="/results/">Results</a></li>
+        </ul>
+    </div>
+</div>
+
+{% block content %}
+
+<div class="container mb-3">
+<div class="row">
+
+<!--Database Data-->
+
+    <div id="format-box" style="height:100%; width:100%; margin-bottom:5%;">
+    <div style=''>
+          <table class="table table-bordered" style="width:100%">
+              <thead>
+                  <tr>
+                      <th><a >Last Activity</a></th>
+                      <th><a >Input File</a></th>
+                      <th><a >Azure</a></th>
+                      <th><a >Google Vision</a></th>
+                      <th><a>Tesseract</a></th>
+                      <!--TODO: add AWS here-->
+                  </tr>
+              </thead>
+              <tbody>
+              {% for value in jobs|dictsortreversed:"last_updated" %}
+              <tr>
+                <!--Last update-->
+                <td>{{value.last_updated}}</td>
+                <!--Input File Name-->
+                <td>{{value.name}}</td>
+                <!--Azure-->
+                <td>
+                  {% if value.Azures|length > 0 %}
+                    <p>
+                                <a class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse_for_{{forloop.counter0}}_azures" aria-expanded="false" aria-controls="collapse_for_{{forloop.counter0}}_azures">
+                                  View {{value.Azures|length}} Jobs
+                                </a>
+                    </p>
+                    <div class="collapse" id="collapse_for_{{forloop.counter0}}_azures">
+                        {% for azure in value.Azures|dictsort:"created" %}
+                          <p>
+                            <a href="{% url 'results' azure.id %}" class="btn btn-link" type="button">
+                            Job {{ azure.created }}
+                            {% if forloop.last %}
+                            (latest)
+                            {% endif%}
+                          </a>
+                        </p>
+                        {% endfor %}
+                    </div>
+                  {% else%}
+                  <p>
+                      <form method="post">
+                        <input name="input_file" type="hidden" value="{{value.name}}"/ >
+                        <input name="action" type="hidden" value="azure"/ >
+                        <button class="btn btn-link" type="submit">
+                          Quick Run
+                        </button>
+                        {% csrf_token %}
+                      </form>
+                  </p>
+                  {% endif %}
+                </td>
+                <!--Google Vision-->
+                <td>
+                  {% if value.Google_Visions|length > 0 %}
+                    <p>
+                                <a class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse_for_{{forloop.counter0}}_google_visions" aria-expanded="false" aria-controls="collapse_for_{{forloop.counter0}}_google_visions">
+                                  View {{value.Google_Visions|length}} Jobs
+                                </a>
+                    </p>
+                    <div class="collapse" id="collapse_for_{{forloop.counter0}}_google_visions">
+                        {% for google_vision in value.Google_Visions|dictsort:"created" %}
+                          <p>
+                            <a href="{% url 'results' google_vision.id %}" class="btn btn-link" type="button">
+                            Job {{ google_vision.created }}
+                            {% if forloop.last %}
+                            (latest)
+                            {% endif%}
+                          </a>
+                        </p>
+                        {% endfor %}
+                    </div>
+                  {% else%}
+                  <p>
+                    <form method="post">
+                      <input name="input_file" type="hidden" value="{{value.name}}"/ >
+                      <input name="action" type="hidden" value="google_vision"/ >
+                      <button class="btn btn-link" type="submit">
+                        Quick Run
+                      </button>
+                      {% csrf_token %}
+                    </form>
+                  </p>
+                  {% endif %}
+                </td>
+                <!--Tesseract-->
+                <td>
+                  {% if value.Tesseracts|length > 0 %}
+                    <p>
+                                <a class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse_for_{{forloop.counter0}}_tesseracts" aria-expanded="false" aria-controls="collapse_for_{{forloop.counter0}}_tesseracts">
+                                  View {{value.Tesseracts|length}} Jobs
+                                </a>
+                    </p>
+                    <div class="collapse" id="collapse_for_{{forloop.counter0}}_tesseracts">
+                        {% for tesseract in value.Tesseracts|dictsort:"created" %}
+                          <p>
+                            <a href="{% url 'results' tesseract.id %}" class="btn btn-link" type="button">
+                            Job {{ tesseract.created }}
+                            {% if forloop.last %}
+                            (latest)
+                            {% endif%}
+                          </a>
+                        </p>
+                        {% endfor %}
+                    </div>
+                  {% else%}
+                  <p>
+                    <form method="post">
+                      <input name="input_file" type="hidden" value="{{value.name}}"/ >
+                      <input name="action" type="hidden" value="tesseract"/ >
+                      <button class="btn btn-link" type="submit">
+                        Quick Run
+                      </button>
+                      {% csrf_token %}
+                    </form>
+                  </p>
+                  {% endif %}
+                </td>
+                <!--TODO: add AWS here-->
+              </tr>
+              {% endfor %}
+
+              </tbody>
+            </table>
+    </div>
+</div>
+<!--Control Button to call functions-->
+
+
+
+
+
+{% csrf_token %}
+</div>
+</div>
+
+
+{% endblock %}
+
+
+<!--End
+
+mine -->
+
+<!--define loading spinner and fixed header in table-->
+<style>
+.loading{
+  width: 100%;
+  padding: 1%;
+  padding-top:10%;
+  position: absolute;
+  z-index: 99;
+  text-align: center;
+}
+
+.tableFixHead          { overflow-y: auto; height: 100px; }
+.tableFixHead thead th { position: sticky; top: 0; }
+
+/* Just common table stuff. Really. */
+table  { border-collapse: collapse; width: 100%; }
+th, td { padding: 8px 16px; }
+th     { background:#eee; }
+
+</style>
+
+<!-- End Main Content -->
+<!-- Start Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col"><img
+                    src="{% static 'mlib-theme/images/marriottLibrary-logo-footer.png' %}"
+                    alt="Marriott Library Logo"></div>
+        </div>
+    </div>
+</footer><!-- End Footer -->
+<script>
+var data = "{{services_list.list}}";
+data = data.replaceAll("&#x27;","\"");
+console.log(data);
+//data = JSON.parse(data);
+
+</script>
+
+</body>
+
+
+</html>
