@@ -25,7 +25,7 @@ DATA_DIR = os.path.join(BASE_DIR, 'container-data')
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'siytg_jb+3582p_*v#$f=1*je0irc6n*)@fh0mog+tdk1!u!pm'
+SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
